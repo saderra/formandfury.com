@@ -1,0 +1,42 @@
+{
+    "title": "Dr. Corinne Votaw-Freer",
+    "url": "https://corinnefreer.com",
+    "description": "I am a writer, speaker, researcher, and malcontent humanist with a doctorate in psychology. My research centers on the loneliness pandemic; the harm it causes and ways to defeat it.",
+    "logo": "https://corinnefreer.com/assets/images/logo.png",
+    "favicon": "https://corinnefreer.com/assets/favicons/favicon.ico",
+    "qletters": "LGBTQIA+",
+    "psypactstates": "45+",
+    "sidebarintro": "As a psychologist, writer, and lifelong curious traveler, I spent the first two decades of my career as a technology and marketing consultant, hopping continents and working with people from all walks of life. Those years taught me how much common ground exists between us—no matter the altitude or the time zone. Today, my work centers on strengthening the connections that make us better as individuals and as a community, while thoughtfully reexamining the traditions and assumptions that can hold us back. My goal is simple: to help people navigate life with more clarity, compassion, and purpose.",
+    "author": { 
+      "name": "Dr. Corinne Votaw-Freer",
+      "email": "corinnefreer@outlook.com",
+      "url": "https://corinnefreer.com/about"
+    },
+    "social": { 
+      "instagram": "corinnevotaw",
+      "medium": "@corinnefreer",
+      "threads": "@corinnevotaw"
+    },
+    "analytics": { 
+      "fathom": "OHYMDSEG",
+      "google": "G-ENYMXXEP07"
+    },
+    "feed": {
+      "subtitle": "Loneliness researcher and gender equity advocate.",
+      "filename": "feed.xml",
+      "path": "/feed/feed.xml",
+      "id": "https://corinnefreer.com/"
+    },
+    "jsonfeed": {
+      "path": "/feed/feed.json",
+      "url": "https://corinnefreer.com/feed/feed.json"
+    },
+    "pricing": { 
+      "session": "$215",
+      "intake": "$275",
+      "faa": "$450",
+      "family": "$225",
+      "emdr": "$215",
+      "adhd": "$1250"
+    }
+  }

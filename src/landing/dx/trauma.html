@@ -1,0 +1,724 @@
+---
+layout: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trauma & PTSD Therapy Online | Dr. Corinne Votaw-Freer, Licensed Psychologist</title>
+<meta name="description" content="Trauma and PTSD treatment online with a licensed psychologist. Evidence-based therapy including EMDR. Insurance accepted. Free 15-min consultation.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENYMXXEP07"></script>
+<script>window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-ENYMXXEP07');
+  gtag('config', 'AW-11118782788');</script>
+<script src="https://cdn.usefathom.com/script.js" data-site="OHYMDSEG" defer></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --sage: #7a9e87;
+    --sage-light: #a8c4b0;
+    --sage-dark: #4d7259;
+    --cream: #f7f3ee;
+    --warm-white: #faf8f5;
+    --charcoal: #2c2c2c;
+    --mid: #5a5a5a;
+    --soft: #8a8a8a;
+    --accent: #c4855a;
+    --border: #e2ddd7;
+    --shadow: rgba(44,44,44,0.08);
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    background: var(--warm-white);
+    color: var(--charcoal);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── TOPBAR ── */
+  .topbar {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(247,243,238,0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+    display: flex; align-items: center; justify-content: space-between;
+    height: 68px;
+  }
+  .topbar-brand {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.4rem; color: var(--charcoal);
+    text-decoration: none; letter-spacing: 0.01em;
+  }
+  .topbar-cta {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: var(--accent); color: #fff;
+    font-size: 0.95rem; font-weight: 600;
+    text-decoration: none; padding: 0.6rem 1.3rem;
+    border-radius: 100px; transition: background 0.2s, transform 0.15s;
+    white-space: nowrap;
+  }
+  .topbar-cta:hover { background: #b07348; transform: translateY(-1px); }
+
+  /* ── HERO ── */
+  .hero {
+    background: var(--cream);
+    padding: 5.5rem 2rem 4.5rem;
+    text-align: center; position: relative; overflow: hidden;
+  }
+  .hero::before {
+    content: ''; position: absolute; inset: 0;
+    background: radial-gradient(ellipse 70% 60% at 50% 0%, rgba(122,158,135,0.13) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-eyebrow {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: rgba(122,158,135,0.15); color: var(--sage-dark);
+    font-size: 0.85rem; font-weight: 600; letter-spacing: 0.08em;
+    text-transform: uppercase; padding: 0.45rem 1.1rem;
+    border-radius: 100px; margin-bottom: 1.5rem;
+    border: 1px solid rgba(122,158,135,0.3);
+  }
+  .hero-eyebrow::before { content: 'CF'; font-size: 0.5em; }
+  .hero h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(2.6rem, 5vw, 3.8rem);
+    line-height: 1.15; color: var(--charcoal);
+    max-width: 760px; margin: 0 auto 1.25rem; letter-spacing: -0.01em;
+  }
+  .hero h1 em { font-style: italic; color: var(--sage-dark); }
+  .hero-sub {
+    font-size: 1.2rem; color: var(--mid);
+    max-width: 580px; margin: 0 auto 2.5rem;
+    font-weight: 300; line-height: 1.7;
+  }
+  .hero-cta-group { display: flex; flex-direction: column; align-items: center; gap: 0.9rem; }
+  .btn-primary {
+    display: inline-flex; align-items: center; gap: 0.6rem;
+    background: var(--accent); color: #fff;
+    font-size: 1.1rem; font-weight: 600;
+    text-decoration: none; padding: 1rem 2.4rem;
+    border-radius: 100px;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 4px 20px rgba(196,133,90,0.35);
+  }
+  .btn-primary:hover { background: #b07348; transform: translateY(-2px); box-shadow: 0 8px 30px rgba(196,133,90,0.4); }
+  .btn-primary svg { flex-shrink: 0; }
+  .hero-note {
+    font-size: 0.92rem; color: var(--soft);
+    display: flex; align-items: center; gap: 0.4rem;
+  }
+  .hero-note::before { content: '✓'; color: var(--sage); font-weight: 700; }
+
+  /* ── TRUST BAR ── */
+  .trust-bar {
+    background: #fff; border-bottom: 1px solid var(--border);
+    padding: 1.2rem 2rem;
+    display: flex; align-items: center; justify-content: center;
+    gap: 2.5rem; flex-wrap: wrap;
+  }
+  .trust-item {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 0.95rem; color: var(--mid); font-weight: 500;
+  }
+  .trust-item .icon {
+    width: 22px; height: 22px;
+    background: rgba(122,158,135,0.15); border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--sage-dark); font-size: 0.7rem; font-weight: 700; flex-shrink: 0;
+  }
+
+  /* ── SECTIONS ── */
+  .section { padding: 5rem 2rem; }
+  .section-inner { max-width: 940px; margin: 0 auto; }
+  .conditions-bg { background: var(--cream); }
+  .section-label {
+    font-size: 0.8rem; font-weight: 700; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--sage-dark); margin-bottom: 0.75rem;
+  }
+  .section-title {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(2rem, 3.5vw, 2.6rem);
+    line-height: 1.2; color: var(--charcoal);
+    margin-bottom: 1.25rem; letter-spacing: -0.01em;
+  }
+
+  /* ── ABOUT SPLIT ── */
+  .about-split {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 4rem; align-items: center;
+  }
+  .about-img-wrap { position: relative; }
+  .about-img-wrap img {
+    width: 100%; border-radius: 16px; display: block;
+    object-fit: cover; aspect-ratio: 3/4; max-height: 500px;
+  }
+  .about-badge {
+    position: absolute; bottom: -18px; right: -18px;
+    background: var(--sage-dark); color: #fff;
+    padding: 1rem 1.25rem; border-radius: 12px;
+    font-size: 0.85rem; font-weight: 600; line-height: 1.4;
+    box-shadow: 0 8px 24px rgba(77,114,89,0.35);
+    text-align: center; max-width: 160px;
+  }
+  .about-badge strong { display: block; font-size: 1.4rem; font-family: 'DM Serif Display', serif; margin-bottom: 0.2rem; }
+  .about-content p { color: var(--mid); font-size: 1.05rem; line-height: 1.8; margin-bottom: 1.2rem; }
+  .about-content p:last-of-type { margin-bottom: 1.75rem; }
+  .quote-block { border-left: 3px solid var(--sage-light); padding-left: 1.25rem; margin-bottom: 2rem; }
+  .quote-block p {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.25rem; font-style: italic;
+    color: var(--charcoal); line-height: 1.5;
+  }
+
+  /* ── UNDERSTANDING TRAUMA — two col intro ── */
+  .two-col {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 3rem; align-items: start; margin-top: 2rem;
+  }
+  .two-col p { font-size: 1.05rem; color: var(--mid); line-height: 1.8; }
+
+  /* ── SYMPTOM CARDS ── */
+  .symptom-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem; margin-top: 2rem;
+  }
+  .symptom-card {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 12px; padding: 1.5rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .symptom-card:hover { border-color: var(--sage-light); box-shadow: 0 4px 16px var(--shadow); }
+  .symptom-icon {
+    font-size: 1.6rem; line-height: 1; margin-bottom: 0.6rem;
+  }
+  .symptom-card h3 { font-size: 1rem; font-weight: 600; color: var(--charcoal); margin-bottom: 0.4rem; }
+  .symptom-card p { font-size: 0.88rem; color: var(--soft); line-height: 1.6; }
+
+  /* ── TRAUMA TYPES GRID ── */
+  .treats-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem; margin-top: 2rem;
+  }
+  .treat-card {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 12px; padding: 1.35rem 1.5rem;
+    display: flex; align-items: flex-start; gap: 0.9rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .treat-card:hover { border-color: var(--sage-light); box-shadow: 0 4px 16px var(--shadow); }
+  .treat-icon {
+    width: 38px; height: 38px;
+    background: rgba(122,158,135,0.12); border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0; font-size: 1.1rem;
+  }
+  .treat-card h3 { font-size: 1rem; font-weight: 600; color: var(--charcoal); margin-bottom: 0.3rem; }
+  .treat-card p { font-size: 0.88rem; color: var(--soft); line-height: 1.5; }
+
+  /* ── BENEFITS LIST ── */
+  .benefits-list {
+    list-style: none;
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 1rem; margin-top: 2rem;
+  }
+  .benefits-list li {
+    display: flex; align-items: flex-start; gap: 0.85rem;
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 12px; padding: 1.2rem 1.35rem;
+    font-size: 1rem; color: var(--mid); line-height: 1.65;
+  }
+  .benefits-list li .check { color: var(--sage-dark); font-weight: 700; flex-shrink: 0; margin-top: 0.05rem; }
+
+  /* ── APPROACH CALLOUT ── */
+  .approach-callout {
+    background: var(--sage-dark); color: #fff;
+    border-radius: 16px; padding: 2.5rem;
+    margin-top: 2rem;
+  }
+  .approach-callout h3 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.5rem; color: #fff; margin-bottom: 0.75rem;
+  }
+  .approach-callout p { color: rgba(255,255,255,0.85); font-size: 1.05rem; line-height: 1.75; margin-bottom: 1rem; }
+  .approach-callout p:last-child { margin-bottom: 0; }
+  .approach-grid {
+    display: grid; grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem; margin-top: 1.5rem;
+  }
+  .approach-item {
+    background: rgba(255,255,255,0.1);
+    border-radius: 10px; padding: 1.25rem;
+  }
+  .approach-item h4 { font-size: 0.95rem; font-weight: 600; color: #fff; margin-bottom: 0.4rem; }
+  .approach-item p { font-size: 0.88rem; color: rgba(255,255,255,0.75); line-height: 1.6; margin-bottom: 0; }
+
+  /* ── PROCESS TIMELINE ── */
+  .timeline { margin-top: 2.5rem; display: flex; flex-direction: column; gap: 0; }
+  .timeline-item {
+    display: grid; grid-template-columns: 48px 1fr;
+    gap: 1.5rem; position: relative; padding-bottom: 2.5rem;
+  }
+  .timeline-item:last-child { padding-bottom: 0; }
+  .timeline-item:not(:last-child) .tl-line {
+    position: absolute; left: 23px; top: 48px; bottom: 0;
+    width: 2px; background: var(--border);
+  }
+  .tl-dot {
+    width: 48px; height: 48px; border-radius: 50%;
+    background: var(--sage-dark); color: #fff;
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.2rem; display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0; position: relative; z-index: 1;
+  }
+  .tl-body { padding-top: 0.6rem; }
+  .tl-body h3 { font-family: 'DM Serif Display', serif; font-size: 1.2rem; color: var(--charcoal); margin-bottom: 0.5rem; }
+  .tl-body p { font-size: 1rem; color: var(--mid); line-height: 1.75; }
+
+  /* ── INSURANCE ── */
+  .insurance-grid { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.75rem; }
+  .ins-pill {
+    background: #fff; border: 1.5px solid var(--border);
+    border-radius: 100px; padding: 0.55rem 1.3rem;
+    font-size: 0.95rem; font-weight: 500; color: var(--charcoal);
+    display: flex; align-items: center; gap: 0.5rem;
+  }
+  .ins-pill.coming { opacity: 0.55; }
+  .ins-pill .pill-icon { font-size: 0.85rem; }
+  .ins-note { font-size: 0.92rem; color: var(--soft); margin-top: 1rem; }
+
+  /* ── WHY PRIVATE ── */
+  .why-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem; }
+  .why-card { background: var(--cream); border-radius: 14px; padding: 1.85rem; }
+  .why-card.highlight { background: var(--sage-dark); color: #fff; grid-row: span 2; }
+  .why-card h3 { font-family: 'DM Serif Display', serif; font-size: 1.25rem; margin-bottom: 0.75rem; }
+  .why-card.highlight h3 { color: #fff; }
+  .why-card p { font-size: 1rem; line-height: 1.75; color: var(--mid); }
+  .why-card.highlight p { color: rgba(255,255,255,0.82); }
+
+  /* ── FORM ── */
+  .form-section {
+    background: var(--cream); padding: 5.5rem 2rem;
+    position: relative; overflow: hidden;
+  }
+  .form-section::before {
+    content: ''; position: absolute; inset: 0;
+    background: radial-gradient(ellipse 60% 80% at 50% 50%, rgba(122,158,135,0.1) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .form-inner { max-width: 600px; margin: 0 auto; position: relative; }
+  .form-header { text-align: center; margin-bottom: 2.5rem; }
+  .form-header .section-label { display: block; margin-bottom: 0.75rem; }
+  .form-header h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(2.1rem, 4vw, 2.9rem); line-height: 1.2;
+    color: var(--charcoal); margin-bottom: 0.85rem; letter-spacing: -0.01em;
+  }
+  .form-header p { font-size: 1.05rem; color: var(--mid); line-height: 1.7; }
+  .consult-form {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 20px; padding: 2.75rem;
+    box-shadow: 0 8px 40px var(--shadow);
+  }
+  .form-row { margin-bottom: 1.35rem; }
+  .form-row label { display: block; font-size: 0.92rem; font-weight: 600; color: var(--charcoal); margin-bottom: 0.5rem; }
+  .form-row label span { color: var(--accent); }
+  .form-row input, .form-row textarea {
+    width: 100%; padding: 0.9rem 1.1rem;
+    border: 1.5px solid var(--border); border-radius: 10px;
+    font-family: 'DM Sans', sans-serif; font-size: 1rem;
+    color: var(--charcoal); background: var(--warm-white);
+    transition: border-color 0.2s, box-shadow 0.2s; outline: none;
+  }
+  .form-row input:focus, .form-row textarea:focus {
+    border-color: var(--sage); box-shadow: 0 0 0 3px rgba(122,158,135,0.15); background: #fff;
+  }
+  .form-row textarea { resize: vertical; min-height: 120px; line-height: 1.6; }
+  .form-submit {
+    width: 100%; padding: 1.1rem;
+    background: var(--accent); color: #fff; border: none;
+    border-radius: 100px; font-family: 'DM Sans', sans-serif;
+    font-size: 1.05rem; font-weight: 600; cursor: pointer;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 4px 20px rgba(196,133,90,0.35);
+    display: flex; align-items: center; justify-content: center; gap: 0.5rem; margin-top: 0.5rem;
+  }
+  .form-submit:hover { background: #b07348; transform: translateY(-2px); box-shadow: 0 8px 30px rgba(196,133,90,0.4); }
+  .form-privacy { text-align: center; font-size: 0.85rem; color: var(--soft); margin-top: 1rem; }
+  .form-bottom-notes {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1.5rem; flex-wrap: wrap; margin-top: 1.75rem;
+  }
+  .form-bottom-notes span { font-size: 0.9rem; color: var(--soft); display: flex; align-items: center; gap: 0.4rem; }
+  .form-bottom-notes .check { color: var(--sage); font-weight: 700; }
+
+  /* ── FOOTER ── */
+  footer {
+    background: var(--cream); border-top: 1px solid var(--border);
+    padding: 2rem; text-align: center; font-size: 0.9rem; color: var(--soft);
+  }
+  footer a { color: var(--soft); text-decoration: none; }
+  footer a:hover { color: var(--charcoal); }
+
+  /* ── ANIMATIONS ── */
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: translateY(0); } }
+  .hero > * { animation: fadeUp 0.7s ease both; }
+  .hero .hero-eyebrow { animation-delay: 0.05s; }
+  .hero h1 { animation-delay: 0.15s; }
+  .hero .hero-sub { animation-delay: 0.25s; }
+  .hero .hero-cta-group { animation-delay: 0.35s; }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 760px) {
+    body { font-size: 16px; }
+    .about-split, .two-col, .why-grid, .approach-grid { grid-template-columns: 1fr; }
+    .about-img-wrap img { max-height: 360px; }
+    .about-badge { bottom: -14px; right: 12px; }
+    .why-card.highlight { grid-row: auto; }
+    .benefits-list { grid-template-columns: 1fr; }
+    .trust-bar { gap: 1.25rem; }
+    .topbar-brand { font-size: 1.1rem; }
+    .timeline-item { grid-template-columns: 36px 1fr; }
+    .tl-dot { width: 36px; height: 36px; font-size: 1rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- TOPBAR -->
+<header class="topbar">
+  <a href="https://corinnefreer.com/" class="topbar-brand">Dr. Corinne Votaw-Freer</a>
+  <a href="#consultation" class="topbar-cta">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+    Free Consultation
+  </a>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-eyebrow">Online Trauma &amp; PTSD Treatment &middot; Licensed Psychologist</div>
+  <h1>You survived it.<br><em>It's time to heal.</em></h1>
+  <p class="hero-sub">Specialized trauma and PTSD therapy online, with a licensed psychologist who takes your insurance &mdash; and knows how to help you actually get better, not just cope.</p>
+  <div class="hero-cta-group">
+    <a href="#consultation" class="btn-primary">
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+      Schedule Your Free Consultation
+    </a>
+    <span class="hero-note">Free 15-min call &middot; No commitment &middot; Insurance accepted</span>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <div class="trust-item"><span class="icon">✓</span> Trauma Specialist &amp; EMDR Trained</div>
+  <div class="trust-item"><span class="icon">✓</span> Licensed PsyD</div>
+  <div class="trust-item"><span class="icon">✓</span> Insurance Accepted</div>
+  <div class="trust-item"><span class="icon">✓</span> Online &mdash; AK, CO, NV &amp; TX</div>
+  <div class="trust-item"><span class="icon">✓</span> Free 15-Min Consultation</div>
+</div>
+
+<!-- ABOUT -->
+<section class="section">
+  <div class="section-inner">
+    <div class="about-split">
+      <div class="about-img-wrap">
+        <img src="https://res.cloudinary.com/dwfzevme5/image/fetch/f_auto,q_auto/https://corinnefreer.com/assets/images/corinne-final.jpg" alt="Dr. Corinne Votaw-Freer, Licensed Psychologist" loading="lazy">
+        <div class="about-badge">
+          <strong>PsyD</strong>
+          Trauma &amp;<br>PTSD<br>Specialist
+        </div>
+      </div>
+      <div class="about-content">
+        <div class="section-label">Your Trauma Therapist</div>
+        <h2 class="section-title">Hi, I&rsquo;m Corinne.</h2>
+        <div class="quote-block">
+          <p>&ldquo;Trauma doesn&rsquo;t just live in your past. It lives in your body, your reactions, your relationships &mdash; until you have the right support to process it.&rdquo;</p>
+        </div>
+        <p>I&rsquo;m a licensed psychologist offering specialized trauma and PTSD treatment online for adults and teens in Alaska, Colorado, Nevada, and Texas. I work with people who know something happened &mdash; and know they haven&rsquo;t fully moved on from it, even when they&rsquo;ve tried.</p>
+        <p>My approach combines evidence-based trauma treatments, including EMDR, to help your nervous system do what it couldn&rsquo;t do on its own: fully process what happened and return to a baseline of safety.</p>
+        <a href="#consultation" class="btn-primary">Schedule Your Free Consultation</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RECOGNIZING TRAUMA -->
+<section class="section conditions-bg">
+  <div class="section-inner">
+    <div class="section-label">Do You Recognize Yourself?</div>
+    <h2 class="section-title">Trauma shows up in more ways than people realize</h2>
+    <div class="two-col">
+      <div>
+        <p>Not everyone who has been through something traumatic walks around thinking &ldquo;I have PTSD.&rdquo; Trauma has a way of disguising itself as anxiety, hypervigilance, emotional numbness, difficulty trusting people, or just a persistent sense that something is off.</p>
+        <p>If you find yourself managing symptoms rather than actually feeling better &mdash; staying busy, staying guarded, staying one step ahead of your own emotions &mdash; that&rsquo;s worth paying attention to.</p>
+      </div>
+      <div>
+        <p>Trauma doesn&rsquo;t always come from a single dramatic event. Childhood neglect, emotionally unsafe relationships, ongoing stress, and accumulated losses can all have the same impact on the nervous system as acute trauma.</p>
+        <p>Whatever your history, if something has left a mark that still affects how you live your daily life, you deserve support that actually addresses it at the root.</p>
+      </div>
+    </div>
+    <div class="symptom-grid" style="margin-top:2.5rem;">
+      <div class="symptom-card">
+        <div class="symptom-icon">&#128248;</div>
+        <h3>Flashbacks &amp; Intrusive Memories</h3>
+        <p>Images, sensations, or memories that surface unexpectedly and pull you back into the past</p>
+      </div>
+      <div class="symptom-card">
+        <div class="symptom-icon">&#9889;</div>
+        <h3>Hypervigilance</h3>
+        <p>Feeling constantly on alert, like something bad could happen at any moment, even when you&rsquo;re safe</p>
+      </div>
+      <div class="symptom-card">
+        <div class="symptom-icon">&#128683;</div>
+        <h3>Avoidance</h3>
+        <p>Going out of your way to avoid people, places, or situations that remind you of what happened</p>
+      </div>
+      <div class="symptom-card">
+        <div class="symptom-icon">&#128065;</div>
+        <h3>Emotional Numbing</h3>
+        <p>Feeling detached, disconnected from your emotions, or unable to experience joy or closeness</p>
+      </div>
+      <div class="symptom-card">
+        <div class="symptom-icon">&#128564;</div>
+        <h3>Sleep Disruption</h3>
+        <p>Nightmares, insomnia, or difficulty staying asleep without the intrusion of distressing content</p>
+      </div>
+      <div class="symptom-card">
+        <div class="symptom-icon">&#128165;</div>
+        <h3>Irritability &amp; Reactivity</h3>
+        <p>Emotional responses that feel out of proportion, or a short fuse that wasn&rsquo;t always there</p>
+      </div>
+      <div class="symptom-card">
+        <div class="symptom-icon">&#128100;</div>
+        <h3>Negative Self-Beliefs</h3>
+        <p>Deep-seated beliefs like &ldquo;I&rsquo;m damaged,&rdquo; &ldquo;It was my fault,&rdquo; or &ldquo;I can&rsquo;t trust anyone&rdquo;</p>
+      </div>
+      <div class="symptom-card">
+        <div class="symptom-icon">&#128148;</div>
+        <h3>Relationship Difficulties</h3>
+        <p>Struggles with trust, intimacy, or a pattern of feeling unsafe with people you care about</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TYPES OF TRAUMA -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">What I Treat</div>
+    <h2 class="section-title">Trauma comes in many forms</h2>
+    <p style="color:var(--mid);font-size:1.05rem;max-width:600px;">Whether your experience was a single event or a long pattern, whether it happened last year or decades ago, trauma is treatable. Here are some of the presentations I work with most.</p>
+    <div class="treats-grid">
+      <div class="treat-card"><div class="treat-icon">&#128737;</div><div><h3>PTSD</h3><p>Diagnosable PTSD from accidents, assault, combat, disasters, or other acute traumatic events</p></div></div>
+      <div class="treat-card"><div class="treat-icon">&#127968;</div><div><h3>Childhood Trauma</h3><p>Neglect, abuse, unstable or unsafe home environments, early losses, or emotional unavailability</p></div></div>
+      <div class="treat-card"><div class="treat-icon">&#128149;</div><div><h3>Relational &amp; Attachment Trauma</h3><p>Betrayal, emotional abuse, coercive control, or repeated experiences of not being safe with people</p></div></div>
+      <div class="treat-card"><div class="treat-icon">&#128293;</div><div><h3>Complex PTSD (C-PTSD)</h3><p>Trauma that accumulated over time &mdash; often interpersonal &mdash; resulting in deeper disruptions to self and identity</p></div></div>
+      <div class="treat-card"><div class="treat-icon">&#9928;</div><div><h3>Medical Trauma</h3><p>Difficult diagnoses, medical procedures, ICU experiences, or traumatic childbirth</p></div></div>
+      <div class="treat-card"><div class="treat-icon">&#128148;</div><div><h3>Grief &amp; Traumatic Loss</h3><p>Sudden or traumatic bereavement, complicated grief, or loss that remains stuck and unresolved</p></div></div>
+      <div class="treat-card"><div class="treat-icon">&#128101;</div><div><h3>Secondary &amp; Vicarious Trauma</h3><p>Burnout and trauma responses in caregivers, first responders, and helping professionals</p></div></div>
+      <div class="treat-card"><div class="treat-icon">&#127758;</div><div><h3>Community &amp; Collective Trauma</h3><p>The lasting impact of systemic violence, displacement, discrimination, or community loss</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- TREATMENT APPROACH -->
+<section class="section conditions-bg">
+  <div class="section-inner">
+    <div class="section-label">How We Treat It</div>
+    <h2 class="section-title">Evidence-based treatment that goes beyond coping</h2>
+    <p style="color:var(--mid);font-size:1.05rem;max-width:600px;">Effective trauma treatment isn&rsquo;t about talking around what happened indefinitely. It&rsquo;s about helping your nervous system process and integrate what it wasn&rsquo;t able to at the time.</p>
+    <div class="approach-callout">
+      <h3>EMDR: The Gold Standard for Trauma Treatment</h3>
+      <p>Eye Movement Desensitization and Reprocessing (EMDR) is one of the most researched and effective treatments available for trauma and PTSD. Unlike traditional talk therapy, it doesn&rsquo;t require you to describe what happened in painful detail. Instead, it uses bilateral stimulation to help the brain finish processing experiences that got &ldquo;frozen&rdquo; in the nervous system.</p>
+      <p>I&rsquo;m EMDR trained and use it as a primary modality for trauma treatment &mdash; alongside other evidence-based approaches tailored to what you need.</p>
+      <div class="approach-grid">
+        <div class="approach-item">
+          <h4>EMDR Therapy</h4>
+          <p>Targeted memory processing using bilateral stimulation to reduce emotional charge and integrate traumatic experiences</p>
+        </div>
+        <div class="approach-item">
+          <h4>Somatic Awareness</h4>
+          <p>Working with the body&rsquo;s role in trauma &mdash; recognizing and regulating the physical responses that keep you stuck</p>
+        </div>
+        <div class="approach-item">
+          <h4>Parts-Informed Work</h4>
+          <p>Understanding the different internal responses to trauma and helping them work together rather than against each other</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- WHAT TO EXPECT -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">What Healing Looks Like</div>
+    <h2 class="section-title">What you can expect to gain</h2>
+    <p style="color:var(--mid);font-size:1.05rem;max-width:600px;">Trauma treatment isn&rsquo;t about erasing what happened. It&rsquo;s about changing the relationship you have with it &mdash; so it becomes something that happened to you, not something still happening.</p>
+    <ul class="benefits-list">
+      <li><span class="check">✓</span> Relief from flashbacks, intrusive memories, and nightmares</li>
+      <li><span class="check">✓</span> A nervous system that isn&rsquo;t constantly braced for something bad</li>
+      <li><span class="check">✓</span> Freedom from shame-based beliefs like &ldquo;I&rsquo;m broken&rdquo; or &ldquo;It was my fault&rdquo;</li>
+      <li><span class="check">✓</span> The ability to be present without being pulled back into the past</li>
+      <li><span class="check">✓</span> Healthier relationships &mdash; more trust, less reactivity, more ease</li>
+      <li><span class="check">✓</span> A clearer, more stable sense of who you are outside of what happened to you</li>
+    </ul>
+  </div>
+</section>
+
+<!-- THE PROCESS -->
+<section class="section conditions-bg">
+  <div class="section-inner">
+    <div class="section-label">How We Work Together</div>
+    <h2 class="section-title">What trauma treatment looks like, step by step</h2>
+    <p style="color:var(--mid);font-size:1.05rem;max-width:600px;">Trauma therapy isn&rsquo;t one-size-fits-all &mdash; and good trauma treatment never rushes. Here&rsquo;s how our work typically unfolds, at a pace that&rsquo;s right for you.</p>
+    <div class="timeline">
+
+      <div class="timeline-item">
+        <div class="tl-dot">1</div>
+        <div class="tl-line"></div>
+        <div class="tl-body">
+          <h3>Initial Evaluation (90 min)</h3>
+          <p>We start with a thorough intake to understand your history, how trauma is showing up in your life right now, and what you most want to change. This session gives us a shared picture of what we&rsquo;re working with &mdash; and gives you a chance to ask questions before we begin.</p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="tl-dot">2</div>
+        <div class="tl-line"></div>
+        <div class="tl-body">
+          <h3>Stabilization &amp; Foundation (4&ndash;6 Sessions)</h3>
+          <p>Before moving into trauma processing, we build a solid foundation: emotional regulation skills, grounding techniques, window of tolerance work, and a therapeutic relationship where you feel genuinely safe. This phase isn&rsquo;t filler &mdash; it&rsquo;s what makes deeper healing possible.</p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="tl-dot">3</div>
+        <div class="tl-line"></div>
+        <div class="tl-body">
+          <h3>Trauma Processing (6&ndash;12 Sessions)</h3>
+          <p>Using EMDR and other evidence-based approaches, we work through the specific memories, beliefs, and body-based responses that are keeping you stuck. You stay in control of the pace, and many clients notice meaningful shifts after even the first few processing sessions.</p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="tl-dot">4</div>
+        <div class="tl-body">
+          <h3>Integration &amp; Next Steps</h3>
+          <p>We consolidate the gains you&rsquo;ve made, address any remaining targets, and prepare you for life without the weight you came in carrying. Some clients feel complete at this stage; others choose to continue with maintenance or deeper work. There&rsquo;s no pressure either way.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- INSURANCE -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">No Surprises</div>
+    <h2 class="section-title">Insurance accepted for trauma therapy</h2>
+    <p style="color:var(--mid);font-size:1.05rem;max-width:560px;">Trauma therapy sessions are billed the same as standard therapy &mdash; which means your insurance coverage applies. I accept the following plans across Alaska, Colorado, Nevada, and Texas.</p>
+    <div class="insurance-grid">
+      <div class="ins-pill"><span class="pill-icon" style="color:#7a9e87">✓</span> Aetna</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#7a9e87">✓</span> Cigna</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#7a9e87">✓</span> Quest</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#7a9e87">✓</span> Select Health</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#7a9e87">✓</span> Carelon</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#7a9e87">✓</span> Blue Cross Blue Shield</small></div>
+      <div class="ins-pill coming"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span> United Health / Optum <small>(Coming Soon)</small></div>
+      <div class="ins-pill coming"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span> Ascension / SmartHealth <small>(Coming Soon)</small></div>
+    </div>
+    <p class="ins-note">Not sure if you&rsquo;re covered? Ask during your free consultation call &mdash; I&rsquo;m happy to help you figure it out.</p>
+  </div>
+</section>
+
+<!-- WHY PRIVATE PRACTICE -->
+<section class="section conditions-bg">
+  <div class="section-inner">
+    <div class="section-label">Why It Matters</div>
+    <h2 class="section-title">Trauma treatment requires the right therapeutic relationship</h2>
+    <div class="why-grid">
+      <div class="why-card highlight">
+        <h3>Working with me directly</h3>
+        <p>Trauma therapy isn&rsquo;t something that works well on a conveyor belt. It requires a clinician who knows your full history, can read when to go deeper and when to pull back, and has the training to hold the work safely when it gets hard. As a PsyD-level psychologist specializing in trauma, I bring the clinical depth and the continuity that effective treatment requires.</p>
+      </div>
+      <div class="why-card">
+        <h3>Why not a large platform?</h3>
+        <p>Trauma treatment requires deep continuity with a single provider who genuinely knows you. Switching therapists mid-treatment &mdash; common on large platforms &mdash; can disrupt the therapeutic relationship at the worst possible time.</p>
+      </div>
+      <div class="why-card">
+        <h3>Is online trauma therapy effective?</h3>
+        <p>Yes &mdash; research supports the effectiveness of trauma treatment and EMDR delivered via telehealth. Many clients find that the safety and familiarity of their own home actually supports the work, particularly during active processing.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FORM -->
+<section class="form-section" id="consultation">
+  <div class="form-inner">
+    <div class="form-header">
+      <span class="section-label">Get Started</span>
+      <h2>Schedule Your Free Consultation</h2>
+      <p>Fill out the form below and Corinne or a member of her team will reach out to schedule a convenient time for your complimentary 15-minute call.</p>
+    </div>
+    <div class="consult-form">
+      <form name="Dr. Freer Scheduling Form" method="POST" data-netlify="true" action="/contact/schedule-success">
+        <input type="hidden" name="form-name" value="Dr. Freer Scheduling Form">
+        <div class="form-row">
+          <label for="f-name">Your Name <span>*</span></label>
+          <input type="text" id="f-name" name="name" placeholder="Jane Smith" required>
+        </div>
+        <div class="form-row">
+          <label for="f-email">Your Email <span>*</span></label>
+          <input type="email" id="f-email" name="email" placeholder="jane@email.com" required>
+        </div>
+        <div class="form-row">
+          <label for="f-phone">Your Phone Number <span>*</span></label>
+          <input type="phone" id="f-phone" name="phone" placeholder="(720) 555-0100" required>
+        </div>
+        <div class="form-row">
+          <label for="f-message">How Can I Help?</label>
+          <textarea id="f-message" name="message" placeholder="Tell me a little about what you're hoping to work on..."></textarea>
+        </div>
+        <button type="submit" class="form-submit">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+          Continue to Schedule
+        </button>
+        <p class="form-privacy">&#128274; Your information is private and never shared.</p>
+      </form>
+    </div>
+    <div class="form-bottom-notes">
+      <span><span class="check">✓</span> Free 15-min call</span>
+      <span><span class="check">✓</span> No Commitment</span>
+      <span><span class="check">✓</span> Insurance Accepted</span>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p style="margin-bottom:0.5rem;">
+    <a href="https://corinnefreer.com/therapy/">Individual Therapy</a> &middot;
+    <a href="https://corinnefreer.com/therapy/approach/">Approach</a> &middot;
+    <a href="https://corinnefreer.com/therapy/rates-insurance/">Rates &amp; Insurance</a> &middot;
+    <a href="https://corinnefreer.com/therapy/emdr/">EMDR</a> &middot;
+    <a href="https://corinnefreer.com/contact/">Contact</a>
+  </p>
+  <p>&copy; 2026 &middot; Dr. Corinne Votaw-Freer &middot; All Rights Reserved &middot; <a href="https://corinnefreer.com/privacy/">Privacy Policy</a></p>
+</footer>
+
+</body>
+</html>

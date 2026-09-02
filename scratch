@@ -1,0 +1,459 @@
+## Pricing
+
+**Step One:** 
+90 Minute Intake Session: {{ site.pricing.intake }}
+
+**Step Two:**
+4-to-6 45 Minute Therapy Sessions: {{ site.pricing.session }}/session. 
+*These are essential to ensure resources, coping tools, and readiness to begin EMDR.*
+
+**Step Three:**
+6-to-8 60 Minute EMDR Sessions: {{ site.pricing.emdr }}/session.
+
+
+
+
+{% include "components/global/mobile-schedule.njk" %}
+
+{% if bodyClass == "therapy" %} 
+        <div class="leading-8">
+            <h2 class="{{ sbheader }}">Rates</h2>
+
+
+            <ul>
+                <li>15-Minute Consultation: No Charge</li>
+                <li>50-Minute Individual Therapy Session: {{ site.pricing.session }}</li>
+                <li>75-Minute Relationship Therapy Session: {{ site.pricing.family }}</li>
+                <li>90-Minute Intake Session {{ site.pricing.intake }}</li>
+            </ul>
+
+
+        </div>
+
+                <div class="leading-8">
+
+            <h2 class="{{ sbheader }}">Reduced Rates</h2>
+
+<p class="py-3 leading-7">Reduced rates are offered for households with a total income below $115,000 per year, 
+    or for individuals earning less than $85,000 per year. Please <a href="/contact" class=" text-purple-900 font-strong">contact me</a> for more information.</p>
+
+        </div>
+
+
+
+
+
+
+
+        {% endif %} 
+
+
+
+
+        <div>
+            <h2 class="{{ sbheader }}">Scheduling</h2>
+            {% include "components/global/appointment.njk" %}
+            </div>
+        
+
+
+
+{% include "components/section/breadcrumb.njk" %}
+
+ {% if hideSidebarForm != true %} 
+    <div>
+    <h2 class="{{ sbheader }}">Schedule Your Free Consulation</h2>
+
+    {% include "components/forms/schedule-form.njk" %}
+    
+    </div>
+    {% endif %} 
+
+
+    {% if hideSidebarForm != true %} 
+    <div>
+    <h2 class="{{ sbheader }}">Schedule Your Free Consulation</h2>
+
+    {% include "components/forms/schedule-form.njk" %}
+    
+    </div>
+    {% endif %} 
+
+
+                 <h3 class="text-xl mt-6 pb-2">Reduced Rates For Qualified Clients</h3>
+    
+
+            <ul>
+                <li>50 Minute Therapy Session: $100</li>
+                <li>75 Minute Relationship Therapy Session: $115</li>
+                <li>90 Minute Intake Session: $175</li>
+            </ul>
+
+            <p class="text-sm leading-6 py-4 text-stone-700 border-t border-stone-300 pt-5 mt-5">Reduced rates are available for households earning under $115,000 annually or individuals earning under $85,000. Spots at these rates are limited and may require a waitlist.</p>
+
+
+## Reduced Rates For Qualified Clients
+
+- Therapy Session (50 Minutes): $100
+- Family / Relationship Therapy Session (75 Minutes): $115
+- Initial/Intake Session (90 Minutes): $175
+
+Reduced rates are available for households earning under $115,000 annually or individuals earning under $85,000. Spots at these rates are limited and may require a waitlist.
+
+
+## Support for Clients with Financial Constraints
+
+For clients who are unable to pay the full rate, I offer a 50% discount to a limited number of clients. Currently, there is a 1 to 2-month waiting list for this option. To discuss your eligibility and join the waiting list, please schedule a free consultation.
+
+- Consultation (Up to 30 minutes): No Charge
+- Therapy Session (50 Minutes): $100
+- Family / Relationship Therapy Session (75 Minutes): $115
+- Initial/Intake Session (90 Minutes): $175
+
+
+Working nearly exclusively with my LGBTQ+ community, I help people eliminate old patterns that control their thoughts, beliefs, actions, and self-identity. We remove barriers that hide their natural strengths and intrinsic wonder. I lead my clients to achieve their highest potential by building their confidence and teaching them to effectively advocate for themselves.
+
+I’m Corinne, a licensed psychologist and a fervent {{ site.qletters }} affirming therapist. As a member of the {{ site.qletters }} community (LQI), I possess an intrinsic understanding of the challenges and lived experiences of the individuals I work with. I advocate for the importance of connecting with a therapist who embodies our community’s perspectives, believing that this alignment is crucial for effective therapeutic outcomes. These connections foster stronger bonds and minimize the potential for bias or misunderstandings that might arise with cisgender or heterosexual providers.
+
+Through my [PSYPACT](https://psypact.org/page/About) license, I provide accessible and affirming mental health care in 40 US States. My extensive experience at various {{ site.qletters }} centers includes providing affirming care, leading group therapy, and managing community outreach initiatives. This background equips me with the empathy and insight necessary to support a diverse client base effectively.
+
+If you’re searching for a therapist who doesn’t just understand but also shares the experiences of the {{ site.qletters }} community, I encourage you to schedule a session with me. Together, we can explore your path to healing and self-discovery in a supportive and understanding environment. [Learn more about my approach &raquo;](/therapy/approach/)
+
+
+
+            <h3 class="text-xl mt-6 pb-2">Reduced Rates For Qualified Clients</h3>
+    
+
+            <ul>
+                <li>50 Minute Therapy Session: $100</li>
+                <li>75 Minute Relationship Therapy Session: $115</li>
+                <li>90 Minute Intake Session: $175</li>
+            </ul>
+
+            <p class="text-sm py-4">Reduced rates are offered for households with a total income below $115,000 per year, or for individuals with a single income below $85,000 per year. Please note that I can only accommodate a limited number of clients at these rates, so there may be a waiting list to begin sessions under this option. More information on rates and insurance is available <a href="/therapy/rates/" class=" text-purple-900 font-strong">here.</a></p>
+
+
+---
+title: Gender Affirming & Transgender Therapy
+description: "Dr. Corinne Votaw-Freer is a leading researcher, psychologist, and therapist specializing in gender affirming therapy."
+eleventyExcludeFromCollections: true
+bodyClass: therapy
+template: state
+mastImage: bg-arizona-cover
+showContactForm: true
+stateName: Arizona
+layout: state
+---
+
+
+
+
+{% include "components/global/appointment.njk" %}
+
+    <p class="block mt-4 rounded-md px-8 py-6 bg-stone-200">If you are unable to find a convenient appointment time, please <a href="mailto:corinnefreer@outlook.com?subject=Website Contact Request" class="font-semibold text-cfpurple">email me</a> so we can arrange a time that works. Minors can request an appointment; however, parental or guardian consent is required before beginning treatment.</p>
+
+
+## Affordable Treatment
+
+I became a psychologist with a deep desire to help people and to ensure that everyone has access to the highest quality therapy and care. Recognizing the financial challenges many face, I decided to offer my services at a significantly reduced rate. Each 45-minute session is billed at {{ site.pricing.session }}.
+
+Ensuring access to mental health care for as many people as possible is a core value of mine. This rate is intentionally set to be a fraction of the typical cost for a licensed psychologist or therapist, reflecting my unwavering commitment to making therapy more accessible and affordable for everyone. By providing affordable services, I hope to bridge the gap in mental health care and support individuals in their journey towards well-being.
+
+<div>
+    <h2 class="{{ sbheader }}">Therapy Consultation</h2>
+    {% include "components/global/appointment.njk" %}
+
+    <p class="block mt-4 rounded-md px-8 py-6 bg-stone-200">If you are unable to find a convenient appointment time, please <a href="mailto:corinnefreer@outlook.com?subject=Website Contact Request" class="font-semibold text-cfpurple">email me</a> so we can arrange a time that works. Minors can request an appointment; however, parental or guardian consent is required before beginning treatment.</p>
+</div>
+
+
+
+I am privileged to be part of an elite group of mental health professionals who hold licenses to practice psychology in nearly 40 states across the country. This extensive licensure allows me to offer my services to a broad demographic, ensuring that quality psychological care is accessible in areas where treatment may be hard to find. 
+
+
+<h2>Affordable Therapy</h2>
+
+<p>I became a psychologist with a deep desire to help people and to ensure that everyone has access to the highest quality therapy and care. Recognizing the financial challenges many face, I decided to offer my services at a significantly reduced rate. Each 45-minute session is billed at {{ site.pricing.session }}.</p>
+
+<p>Ensuring access to mental health care for as many people as possible is a core value of mine. This rate is intentionally set to be a fraction of the typical cost for a licensed psychologist or therapist, reflecting my unwavering commitment to making therapy more accessible and affordable for everyone. By providing affordable services, I hope to bridge the gap in mental health care and support individuals in their journey towards well-being.</p>
+
+
+---
+title: Research By Dr. Corinne Votaw-Freer
+contentTitle: Gender, Loneliness, Religion Research
+description: "Dr. Freer is a researcher focusing on the overlapping attributes of loneliness, religion, and gender."
+eleventyNavigation:
+  key: Research
+  order: 300
+---
+
+
+In my journey as a researcher, I've come to realize that the pursuit of knowledge is not just about gathering information, but critically examining it, challenging established norms, and continuously seeking the truth. This relentless quest has shaped not only my professional path but also my personal worldview.
+
+The three topics that my research encompasses are interrelated in a complex and intricate manner. The first is the impact of digital technology on human cognition and behavior. This field fascinates me, particularly how the internet and social media have revolutionized the way we think, learn, and interact with each other. 
+
+The second area is the historical evolution of information dissemination, from ancient manuscripts to the digital age. This helps me understand the patterns and shifts in knowledge sharing over centuries. 
+
+The third, and perhaps most critical, is the psychology of belief and misinformation. Understanding why people believe what they believe, and how false information spreads and takes root, is crucial in an era where misinformation is rampant.
+
+These three areas, though distinct, converge in interesting ways. For example, the way digital technology influences our belief systems is a direct result of the historical evolution of information dissemination. Similarly, understanding the psychology behind belief formation helps in comprehending how technology can both aid and hinder the spread of accurate information. By exploring these intersections, I aim to develop a holistic understanding of our current informational landscape and contribute to strategies that promote critical thinking and fact-based knowledge.
+
+My goal is not just to add to the existing body of research but to influence the way we approach and consume information in our daily lives, fostering a more informed and discerning society. My areas of concentration are [Loneliness](/research/loneliness/), [Gender](/research/gender/), and [Religion](/research/religiosity/). 
+
+
+
+### Sliding-Scale: $75-$105
+I offer a sliding-scale for up to 5 concurrent clients, directly tied to household (parent/guardian or client) income. My sliding-scale slots are currently full. If you would like to be placed on the waiting list for one of these slots, please fill out this form: [Contact Form](/connect/)
+
+- Less Than $40K/year: $75/hour
+- $40-$50K/year: $95/hour
+- $50-$60K/year: $95/hour
+- $60-$75K/year: $105/hour
+
+
+### Intake Appointment: $225
+The intake appointment spans approximately 90 minutes and is required to begin treatment. This session includes gathering detailed information on the client's background, needs, desires, struggles, as well as their developmental, medical, and mental health history. For children and teen clients, the intake involves meeting with guardians, parents, caregivers, and the client to gather information on treatment and relevant factors such as academic performance, conflicts at home or in educational settings, support structures, sibling relationships, and parent-child dynamics.
+
+### 50 Minute Individual Session: $175
+A standard therapy session that may include therapy, conflict resolution, planning, resourcing, and assessment.
+
+
+
+## {{ site.qletters }} Affirming Treatment From An LQI Provider
+
+There is a notable lack of mental health professionals who are part of the LGBTQIA+ community and understand that therapy involves more than just issues related to sexual orientation or gender identity.
+
+Finding a therapist can be challenging, and concerns about their understanding, supportiveness, and safety may not be clear until after a few sessions. Biases often appear subtly, such as through microaggressions or misgendering. Having worked in both progressive and conservative regions, I am well-acquainted with the challenges our community faces and the increasing threats to our rights. My goal is to build trust with you, ensuring a therapy environment where you feel safe, accepted, and validated. 
+
+## Common Concerns I Work With
+
+My clients seek support for a range of issues, including depression, anxiety, past trauma, or social challenges. Whether you're dealing with oppressive systems, contemplating transitioning, or simply striving to overcome personal obstacles, I am here to provide guidance and support.
+
+## My Experience
+
+As a Licensed Psychologist in Colorado (PSY6298), my background includes extensive work in LGBTQIA+ centers across the nation's most affirming regions. I have supported hundreds of individuals, couples, and polypods, many of whom were navigating their transition journey. As a queer therapist, I prioritize understanding and safety in every session, ensuring a supportive and affirming therapeutic experience.
+
+## Rates & Fees
+
+[View My Current Rates & Fee Schedule](/therapy/rates/)
+
+
+
+
+
+<!-- Loneliness Column -->
+          <div>
+            <h3 class="{{ titleStyle }} ">Loneliness</h3>
+            <ul role="list" class="mt-4 space-y-4">
+
+                {%- for post in collections.loneliness -%}
+                    <li>
+                        <a href="{{ post.url }}" class="{{ linkStyle }}">
+                            {{ post.data.title }}
+                        </a>
+                    </li>
+                {%- endfor -%}
+
+            </ul>
+          </div>
+
+          <!-- Gender Column -->
+          <div>
+            <h3 class="{{ titleStyle }} mt-10 md:mt-0">Gender</h3>
+            <ul role="list" class="mt-4 space-y-4">
+
+                {%- for post in collections.gender -%}
+                    <li>
+                        <a href="{{ post.url }}" class="{{ linkStyle }}">
+                            {{ post.data.title }}
+                        </a>
+                    </li>
+                {%- endfor -%}
+
+            </ul>
+          </div>
+
+
+          "home_what_is_loneliness": "Loneliness, the pandemic, is so much more than being or feeling alone. Understanding the depth and severity of loneliness is crucial to mitigating its harmful effects.",
+          "home_signs_of_loneliness": "It's perhaps the most widely shared human experience, yet we consistently miss the signs. It's a silent struggle nearly impossible to recognize. Learn how to identify those aching from this condition.",
+          "home_undoing_loneliness": "Redeveloping the skills or ability to engage with others in meaningful ways is arduous. Shifts in social norms and the rise of social media have complicated the process. While there is no cure, we can undo loneliness.",
+          "home_how_to_help": "Once we've identified an individual experiencing loneliness, how can we help them break the downward cycle? Typically, family is the first step to finding those struggling and helping them find a path back."
+      
+      
+
+
+
+<h2 class="font-normal my-2 text-3xl md:text-4xl border-none tracking-tight">{{ title }}</h2>
+
+- { label: 'URL', name: 'permalink', widget: 'string' }
+<div class="bg-white py-16">
+    <main {% if mainID %} id="{{ mainID }}" {% else %} id="main" {% endif %} class="container">
+
+        <div class="max-w-4xl mx-auto prose-lg">
+            {{ content | safe }}
+        </div>
+
+    </main>
+</div>
+{% if 'article' in permalink %}
+<a href="/articles" class="ml-4 text-sm font-medium text-gray-500 hover:text-gray-700">Articles</a>
+{% endif %}
+
+{% if 'transkit' in permalink %}
+<a href="/gender/transkit/" class="ml-4 text-sm font-medium text-gray-500 hover:text-gray-700">TransKit Learning Modules</a>
+{% endif %}
+
+
+<div class="col-span-1 bg-white shadow text-center">
+
+    <a href="{{ post.data.permalink }}">
+    <img src="{{ post.data.cover }}" alt="{{ post.data.title }} main image" />
+    </a>
+
+    <h2 class="p-3 tracking-tight text-white text-xl border-b bg-cfpurple border-t border-white/25"><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></h2>
+    <p class="text-sm text-stone-600 py-2 bg-stone-100">Published: {{ post.data.date | postDate }}</p>
+
+    <div class="text-base leading-6 p-6 text-left text-stone-600">
+        {{ post.data.summary }}
+        <br />
+        <a class="text-rose-800 block mt-4" href="{{ post.data.permalink }}">Read More &raquo;</a>
+    </div>
+
+</div>
+
+
+
+
+<nav class="border-t border-gray-200 px-4 flex items-center justify-between sm:px-0">
+
+    <!-- Previous Link Hidden On First Page -->
+    {% if pagination.href.previous %}
+    <div class="-mt-px w-0 flex-1 flex">
+        <a href="{{ pagination.href.previous }}" data-url="{{ pagination.href.previous }}" class="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300">
+            <!-- Heroicon name: solid/arrow-narrow-left -->
+            <svg class="mr-3 h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                <path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd" />
+            </svg>
+            Previous
+        </a>
+    </div>
+    {% endif %}
+
+    <!-- Numbered Navigation -->
+    <div class="hidden md:-mt-px md:flex">
+        {%- for pageEntry in pagination.pages %}
+        <a href="{{ pagination.hrefs[ loop.index0 ] }}" data-url="{{ pagination.hrefs[ loop.index0 ] }}" {% if page.url == pagination.hrefs[ loop.index ] %} aria-current="page"{% endif %} class="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">{{ loop.index }}</a>
+        {%- endfor %}
+    </div>
+
+
+    <!-- Next Navigation Hidden On Last Page -->
+    {% if pagination.href.next %}
+    <div class="-mt-px w-0 flex-1 flex justify-end">
+        <a href="{{ pagination.href.next }}" data-url="{{ pagination.href.next }}" class="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300">
+            Next
+            <!-- Heroicon name: solid/arrow-narrow-right -->
+            <svg class="ml-3 h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+            </svg>
+        </a>
+    </div>
+    {% endif %}
+
+
+</nav>
+
+<div>
+    <div id="loader" class="fixed top-0 left-0 right-0 bottom-0 w-full h-screen z-50 overflow-hidden bg-gray-700 opacity-75 flex flex-col items-center justify-center hidden">
+        <div class="loader ease-linear rounded-full border-4 border-t-4 border-gray-200 h-12 w-12 mb-4"></div>
+        <h2 class="text-center text-white text-xl font-semibold">Loading...</h2>
+    </div>
+</div>
+
+<script>
+    function loadArticle(e){
+        e.preventDefault();
+        let element = e.target;
+        let domain = window.location.origin;
+
+        document.querySelector('#loader').classList.remove('hidden');
+        fetch(domain+element.getAttribute('data-url'))
+        .then(res=>res.text())
+        .then(html=>{
+            let HTML = document.createElement('div');
+            HTML.innerHTML = html;
+            document.querySelector('#main').innerHTML = HTML.querySelector('#main').innerHTML;
+            document.querySelector('#loader').classList.add('hidden');
+
+            document.querySelectorAll('a[data-url]').forEach(element=>{
+                element.addEventListener('click', loadArticle)
+            })
+        })
+        .catch(err=>{
+            console.log(err);
+            document.querySelector('#loader').classList.add('hidden');
+        })
+        console.log(element);
+    }
+    document.querySelectorAll('a[data-url]').forEach(element=>{
+        element.addEventListener('click', loadArticle)
+    })
+</script>
+
+
+
+
+{% set latest_posts = collections.articles | reverse %}
+
+<div class="bg-white pt-10 pb-20 px-4 sm:px-6 lg:py-10 lg:px-8 z-10">
+  <div class="relative max-w-lg mx-auto divide-y-2 divide-gray-200 lg:max-w-7xl">
+
+    <div class="px-7">
+      <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">Recent Articles</h2>
+      <h4 class="mt-3 font-medium text-lg text-gray-500 sm:mt-4 max-w-2xl">Read the latest articles from Corinne and selected guest authors.</h4>
+    </div>
+
+
+    <div class="mt-8 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12">
+
+      <!-- Output The Posts -->
+      {% for post in latest_posts.slice(0,3) %}
+      <div class="bg-stone-100 rounded-lg">
+        
+        <div class="mast">
+
+          <image src="{{ post.data.cover }}" class="w-auto rounded-t-lg" />
+            <div class="p-6">
+          
+              <h2 class="text-xl font-strong text-stone-900">
+                <a href="{{ post.data.permalink }}" class="block mt-1">{{ post.data.title }}</a>
+              </h2>
+
+              <div class="mt-1 mb-4 text-sm text-stone-500 upp">
+                <time datetime="{{ post.data.date | postDate }}">Published: {{ post.data.date | postDate }}</time>
+              </div>
+
+              <div class="text-base leading-7 border-t border-stone-800/10 pt-6">
+                {{ post.data.summary }}
+              </div>
+
+              <a class="button inline-flex items-center px-4 py-2 mt-10 border border-transparent shadow-sm text-md font-medium rounded-md text-white bg-amber-700" href="{{ post.data.permalink }}">Read More &raquo;</a>
+
+  
+            </div>
+        
+        </div>
+        
+
+       
+
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+
+
+
+

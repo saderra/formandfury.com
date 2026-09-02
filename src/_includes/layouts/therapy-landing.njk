@@ -1,0 +1,42 @@
+{% extends "layouts/base.njk" %}
+{% block mainContent %}
+
+    {% include "components/section/therapy-landing-mast.njk" %}
+
+
+
+    <div class="container grid gap-0 lg:gap-10 grid-cols-12 pt-8">
+        <div class="p-0 col-span-12 lg:col-span-8">
+           <article class="max-w-full p-8">
+            <div class="prose">
+               <h1 class="text-2xl md:text-3xl pb-8 mb-8 border-b border-stone-200 font-normal">
+                {% if contentTitle %}
+                    {{ stateName }} {{ contentTitle }}
+                {% else %}
+                    {{ stateName }} {{ title }}
+                {% endif %}
+                </h1>
+                <img src="/assets/images/corinne-final.jpg" alt="Dr. Corinne Votaw Freer" title="Dr. Corinne Votaw-Freer Headshot" class="hidden md:inline-block">
+
+                   {{ content | safe }}
+                    
+
+
+
+<h2>I Am Licensed To Treat Clients In The Following States</h2>
+
+{% include "components/global/psypact-list.njk" %}
+
+            </div>
+
+            </article>
+        </div>
+            {% include "components/section/sidebar.njk" %}
+        </div>
+
+             {% include "components/home/trust.njk" %}
+
+    </div>
+
+{% endblock %}
+

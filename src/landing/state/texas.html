@@ -1,0 +1,709 @@
+---
+layout: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Online Therapy in Texas | Dr. Corinne Votaw-Freer, Licensed Psychologist</title>
+<meta name="description" content="Online therapy for Texas adults &amp; teens. Licensed psychologist, insurance accepted. Free 15-min consultation.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&amp;family=DM+Sans:wght@300;400;500;600&amp;display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENYMXXEP07"></script>
+<script>window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-ENYMXXEP07');
+  gtag('config', 'AW-11118782788');</script>
+<script src="https://cdn.usefathom.com/script.js" data-site="OHYMDSEG" defer></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --sage: #7a9e87;
+    --sage-light: #a8c4b0;
+    --sage-dark: #4d7259;
+    --cream: #f7f3ee;
+    --warm-white: #faf8f5;
+    --charcoal: #2c2c2c;
+    --mid: #5a5a5a;
+    --soft: #8a8a8a;
+    --accent: #c4855a;
+    --border: #e2ddd7;
+    --shadow: rgba(44,44,44,0.08);
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    background: var(--warm-white);
+    color: var(--charcoal);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── STICKY NAV BAR ── */
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(247,243,238,0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 68px;
+  }
+  .topbar-brand {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.4rem;
+    color: var(--charcoal);
+    text-decoration: none;
+    letter-spacing: 0.01em;
+  }
+  .topbar-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--accent);
+    color: #fff;
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.6rem 1.3rem;
+    border-radius: 100px;
+    transition: background 0.2s, transform 0.15s;
+    white-space: nowrap;
+  }
+  .topbar-cta:hover { background: #b07348; transform: translateY(-1px); }
+
+  /* ── HERO ── */
+  .hero {
+    background: var(--cream);
+    padding: 5.5rem 2rem 4.5rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse 70% 60% at 50% 0%, rgba(122,158,135,0.13) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(122,158,135,0.15);
+    color: var(--sage-dark);
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.45rem 1.1rem;
+    border-radius: 100px;
+    margin-bottom: 1.5rem;
+    border: 1px solid rgba(122,158,135,0.3);
+  }
+  .hero-eyebrow::before { content: '●'; font-size: 0.5em; }
+  .hero h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(2.6rem, 5vw, 3.8rem);
+    line-height: 1.15;
+    color: var(--charcoal);
+    max-width: 720px;
+    margin: 0 auto 1.25rem;
+    letter-spacing: -0.01em;
+  }
+  .hero h1 em { font-style: italic; color: var(--sage-dark); }
+  .hero-sub {
+    font-size: 1.2rem;
+    color: var(--mid);
+    max-width: 560px;
+    margin: 0 auto 2.5rem;
+    font-weight: 300;
+    line-height: 1.7;
+  }
+  .hero-cta-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.9rem;
+  }
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: var(--accent);
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 1rem 2.4rem;
+    border-radius: 100px;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 4px 20px rgba(196,133,90,0.35);
+  }
+  .btn-primary:hover { background: #b07348; transform: translateY(-2px); box-shadow: 0 8px 30px rgba(196,133,90,0.4); }
+  .btn-primary svg { flex-shrink: 0; }
+  .hero-note {
+    font-size: 0.92rem;
+    color: var(--soft);
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .hero-note::before { content: '✓'; color: var(--sage); font-weight: 700; }
+
+  /* ── TRUST BAR ── */
+  .trust-bar {
+    background: #fff;
+    border-bottom: 1px solid var(--border);
+    padding: 1.2rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+  }
+  .trust-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.95rem;
+    color: var(--mid);
+    font-weight: 500;
+  }
+  .trust-item .icon {
+    width: 22px;
+    height: 22px;
+    background: rgba(122,158,135,0.15);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--sage-dark);
+    font-size: 0.7rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+
+  /* ── SECTION WRAPPER ── */
+  .section { padding: 5rem 2rem; }
+  .section-inner { max-width: 940px; margin: 0 auto; }
+  .section-label {
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--sage-dark);
+    margin-bottom: 0.75rem;
+  }
+  .section-title {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(2rem, 3.5vw, 2.6rem);
+    line-height: 1.2;
+    color: var(--charcoal);
+    margin-bottom: 1.25rem;
+    letter-spacing: -0.01em;
+  }
+
+  /* ── ABOUT SPLIT ── */
+  .about-split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+  .about-img-wrap { position: relative; }
+  .about-img-wrap img {
+    width: 100%;
+    border-radius: 16px;
+    display: block;
+    object-fit: cover;
+    aspect-ratio: 3/4;
+    max-height: 500px;
+  }
+  .about-badge {
+    position: absolute;
+    bottom: -18px;
+    right: -18px;
+    background: var(--sage-dark);
+    color: #fff;
+    padding: 1rem 1.25rem;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1.4;
+    box-shadow: 0 8px 24px rgba(77,114,89,0.35);
+    text-align: center;
+    max-width: 160px;
+  }
+  .about-badge strong { display: block; font-size: 1.4rem; font-family: 'DM Serif Display', serif; margin-bottom: 0.2rem; }
+  .about-content p { color: var(--mid); font-size: 1.05rem; line-height: 1.8; margin-bottom: 1.2rem; }
+  .about-content p:last-of-type { margin-bottom: 1.75rem; }
+  .quote-block {
+    border-left: 3px solid var(--sage-light);
+    padding-left: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  .quote-block p {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.25rem;
+    font-style: italic;
+    color: var(--charcoal);
+    line-height: 1.5;
+  }
+
+  /* ── CONDITIONS ── */
+  .conditions-bg { background: var(--cream); }
+  .conditions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  .condition-card {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.35rem 1.5rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.9rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .condition-card:hover { border-color: var(--sage-light); box-shadow: 0 4px 16px var(--shadow); }
+  .condition-icon {
+    width: 38px;
+    height: 38px;
+    background: rgba(122,158,135,0.12);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 1.1rem;
+  }
+  .condition-card h3 { font-size: 1rem; font-weight: 600; color: var(--charcoal); margin-bottom: 0.3rem; }
+  .condition-card p { font-size: 0.9rem; color: var(--soft); line-height: 1.5; }
+
+  /* ── INSURANCE ── */
+  .insurance-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1.75rem;
+  }
+  .ins-pill {
+    background: #fff;
+    border: 1.5px solid var(--border);
+    border-radius: 100px;
+    padding: 0.55rem 1.3rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--charcoal);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .ins-pill.coming { opacity: 0.55; }
+  .ins-pill .pill-icon { font-size: 0.85rem; }
+  .ins-note { font-size: 0.92rem; color: var(--soft); margin-top: 1rem; }
+
+  /* ── WHY PRIVATE PRACTICE ── */
+  .why-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .why-card {
+    background: var(--cream);
+    border-radius: 14px;
+    padding: 1.85rem;
+  }
+  .why-card.highlight {
+    background: var(--sage-dark);
+    color: #fff;
+    grid-row: span 2;
+  }
+  .why-card h3 { font-family: 'DM Serif Display', serif; font-size: 1.25rem; margin-bottom: 0.75rem; }
+  .why-card.highlight h3 { color: #fff; }
+  .why-card p { font-size: 1rem; line-height: 1.75; color: var(--mid); }
+  .why-card.highlight p { color: rgba(255,255,255,0.82); }
+
+  /* ── WHAT TO EXPECT ── */
+  .expect-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  .expect-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.2rem 1.35rem;
+    font-size: 1rem;
+    color: var(--mid);
+    line-height: 1.65;
+  }
+  .expect-list li .check {
+    color: var(--sage-dark);
+    font-weight: 700;
+    flex-shrink: 0;
+    margin-top: 0.05rem;
+  }
+
+  /* ── CONSULTATION FORM ── */
+  .form-section {
+    background: var(--cream);
+    padding: 5.5rem 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .form-section::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse 60% 80% at 50% 50%, rgba(122,158,135,0.1) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .form-inner {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+  }
+  .form-header { text-align: center; margin-bottom: 2.5rem; }
+  .form-header .section-label { display: block; margin-bottom: 0.75rem; }
+  .form-header h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(2.1rem, 4vw, 2.9rem);
+    line-height: 1.2;
+    color: var(--charcoal);
+    margin-bottom: 0.85rem;
+    letter-spacing: -0.01em;
+  }
+  .form-header p { font-size: 1.05rem; color: var(--mid); line-height: 1.7; }
+  .consult-form {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 2.75rem;
+    box-shadow: 0 8px 40px var(--shadow);
+  }
+  .form-row { margin-bottom: 1.35rem; }
+  .form-row label {
+    display: block;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--charcoal);
+    margin-bottom: 0.5rem;
+  }
+  .form-row label span { color: var(--accent); }
+  .form-row input,
+  .form-row textarea {
+    width: 100%;
+    padding: 0.9rem 1.1rem;
+    border: 1.5px solid var(--border);
+    border-radius: 10px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1rem;
+    color: var(--charcoal);
+    background: var(--warm-white);
+    transition: border-color 0.2s, box-shadow 0.2s;
+    outline: none;
+  }
+  .form-row input:focus,
+  .form-row textarea:focus {
+    border-color: var(--sage);
+    box-shadow: 0 0 0 3px rgba(122,158,135,0.15);
+    background: #fff;
+  }
+  .form-row textarea { resize: vertical; min-height: 120px; line-height: 1.6; }
+  .form-submit {
+    width: 100%;
+    padding: 1.1rem;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 100px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.05rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 4px 20px rgba(196,133,90,0.35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  .form-submit:hover { background: #b07348; transform: translateY(-2px); box-shadow: 0 8px 30px rgba(196,133,90,0.4); }
+  .form-privacy {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--soft);
+    margin-top: 1rem;
+  }
+  .form-bottom-notes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-top: 1.75rem;
+  }
+  .form-bottom-notes span {
+    font-size: 0.9rem;
+    color: var(--soft);
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .form-bottom-notes .check { color: var(--sage); font-weight: 700; }
+
+  /* ── FOOTER ── */
+  footer {
+    background: var(--cream);
+    border-top: 1px solid var(--border);
+    padding: 2rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--soft);
+  }
+  footer a { color: var(--soft); text-decoration: none; }
+  footer a:hover { color: var(--charcoal); }
+
+  /* ── ANIMATIONS ── */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .hero > * { animation: fadeUp 0.7s ease both; }
+  .hero .hero-eyebrow { animation-delay: 0.05s; }
+  .hero h1 { animation-delay: 0.15s; }
+  .hero .hero-sub { animation-delay: 0.25s; }
+  .hero .hero-cta-group { animation-delay: 0.35s; }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 760px) {
+    body { font-size: 16px; }
+    .about-split { grid-template-columns: 1fr; gap: 2.5rem; }
+    .about-img-wrap img { max-height: 360px; }
+    .about-badge { bottom: -14px; right: 12px; }
+    .why-grid { grid-template-columns: 1fr; }
+    .why-card.highlight { grid-row: auto; }
+    .expect-list { grid-template-columns: 1fr; }
+    .trust-bar { gap: 1.25rem; }
+    .topbar-brand { font-size: 1.1rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- STICKY TOP BAR -->
+<header class="topbar">
+  <a href="https://corinnefreer.com/" class="topbar-brand">Dr. Corinne Votaw-Freer</a>
+  <a href="#consultation" class="topbar-cta">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+    Free Consultation
+  </a>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-eyebrow">Licensed Psychologist &middot; Texas Online Therapy</div>
+  <h1>You don&rsquo;t have to keep<br><em>carrying this alone.</em></h1>
+  <p class="hero-sub">Anxiety. Depression. Trauma. Grief. Burnout. If any of that sounds familiar, you're in the right place. Therapy for adults &amp; teens across Texas &mdash; from a licensed psychologist who takes your insurance.</p>
+  <div class="hero-cta-group">
+    <a href="#consultation" class="btn-primary">
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+      Schedule Your Free Consultation
+    </a>
+    <span class="hero-note">Free 15 Minute Video Call &middot; No Commitment &middot; Insurance Accepted</span>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <div class="trust-item"><span class="icon">&#10003;</span> Licensed Psychologist (PsyD)</div>
+  <div class="trust-item"><span class="icon">&#10003;</span> Insurance Accepted</div>
+  <div class="trust-item"><span class="icon">&#10003;</span> EMDR Trained</div>
+  <div class="trust-item"><span class="icon">&#10003;</span> Telehealth &mdash; All of Texas</div>
+  <div class="trust-item"><span class="icon">&#10003;</span> Free 15-Min Consultation</div>
+</div>
+
+<!-- ABOUT -->
+<section class="section">
+  <div class="section-inner">
+    <div class="about-split">
+      <div class="about-img-wrap">
+        <img src="https://res.cloudinary.com/dwfzevme5/image/fetch/f_auto,q_auto/https://corinnefreer.com/assets/images/corinne-final.jpg" alt="Dr. Corinne Votaw-Freer, Licensed Psychologist" loading="lazy">
+        <div class="about-badge">
+          <strong>PsyD</strong>
+          Licensed<br>Psychologist<br>Texas
+        </div>
+      </div>
+      <div class="about-content">
+        <div class="section-label">Meet Your Therapist</div>
+        <h2 class="section-title">Hi, I&rsquo;m Corinne.</h2>
+        <div class="quote-block">
+          <p>&ldquo;I&rsquo;m not the kind of therapist who just nods along from a distance. I want therapy to feel honest, grounded, and actually useful.&rdquo;</p>
+        </div>
+        <p>I work with adults and teens across Texas who are feeling overwhelmed, stuck, emotionally exhausted, or just worn down. Sometimes people come to therapy knowing exactly what&rsquo;s wrong. Sometimes they just know that life feels harder than it should.</p>
+        <p>My approach goes beneath the surface &mdash; not only managing symptoms in the moment, but understanding the deeper patterns, beliefs, and experiences that shape how you move through the world. Lasting change comes from understanding yourself more clearly.</p>
+        <a href="#consultation" class="btn-primary">Schedule Your Free Consultation</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- WHAT I HELP WITH -->
+<section class="section conditions-bg">
+  <div class="section-inner">
+    <div class="section-label">Areas of Focus</div>
+    <h2 class="section-title">What I help with</h2>
+    <p style="color:var(--mid);font-size:1.05rem;max-width:580px;">You don&rsquo;t need to be in crisis. If something feels heavy, stuck, or harder than it should be, therapy may be the right place to start.</p>
+    <div class="conditions-grid">
+      <div class="condition-card"><div class="condition-icon">&#129504;</div><div><h3>Trauma &amp; PTSD</h3><p>Including EMDR for processing past experiences</p></div></div>
+      <div class="condition-card"><div class="condition-icon">&#128173;</div><div><h3>Anxiety &amp; Overwhelm</h3><p>Panic, chronic stress, worry, and burnout</p></div></div>
+      <div class="condition-card"><div class="condition-icon">&#127783;</div><div><h3>Depression &amp; Burnout</h3><p>Numbness, low motivation, exhaustion, loss of joy</p></div></div>
+      <div class="condition-card"><div class="condition-icon">&#128260;</div><div><h3>Life Transitions</h3><p>Divorce, career change, relocation, identity shifts</p></div></div>
+      <div class="condition-card"><div class="condition-icon">&#129309;</div><div><h3>Relationship Stress</h3><p>Boundaries, conflict, codependency, and patterns</p></div></div>
+      <div class="condition-card"><div class="condition-icon">&#127807;</div><div><h3>Self-Esteem &amp; Shame</h3><p>Perfectionism, self-worth, direction, and purpose</p></div></div>
+      <div class="condition-card"><div class="condition-icon">&#10017;</div><div><h3>Religious Transitions</h3><p>Faith deconstruction, rebuilding meaning and identity</p></div></div>
+      <div class="condition-card"><div class="condition-icon">&#128148;</div><div><h3>Grief &amp; Loss</h3><p>Processing loss at any stage of life</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- INSURANCE -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">No Surprises</div>
+    <h2 class="section-title">Insurance accepted</h2>
+    <p style="color:var(--mid);font-size:1.05rem;max-width:560px;">I&rsquo;m actively working to get credentialed with major Texas insurers. In the meantime, I can provide a superbill for out-of-network reimbursement &mdash; reach out to ask about your options.</p>
+    <div class="insurance-grid">
+      <div class="ins-pill"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>Ascension / SmartHealth</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>Cigna</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>Aetna</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>Carelon</div>
+      <div class="ins-pill"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>Quest</div>
+      <div class="ins-pill coming"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>Blue Cross Blue Shield <small>(Coming Soon)</small></div>
+      <div class="ins-pill coming"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>United Health / Optum <small>(Coming Soon)</small></div>
+      <div class="ins-pill coming"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>Oscar <small>(Coming Soon)</small></div>
+      <div class="ins-pill coming"><span class="pill-icon" style="color:#8a8a8a">&#9711;</span>Oxford <small>(Coming Soon)</small></div>
+    </div>
+    <p class="ins-note">Questions about coverage or out-of-network costs? Ask during your free consultation call.</p>
+  </div>
+</section>
+
+<!-- WHY PRIVATE PRACTICE -->
+<section class="section conditions-bg">
+  <div class="section-inner">
+    <div class="section-label">Why It Matters</div>
+    <h2 class="section-title">Private practice vs. large platforms</h2>
+    <div class="why-grid">
+      <div class="why-card highlight">
+        <h3>Working with me directly</h3>
+        <p>You work with one licensed psychologist who knows your full history, goals, and patterns. Treatment is shaped around you &mdash; not a generic template. The relationship deepens over time, and so does the work. As a PsyD-level psychologist, I bring advanced clinical training to every session.</p>
+      </div>
+      <div class="why-card">
+        <h3>Large platforms (BetterHelp, etc.)</h3>
+        <p>Convenient, but often function as matching services. You may switch providers. Depth of care is more limited. Less consistent relationship.</p>
+      </div>
+      <div class="why-card">
+        <h3>Why a licensed psychologist?</h3>
+        <p>Advanced training in assessment, diagnosis, and evidence-based treatment &mdash; especially useful if you want more than surface-level coping strategies.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- WHAT TO EXPECT -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">In Our Work Together</div>
+    <h2 class="section-title">What therapy with me looks like</h2>
+    <ul class="expect-list">
+      <li><span class="check">&#10003;</span> A warm, nonjudgmental space where you don&rsquo;t have to explain yourself</li>
+      <li><span class="check">&#10003;</span> Practical tools for managing anxiety, stress, and symptoms day-to-day</li>
+      <li><span class="check">&#10003;</span> Deeper insight into your patterns, triggers, and relationships</li>
+      <li><span class="check">&#10003;</span> Clear goals and a process tailored to your specific needs</li>
+      <li><span class="check">&#10003;</span> A focus on meaningful, lasting change &mdash; not just coping</li>
+      <li><span class="check">&#10003;</span> Telehealth sessions from anywhere in Texas</li>
+    </ul>
+  </div>
+</section>
+
+<!-- CONSULTATION FORM -->
+<section class="form-section" id="consultation">
+  <div class="form-inner">
+    <div class="form-header">
+      <span class="section-label">Get Started</span>
+      <h2>Schedule Your Free Consultation</h2>
+      <p>Fill out the form below and Corinne or a member of her team will reach out to schedule a convenient time for your complimentary 15-minute call.</p>
+    </div>
+    <div class="consult-form">
+      <form name="Dr. Freer Scheduling Form" method="POST" data-netlify="true" action="/contact/schedule-success">
+        <input type="hidden" name="form-name" value="Dr. Freer Scheduling Form">
+        <div class="form-row">
+          <label for="f-name">Your Name <span>*</span></label>
+          <input type="text" id="f-name" name="name" placeholder="Jane Smith" required>
+        </div>
+        <div class="form-row">
+          <label for="f-email">Your Email <span>*</span></label>
+          <input type="email" id="f-email" name="email" placeholder="jane@email.com" required>
+        </div>
+        <div class="form-row">
+          <label for="f-phone">Your Phone Number <span>*</span></label>
+          <input type="phone" id="f-phone" name="phone" placeholder="(720) 555-0100" required>
+        </div>
+        <div class="form-row">
+          <label for="f-message">How Can I Help?</label>
+          <textarea id="f-message" name="message" placeholder="Tell me a little about what's been going on and what you're hoping to work on..."></textarea>
+        </div>
+        <button type="submit" class="form-submit">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+          Continue to Schedule
+        </button>
+        <p class="form-privacy">&#128274; Your information is private and never shared.</p>
+      </form>
+    </div>
+     <div class="form-bottom-notes">
+      <span><span class="check">&#10003;</span> Free 15 Minute Video Call</span>
+      <span><span class="check">&#10003;</span> No Commitment</span>
+      <span><span class="check">&#10003;</span> Insurance Accepted</span>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p style="margin-bottom:0.5rem;">
+    <a href="https://corinnefreer.com/therapy/">Individual Therapy</a> &middot;
+    <a href="https://corinnefreer.com/therapy/approach/">Approach</a> &middot;
+    <a href="https://corinnefreer.com/therapy/rates-insurance/">Rates &amp; Insurance</a> &middot;
+    <a href="https://corinnefreer.com/therapy/emdr/">EMDR</a> &middot;
+    <a href="https://corinnefreer.com/contact/">Contact</a>
+  </p>
+  <p>&copy; 2026 &middot; Dr. Corinne Votaw-Freer &middot; All Rights Reserved &middot; <a href="https://corinnefreer.com/privacy/">Privacy Policy</a></p>
+</footer>
+
+</body>
+</html>

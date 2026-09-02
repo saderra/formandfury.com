@@ -1,0 +1,23 @@
+{
+    "title": "Dr. Freer",
+    "url": "https://corinnefreer.com/",
+    "domain": "https://corinnefreer.com",
+    "locale": "en-us",
+    "description": "I am a writer, speaker, researcher, and malcontent humanist with a doctorate in psychology. My research centers on the loneliness pandemic; the harm it causes and ways to defeat it.",
+    "feed": {
+      "subtitle": "Loneliness researcher and gender equity advocate.",
+      "filename": "feed.xml",
+      "path": "/feed/feed.xml",
+      "id": "https://corinnefreer.com/"
+    },
+    "jsonfeed": {
+      "path": "/feed/feed.json",
+      "url": "https://corinnefreer.com/feed/feed.json"
+    },
+    "author": {
+      "name": "Dr. Corinne Votaw-Freer",
+      "email": "corinnefreer@outlook.com",
+      "url": "https://corinnefreer.com/about"
+    }
+  }
+  

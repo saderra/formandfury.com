@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% if cat | title %}
-<title>{{ cat | title }} Articles By Dr. Corinne Votaw-Freer</title>
+<title>{{ cat | title }} Articles By {{ site.author.name }}</title>
 {% elseif seoTitle %}
 <title>{{ seoTitle }}</title>
 {% else %}

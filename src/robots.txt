@@ -1,1 +1,1 @@
-Sitemap: https://corinnefreer.com/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

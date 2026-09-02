@@ -1,15 +1,13 @@
-
-
-{% if site.analytics.google  %} 
+{% if site.analytics.google  %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', '{{ site.analytics.google }}');
-  gtag('config', 'AW-11118782788');
+  {% if site.analytics.googleAdsId %}gtag('config', '{{ site.analytics.googleAdsId }}');{% endif %}
 </script>
-{% endif  %} 
+{% endif  %}
 
 
 {% if site.analytics.fathom  %} 

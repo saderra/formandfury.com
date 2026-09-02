@@ -4,39 +4,11 @@
 <body {% if layout %}class="{{ layout }} {{ bodyClass }}"{% endif %}>
 {% include "components/header/header.njk" %}
 
-
-
-
-{% if template != "home" and template != "state"  %} 
-    
-{% endif %}
-
-<section class="bg-warm-50">
+<section class="bg-neutral-50">
    {% block mainContent %}{% endblock %}
 </section>
 
 {% include "components/footer/footer.njk" %}
-
-
-<script>
-window.addEventListener('load', (event) => {
-  document.querySelectorAll('.schedule-link').forEach(item => {
-    item.addEventListener('click', event => {
-      fathom.trackEvent('Schedule Link Click');
-    });
-  });
-});
-</script>
-
-<script>
-window.addEventListener('load', (event) => {
-  document.getElementById('schedule-form').addEventListener('submit', () => {
-    fathom.trackEvent('Scheduling Form Submission');
-  });
-});
-</script>
-
-
 
 </body>
 </html>

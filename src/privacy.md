@@ -1,10 +1,10 @@
 ---
 title: Privacy Policy
-description: "Dr. Freer website privacy policy."
+description: "{{ site.title }} website privacy policy."
 ---
 
 
-Your privacy is important to us. It is Dr. Freer's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, https://corinnefreer.com, and other sites we own and operate.
+Your privacy is important to us. It is {{ site.title }}'s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, {{ site.url }}, and other sites we own and operate.
 
 This policy is effective as of 3 March 2022 and was last updated on 3 March 2022.
 
@@ -115,6 +115,6 @@ If required by law, we will get your permission or give you the opportunity to o
 
 For any questions or concerns regarding your privacy, you may contact us using the following details:
 
-Dr. Freer
-https://corinnefreer.com/connect/
+{{ site.title }}
+{{ site.author.email }}
 

@@ -1,8 +1,7 @@
 ---
-title: Dr. Corinne Votaw-Freer - Psychologist & Therapist
-description: "I help people shed outdated scripts dictating their thoughts, beliefs, actions and identity."
-keywords: "child psychologist, gender-affirming care, gender-affirming therapist"
+title: Your Business Name - Your Professional Title
+description: "A one-sentence description of what you do and who you help, shown in search results and social previews."
+keywords: "keyword one, keyword two, keyword three"
 template: home
 layout: home
 ---
-

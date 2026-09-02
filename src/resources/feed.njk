@@ -10,7 +10,7 @@ layout: raw
 	{% set absoluteUrl %}{{ site.feed.path | url | absoluteUrl(site.url) }}{% endset %}
 	<link href="{{ absoluteUrl }}" rel="self"/>
 	<link href="{{ site.url }}"/>
-	<updated>{{ collections.articles | rssLastUpdatedDate }}</updated>
+	<updated>{{ collections.articles | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
 	<id>{{ site.feed.id }}</id>
 	<author>
 		<name>{{ site.author.name }}</name>
@@ -21,7 +21,7 @@ layout: raw
 	<entry>
 		<title>{{ post.data.title }}</title>
 		<link href="{{ absolutePostUrl }}"/>
-		<updated>{{ post.date | rssDate }}</updated>
+		<updated>{{ post.date | dateToRfc3339 }}</updated>
 		<id>{{ absolutePostUrl }}</id>
 		<content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
 	</entry>

@@ -1,72 +1,17 @@
-const fs = require("fs");
-require('dotenv').config();
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation")
-const pluginRss = require("@11ty/eleventy-plugin-rss");
 const now = String(Date.now())
-const htmlmin = require('html-minifier')
+const { minify } = require('html-minifier-terser');
 const { DateTime } = require("luxon");
-const embedEverything = require("eleventy-plugin-embed-everything");
-const metagen = require('eleventy-plugin-metagen');
-const Image = require("@11ty/eleventy-img");
-const lodash = require("lodash");
-const slugify = require("slugify");
 
+module.exports = async function (eleventyConfig) {
 
-
-/**
- * Get all unique key values from a collection
- *
- * @param {Array} collectionArray - collection to loop through
- * @param {String} key - key to get values from
- */
- function getAllKeyValues(collectionArray, key) {
-  // get all values from collection
-  let allValues = collectionArray.map((item) => {
-    let values = item.data[key] ? item.data[key] : [];
-    return values;
-  });
-
-  // flatten values array
-  allValues = lodash.flattenDeep(allValues);
-  // to lowercase
-  allValues = allValues.map((item) => item.toLowerCase());
-  // remove duplicates
-  allValues = [...new Set(allValues)];
-  // order alphabetically
-  allValues = allValues.sort(function (a, b) {
-    return a.localeCompare(b, "en", { sensitivity: "base" });
-  });
-  // return
-  return allValues;
-}
-
-/**
- * Transform a string into a slug
- * Uses slugify package
- *
- * @param {String} str - string to slugify
- */
-function strToSlug(str) {
-  const options = {
-    replacement: "-",
-    remove: /[&,+()$~%.'":*?<>{}]/g,
-    lower: true,
-  };
-
-  return slugify(str, options);
-}
-
-
-
-
-
-module.exports = function (eleventyConfig) { 
+  // @11ty/eleventy-plugin-rss is ESM-only; dynamic import keeps the rest of
+  // this config file as plain CommonJS.
+  const { default: pluginRss } = await import("@11ty/eleventy-plugin-rss");
 
   // PLUGINS
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  eleventyConfig.addPlugin(embedEverything);
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(metagen);
 
 
   // TAILWIND
@@ -79,8 +24,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/assets/favicons");
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
   eleventyConfig.addPassthroughCopy('./src/cms')
-  eleventyConfig.addPassthroughCopy("./src/_redirects");
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
+  eleventyConfig.addPassthroughCopy({ "node_modules/alpinejs/dist/cdn.min.js": "assets/js/alpine.js" });
 
   // DATE FORMATTING
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
@@ -106,31 +51,6 @@ module.exports = function (eleventyConfig) {
     })
     return filter;
   })
-  eleventyConfig.addFilter('categoriesByArticle', function(article){
-
-    let find = false;
-    article.data.tags.forEach(tag=>{
-      if( tag == 'articles'){
-        find = true;
-      }
-    })
-
-    if(find){
-      return article.data.tags.map(tag=>{
-        var tag = slug.split('-');
-
-        for (var i = 0; i < tag.length; i++) {
-          var word = tag[i];
-          tag[i] = word.charAt(0).toUpperCase() + word.slice(1);
-        }
-
-        return tag.join(' ');
-      })
-    }
-
-    return [];
-  })
-
   eleventyConfig.addCollection("getCat", function(collectionApi) {
     let collection = collectionApi.getFilteredByTag("articles")
     let categories = [];
@@ -144,16 +64,6 @@ module.exports = function (eleventyConfig) {
     })
     return categories;
   });
-
-  eleventyConfig.addFilter('checkArtile', function(slug){
-    if(slug.includes('articles')){
-      return true;
-    }else{
-      return false;
-    }
-  });
-
-  
 
 
   // SHORTCODES
@@ -171,20 +81,19 @@ module.exports = function (eleventyConfig) {
 
 
    /* HTML Minifiy */
-    eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
+    eleventyConfig.addTransform('htmlmin', async function (content, outputPath) {
         if (
           process.env.ELEVENTY_PRODUCTION &&
           outputPath &&
           outputPath.endsWith('.html')
         ) {
-          let minified = htmlmin.minify(content, {
+          return minify(content, {
             useShortDoctype: true,
             removeComments: true,
             collapseWhitespace: true,
           });
-          return minified
         }
-    
+
         return content
     })
 

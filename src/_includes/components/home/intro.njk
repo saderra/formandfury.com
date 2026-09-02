@@ -3,15 +3,15 @@
 
         <div class="bg-stone-900/80 p-12 max-w-3xl rounded-md">
             <h1 class="block text-3xl md:text-4xl tracking-tight lg:leading-masthead">
-                {{ home.introHeadline }}
+                Hi, I'm {{ site.author.firstName }}.
             </h1>
-            
+
             <h2 class="text-white/75 block text-lg md:text-xl mt-2 pb-4 border-b border-white/25">
-                {{ home.introSubHeadline }}
+                {{ site.tagline }}
             </h2>
 
             <p class="text-sm md:text-base leading-6 md:leading-7 tracking-wide mt-6 block w-full">
-                {{ home.introText }}
+                {{ site.homeIntro }}
             </p>
 
         </div>   

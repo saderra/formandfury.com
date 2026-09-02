@@ -2,7 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-body { 
+/*
+  Single source of truth for theme values used outside Tailwind's utility
+  classes (third-party widget CSS, inline SVG, etc). Keep these in sync with
+  the `brand` / `subtle` color scales in tailwind.config.js.
+*/
+:root {
+  --color-brand: #2d2b3d;
+  --color-brand-dark: #201e2b;
+  --color-brand-bright: #bcb4ff;
+  --color-subtle: #f6f6f6;
+  --font-primary: 'Poppins', sans-serif;
+}
+
+body {
   @apply font-sans;
 }
 
@@ -16,16 +29,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-.therapy.state .prose h2 { 
-	@apply font-medium pb-6 border-b border-neutral-300 tracking-tight; 
-
-}
-
-
 /****** MAIN NAVIGATION ***/
 
 ul.main-navigation {
-  @apply poppins text-base text-warm-700 font-medium;
+  @apply poppins text-base text-neutral-700 font-medium;
 }
 
 ul.main-navigation {
@@ -41,11 +48,11 @@ ul.main-navigation > li > a {
 }
 
 ul.main-navigation > li > ul {
-  @apply bg-warm-50 border-t border-warm-150 text-sm rounded-lg;
+  @apply bg-neutral-50 border-t border-neutral-200 text-sm rounded-lg;
 }
 
 ul.main-navigation > li > ul > li {
-	@apply border-b border-warm-150 pr-8;
+	@apply border-b border-neutral-200 pr-8;
 }
 
 ul.main-navigation > li > ul a {
@@ -66,18 +73,15 @@ div.prose {
 }
 
 /****** PAGE ***/
-.page article a,
-.therapy-landing article a { 
+.page article a {
 	@apply font-semibold no-underline text-fuchsia-800;
 }
 
-.page article h2,
-.therapy-landing article h2 { 
+.page article h2 {
 	@apply poppins font-medium text-2xl border-b clear-both py-4 ;
 }
 
-.page article h3,
-.therapy-landing article h3 { 
+.page article h3 {
 	@apply poppins font-medium text-xl p-0 m-0 pb-4;
 }
 
@@ -105,16 +109,16 @@ article,
 }
 
 
-.blog-card-content .read-more { 
-	@apply poppins inline-flex items-center px-5 py-3 mt-6 border border-transparent shadow-sm font-medium rounded-md text-white bg-cfpurple; 
+.blog-card-content .read-more {
+	@apply poppins inline-flex items-center px-5 py-3 mt-6 border border-transparent shadow-sm font-medium rounded-md text-white bg-brand;
 }
 
 
 
 /****** SIDEBAR ***/
 
-#sidebar div { 
-	@apply p-8 bg-warm-50 rounded-md mb-8 shadow-sm; 
+#sidebar div {
+	@apply p-8 bg-neutral-50 rounded-md mb-8 shadow-sm;
 }
 
 
@@ -132,7 +136,7 @@ article,
 	box-shadow: none !important;
 }
 .aa-Form:focus-within{
-	border-color: #2D2B3D !important;
+	border-color: var(--color-brand) !important;
 }
 .aa-Autocomplete .aa-Form, .aa-DetachedFormContainer .aa-Form {
     height: auto !important;
@@ -147,23 +151,18 @@ article,
 	padding-left: 10px !important;
 }
 
-.ss-btn { 
-	text-decoration: none; 
-}
-
-
-.prose .spwidget-button { 
+.prose .cta-button {
 	@apply mt-2;
 }
 
-.spwidget-button {
+.cta-button {
 	@apply inline-block w-full py-4 px-6 text-white text-center bg-emerald-600 border-0 rounded-md text-lg font-medium poppins;
 }
 
-.spwidget-button:hover{
+.cta-button:hover{
 	@apply bg-emerald-500;
 }
-.spwidget-button:active{
+.cta-button:active{
 	color: rgba(255, 255, 255, .75) !important;box-shadow: 0 1px 3px rgba(0, 0, 0, .15) inset;
 }
 
@@ -171,12 +170,12 @@ article,
 
 /****** FORMS ***/
 
-#contact input, #contact textarea, #schedule-form input, #schedule-form textarea  { 
-	@apply block w-full rounded-md border-0 px-4 py-3 text-stone-900 shadow-sm ring-1 ring-inset ring-stone-300 placeholder:text-stone-400 focus:ring-2 focus:ring-inset focus:ring-cfpurple sm:text-sm sm:leading-6 mb-6;
-	
+#contact input, #contact textarea {
+	@apply block w-full rounded-md border-0 px-4 py-3 text-stone-900 shadow-sm ring-1 ring-inset ring-stone-300 placeholder:text-stone-400 focus:ring-2 focus:ring-inset focus:ring-brand sm:text-sm sm:leading-6 mb-6;
+
 }
 
-#contact textarea,  #schedule-form textarea { 
+#contact textarea {
 	@apply h-32;
 }
 
@@ -185,21 +184,8 @@ article,
 }
 
 
-.therapy .prose img { 
-	@apply max-w-[135px] md:max-w-[245px] float-left m-0 mr-4 mb-4 mr-8 shadow-md border-8 border-stone-100;
-}
-
-.podcast .prose img { 
-	@apply max-w-[130px] md:max-w-[245px] float-left m-0 mr-4 mb-4 shadow-md border-8 border-stone-100;
-}
-
-.podcast .prose  { 
-	@apply pb-12;
-}
-
-
 /**** FOOTER ******/
 
-.footer-link { 
-	@apply text-warm-100 font-normal hover:text-white; 
+.footer-link {
+	@apply text-neutral-100 font-normal hover:text-white;
 }

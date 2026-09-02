@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: "Connect With Dr. Corinne Votaw-Freer"
+description: "Connect With [Your Name]"
 hideSidebarForm: true
 showContactForm: true
 eleventyNavigation:
@@ -8,22 +8,17 @@ eleventyNavigation:
   order: 10000
 ---
 
-### Call or Text Me Anytime. 
-303-956-9684
+### Call or Text Me Anytime.
+{{ site.author.phone }}
 
-### Mailing Address - Colorado
-7900 East Union Avenue
-11th Floor
-Denver, CO 80237
-
-### Mailing Address - California
-106 W 4th Street
-Third Floor
-Santa Ana, CA 92782
+### Mailing Address
+{{ site.address.line1 }}
+{{ site.address.line2 }}
+{{ site.address.city }}, {{ site.address.state }} {{ site.address.zip }}
 
 
 ### For Urgent Help
-If you are in need of immediate assistance, please consider calling the National Suicide Prevention Lifeline (Call 988), contacting The Trevor Project for LGBTQ+ support (866-488-7386), or visiting your nearest emergency room for urgent care. 
+If this is an emergency, please call the appropriate local emergency number or a relevant crisis line for your region. [Replace this paragraph with the resources relevant to your business — this placeholder intentionally omits specific crisis-line numbers, since they vary by locale and service type.]
 
 
 

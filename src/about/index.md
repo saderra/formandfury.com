@@ -1,8 +1,7 @@
 ---
-title: About Dr. Corinne Votaw-Freer
-contentTitle: About Corinne
-description: "Dr. Corinne Votaw-Freer is a psychologist and advocate for those experiencing marginalization."
-bodyClass: therapy
+title: About [Your Name]
+contentTitle: About [Your Name]
+description: "A one-sentence description of who you are, for search results and social previews."
 hideIntro: true
 eleventyNavigation:
   key: About
@@ -10,21 +9,19 @@ eleventyNavigation:
 ---
 
 
-![Dr. Corinne Votaw Freer](/assets/images/corinne-final.jpg "Dr. Corinne Votaw-Freer Headshot")
+![Your Name](/assets/images/headshot.jpg "Your Name Headshot")
 
-My name is Dr. Corinne Votaw-Freer, and I am a dedicated therapist and licensed psychologist. I help people eliminate old patterns that control their thoughts, beliefs, actions, and self-identity. Together, We remove barriers that hide their natural strengths and intrinsic wonder. I lead my clients to achieve their highest potential by building their confidence and teaching them to effectively advocate for themselves.
+This is your About page. Introduce yourself in the first person: who you are, what you do, and who you help. Two to three short paragraphs works well — replace this placeholder copy with your own.
 
-My therapeutic approach is highly personalized, designed to cater to the unique circumstances and needs of each individual I work with. This approach is centered around enhancing self-awareness, deepening your understanding of your interactions with others, and harnessing your inherent potential and strengths to achieve personal growth and improvement in your quality of life.
+Use the second paragraph to describe your approach or philosophy — what makes the way you work different, and what a client or customer can expect when they work with you.
 
-In my practice, I aim to create a supportive and nurturing environment where clients feel safe and understood. My goal is to work collaboratively with you to identify and tackle various personal, emotional, and relational issues that may be hindering your life. By tapping into your own resources and resilience, together we can foster a journey towards healing and self-discovery that is both transformative and enriching. Whether you are dealing with specific psychological issues or seeking to improve your overall mental well-being, I am here to support and guide you every step of the way.
+Use the third paragraph to describe the environment or experience you create, and end with an invitation for the reader to reach out.
 
 
 ## Official Biography
 
-### Dr. Corinne Votaw-Freer, PsyD (She/Her)
+### [Your Name], [Your Credentials]
 
-Corinne brings over 15 years of experience in supporting trauma survivors, holding roles such as Community Outreach Director, Researcher, Psychologist, and Writer. Prior to her engagement in the healing arts, she was a renowned consultant, offering guidance on healthcare policy to leaders at local, state, national, and international levels. Her notable roles include serving as the Outreach Director for The Truth Against Tobacco campaign, and consulting for various District Attorneys and Attorneys General on issues related to Intimate Partner Violence (IPV), survivor outreach, and the prosecution of offenders.
+Replace this section with a longer-form, third-person biography — the kind you'd hand to a journalist, event organizer, or podcast host introducing you. Cover your background, notable experience, and what you're known for.
 
-In her more recent endeavors, Corinne has collaborated with organizations that provide housing and support to queer-identified homeless youth, advocated for gender equity, and conducted research to develop awareness and treatment guidelines for loneliness.
-
-With over two decades of research in the social, biological, and psychological facets of gender, Corinne has designed and led training programs for community leaders, healthcare providers, religious figures, and business executives, aiming to foster affirming and supportive environments within their organizations.
+Add a second paragraph covering more recent work, and a third paragraph on what you're focused on today.

@@ -12,19 +12,13 @@
   --color-brand-dark: #201e2b;
   --color-brand-bright: #bcb4ff;
   --color-subtle: #f6f6f6;
-  --font-primary: 'Poppins', sans-serif;
 }
 
 body {
   @apply font-sans;
 }
 
-.poppins { 
-  font-family: 'Poppins', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 { 
-  font-family: 'Poppins', sans-serif;
+h1, h2, h3, h4, h5, h6 {
   @apply m-0 p-0 capitalize;
 }
 
@@ -32,11 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 /****** MAIN NAVIGATION ***/
 
 ul.main-navigation {
-  @apply poppins text-base text-neutral-700 font-medium;
-}
-
-ul.main-navigation {
-  @apply poppins;
+  @apply text-base text-neutral-700 font-medium;
 }
 
 ul.main-navigation > li {
@@ -78,11 +68,11 @@ div.prose {
 }
 
 .page article h2 {
-	@apply poppins font-medium text-2xl border-b clear-both py-4 ;
+	@apply font-medium text-2xl border-b clear-both py-4 ;
 }
 
 .page article h3 {
-	@apply poppins font-medium text-xl p-0 m-0 pb-4;
+	@apply font-medium text-xl p-0 m-0 pb-4;
 }
 
 .prose a {
@@ -110,7 +100,7 @@ article,
 
 
 .blog-card-content .read-more {
-	@apply poppins inline-flex items-center px-5 py-3 mt-6 border border-transparent shadow-sm font-medium rounded-md text-white bg-brand;
+	@apply inline-flex items-center px-5 py-3 mt-6 border border-transparent shadow-sm font-medium rounded-md text-white bg-brand;
 }
 
 
@@ -156,7 +146,7 @@ article,
 }
 
 .cta-button {
-	@apply inline-block w-full py-4 px-6 text-white text-center bg-emerald-600 border-0 rounded-md text-lg font-medium poppins;
+	@apply inline-block w-full py-4 px-6 text-white text-center bg-emerald-600 border-0 rounded-md text-lg font-medium;
 }
 
 .cta-button:hover{

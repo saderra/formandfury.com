@@ -58,15 +58,16 @@ config-only change.
 
 `src/styles/tailwind.css` has a `:root { }` custom-property block at the top
 (`--color-brand`, `--color-brand-dark`, `--color-brand-bright`,
-`--color-subtle`, `--font-primary`) for the handful of spots that need a raw
-CSS value instead of a Tailwind utility class (currently just the Algolia
-autocomplete widget's focus outline). **Keep these values in sync with the
-color scale above.**
+`--color-subtle`) for the handful of spots that need a raw CSS value instead
+of a Tailwind utility class (currently just the Algolia autocomplete
+widget's focus outline). **Keep these values in sync with the color scale
+above.**
 
-Fonts: `src/_includes/components/head/fonts.njk` loads Poppins from Google
-Fonts and (optionally) a Font Awesome kit. To change the typeface, swap the
-Google Fonts `<link>` and update `--font-primary` in `tailwind.css` and the
-`.poppins` utility class.
+Fonts: templates use Tailwind's default `font-sans` stack (no external font
+is loaded). `src/_includes/components/head/fonts.njk` only loads a Font
+Awesome kit, and only if `site.analytics.fontAwesomeKit` is set. To use a
+custom typeface, add a Google Fonts (or self-hosted) `<link>`/`@font-face`
+there and set it as the `sans` font family in `tailwind.config.js`.
 
 The homepage hero background is a named Tailwind `backgroundImage` token
 (`home-cover`) pointing at a file in `src/assets/images/mast/`.

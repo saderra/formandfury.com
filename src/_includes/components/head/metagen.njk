@@ -2,37 +2,37 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% if cat | title %}
-<title>{{ cat | title }} Articles By {{ site.author.name }}</title>
-{% elseif seoTitle %}
+{% if seoTitle %}
 <title>{{ seoTitle }}</title>
-{% else %}
+{% elif page.url == "/" %}
 <title>{{ title }}</title>
+{% else %}
+<title>{{ title }} | {{ site.title }}</title>
 {% endif %}
 
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
+<meta name="author" content="{{ author or site.author.name }}">
 
-<meta name="author" content="{{ site.author.name }}">
+{% set metaDescription = description or site.description %}
+{% set socialImage = (site.url + image) if image else site.logo %}
+
 <!-- Open Graph -->
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ metaDescription }}">
+<meta property="og:image" content="{{ socialImage }}">
+<meta property="og:image:alt" content="{{ title }}">
 
-{% if description %}
-    <meta property="og:description" content="{{ description }}">
-{% else %}
-    <meta property="og:description" content="{{ site.description }}">
-{% endif %}
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:description" content="{{ metaDescription }}">
+<meta name="twitter:image" content="{{ socialImage }}">
 
-<meta property="og:image" content="{{ site.url + cover }}">
-<meta property="og:image:alt" content="{{ title }} Cover Image">
-
-{% if description %}
-<meta name="description" content="{{ description }}">
-{% else %}
-<meta name="description" content="{{ site.description }}">
-{% endif %}
-
+<meta name="description" content="{{ metaDescription }}">
 
 {% if keywords %}<meta name="keywords" content="{{ keywords }}"/>{% endif %}

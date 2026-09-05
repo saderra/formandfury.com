@@ -4,12 +4,11 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "{{ title }}",
-  "image": "{{ site.url + cover }}",
-  "datePublished": "{{ page.date | htmlDateString }}",
+  "image": "{{ (site.url + image) if image else site.logo }}",
+  "datePublished": "{{ date | htmlDateString }}",
   "author": {
-    "@type": "Person",
-    "name": "{{ site.author.name }}",
-    "url": "{{ site.author.url }}"
+    "@type": "{{ 'Organization' if (author or site.author.name) == site.title else 'Person' }}",
+    "name": "{{ author or site.author.name }}"
   },
   "mainEntityOfPage": { "@type": "WebPage" },
    "publisher": {

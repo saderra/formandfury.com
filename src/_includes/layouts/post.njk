@@ -93,24 +93,6 @@
             </div>
         </div>
         {% endif %}
-
-        {% set recentPosts = page.url | recentArticles(collections.articles, 4) %}
-        {% if recentPosts.length %}
-        <div class="mt-16">
-            <h2 class="font-heading italic text-4xl mb-8">Recent Articles</h2>
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-                {% for post in recentPosts %}
-                <a href="{{ post.url }}" class="relative block aspect-[3/4] overflow-hidden bg-brand-dark rounded-lg group">
-                    {% if post.data.imageMetadata %}
-                        {{ post.data.imageMetadata | renderImage({ alt: post.data.title, class: "w-full h-full object-cover opacity-80 transition-transform duration-500 group-hover:scale-105", sizes: "25vw" }) | safe }}
-                    {% endif %}
-                    <span class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/10 to-transparent"></span>
-                    <span class="absolute inset-x-0 bottom-0 p-4 text-ivory font-heading text-base font-medium leading-snug">{{ post.data.title }}</span>
-                </a>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
     </div>
 </div>
 

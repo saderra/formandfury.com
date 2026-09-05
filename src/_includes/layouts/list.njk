@@ -7,6 +7,10 @@
     <div class="container pt-12 md:pt-16">
         <h1 class="font-heading italic text-5xl md:text-7xl mb-12">{{ catLabel }}</h1>
     </div>
+{% elif pagePosts %}
+    <div class="container pt-12 md:pt-16">
+        <h1 class="font-heading italic text-5xl md:text-7xl mb-12">All Articles</h1>
+    </div>
 {% endif %}
 
 <main class="container grid gap-0 lg:gap-16 grid-cols-12 pb-24">
@@ -14,6 +18,8 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-14">
         {% if catPage %}
             {% set postList = catPage.posts %}
+        {% elif pagePosts %}
+            {% set postList = pagePosts %}
         {% else %}
             {% set postList = collections.articles | reverse %}
         {% endif %}
@@ -25,12 +31,25 @@
         {% if catPage and catPage.totalPages > 1 %}
         <nav class="flex items-center justify-between mt-16 pt-8 border-t border-line" aria-label="Category pagination">
             {% if catPage.pageIndex > 0 %}
-                <a href="{% if catPage.pageIndex == 1 %}/category/{{ catPage.cat | slug }}/{% else %}/category/{{ catPage.cat | slug }}/page/{{ catPage.pageIndex }}/{% endif %}" class="uppercase text-sm tracking-[0.08em] font-medium border border-line rounded-full px-6 py-3 hover:bg-brand hover:text-ivory hover:border-brand transition-colors">&laquo; Newer Posts</a>
+                <a href="{% if catPage.pageIndex == 1 %}/category/{{ catPage.cat | slug }}/{% else %}/category/{{ catPage.cat | slug }}/page/{{ catPage.pageIndex }}/{% endif %}" class="capitalize text-sm tracking-[0.08em] font-medium border border-line rounded-full px-6 py-3 hover:bg-brand hover:text-ivory hover:border-brand transition-colors">&laquo; Newer Posts</a>
             {% else %}
                 <span></span>
             {% endif %}
             {% if catPage.pageIndex + 1 < catPage.totalPages %}
-                <a href="/category/{{ catPage.cat | slug }}/page/{{ catPage.pageIndex + 2 }}/" class="uppercase text-sm tracking-[0.08em] font-medium border border-line rounded-full px-6 py-3 hover:bg-brand hover:text-ivory hover:border-brand transition-colors">Older Posts &raquo;</a>
+                <a href="/category/{{ catPage.cat | slug }}/page/{{ catPage.pageIndex + 2 }}/" class="capitalize text-sm tracking-[0.08em] font-medium border border-line rounded-full px-6 py-3 hover:bg-brand hover:text-ivory hover:border-brand transition-colors">Older Posts &raquo;</a>
+            {% else %}
+                <span></span>
+            {% endif %}
+        </nav>
+        {% elif pagePosts and pagination.pages.length > 1 %}
+        <nav class="flex items-center justify-between mt-16 pt-8 border-t border-line" aria-label="Articles pagination">
+            {% if pagination.href.previous %}
+                <a href="{{ pagination.href.previous }}" class="capitalize text-sm tracking-[0.08em] font-medium border border-line rounded-full px-6 py-3 hover:bg-brand hover:text-ivory hover:border-brand transition-colors">&laquo; Newer Posts</a>
+            {% else %}
+                <span></span>
+            {% endif %}
+            {% if pagination.href.next %}
+                <a href="{{ pagination.href.next }}" class="capitalize text-sm tracking-[0.08em] font-medium border border-line rounded-full px-6 py-3 hover:bg-brand hover:text-ivory hover:border-brand transition-colors">Older Posts &raquo;</a>
             {% else %}
                 <span></span>
             {% endif %}

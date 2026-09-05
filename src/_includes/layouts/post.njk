@@ -6,8 +6,8 @@
 {% set crumbTitle = title %}
 {% include "components/section/breadcrumb.njk" %}
 
-<div class="container grid gap-0 lg:gap-16 grid-cols-12 pt-12 md:pt-16 pb-24">
-    <div class="col-span-12 lg:col-span-8 relative">
+<div class="container pt-12 md:pt-16 pb-24">
+    <div class="max-w-5xl mx-auto relative">
 
         <!-- Share rail -->
         <div class="hidden lg:flex flex-col gap-3 absolute -left-16 top-2" x-data="{ copied: false }">
@@ -26,13 +26,13 @@
         <article>
             <ul class="flex flex-wrap gap-2 mb-6">
                 {%- for cat in categories -%}
-                    <li><a href="/category/{{ cat | slug }}/" class="inline-block bg-accent-soft text-accent rounded-full text-sm uppercase font-medium tracking-[0.06em] px-3 py-1 hover:bg-accent hover:text-ivory transition-colors">{{ categoryLabels[cat] or cat }}</a></li>
+                    <li><a href="/category/{{ cat | slug }}/" class="inline-block bg-accent-soft text-accent rounded-full text-xs capitalize font-medium tracking-[0.06em] px-4 py-1.5 hover:bg-accent hover:text-ivory transition-colors">{{ categoryLabels[cat] or cat }}</a></li>
                 {%- endfor -%}
             </ul>
 
             <h1 class="font-serif font-medium text-5xl md:text-7xl leading-[1.1] tracking-tight text-brand">{{ title }}</h1>
 
-            <div class="flex items-center gap-3 mt-5 text-sm text-brand-bright uppercase tracking-[0.08em]">
+            <div class="flex items-center gap-3 mt-5 text-sm text-brand-bright capitalize tracking-[0.08em]">
                 <time datetime="{{ date | htmlDateString }}">{{ date | postDate }}</time>
                 <span class="text-accent">&middot;</span>
                 <span>by {{ author or site.title }}</span>
@@ -40,7 +40,7 @@
 
             {% if imageMetadata %}
             <figure class="mt-10">
-                {{ imageMetadata | renderImage({ alt: title, class: "w-full rounded-lg", sizes: "(min-width: 1024px) 66vw, 100vw" }) | safe }}
+                {{ imageMetadata | renderImage({ alt: title, class: "w-full rounded-lg", sizes: "(min-width: 1024px) 66vw, 100vw", loading: "eager", fetchpriority: "high" }) | safe }}
                 {% if imageCredit %}
                 <figcaption class="font-serif italic text-base text-brand-bright mt-3">Image Credit: {{ imageCredit }}</figcaption>
                 {% endif %}
@@ -54,7 +54,7 @@
             </div>
         </article>
 
-        <div class="flex items-center gap-3 mt-12 pt-8 border-t border-line text-sm text-brand-bright uppercase tracking-[0.08em]">
+        <div class="flex items-center gap-3 mt-12 pt-8 border-t border-line text-sm text-brand-bright capitalize tracking-[0.08em]">
             <time datetime="{{ date | htmlDateString }}">{{ date | postDate }}</time>
             <span class="text-accent">&middot;</span>
             <span>by {{ author or site.title }}</span>
@@ -69,7 +69,7 @@
                 {% endif %}
             </span>
             <span>
-                <span class="block text-sm uppercase tracking-[0.08em] text-brand-bright">&laquo; Previous Post</span>
+                <span class="block text-sm capitalize tracking-[0.08em] text-brand-bright">&laquo; Previous Post</span>
                 <span class="block font-heading font-medium mt-1">{{ prevPost.data.title }}</span>
             </span>
         </a>
@@ -93,9 +93,25 @@
             </div>
         </div>
         {% endif %}
-    </div>
 
-    {% include "components/section/sidebar.njk" %}
+        {% set recentPosts = page.url | recentArticles(collections.articles, 4) %}
+        {% if recentPosts.length %}
+        <div class="mt-16">
+            <h2 class="font-heading italic text-4xl mb-8">Recent Articles</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+                {% for post in recentPosts %}
+                <a href="{{ post.url }}" class="relative block aspect-[3/4] overflow-hidden bg-brand-dark rounded-lg group">
+                    {% if post.data.imageMetadata %}
+                        {{ post.data.imageMetadata | renderImage({ alt: post.data.title, class: "w-full h-full object-cover opacity-80 transition-transform duration-500 group-hover:scale-105", sizes: "25vw" }) | safe }}
+                    {% endif %}
+                    <span class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/10 to-transparent"></span>
+                    <span class="absolute inset-x-0 bottom-0 p-4 text-ivory font-heading text-base font-medium leading-snug">{{ post.data.title }}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
 </div>
 
 {% endblock %}

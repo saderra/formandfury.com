@@ -28,6 +28,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
   eleventyConfig.addPassthroughCopy('./src/cms')
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
+  eleventyConfig.addPassthroughCopy("./src/_redirects");
   eleventyConfig.addPassthroughCopy({ "node_modules/alpinejs/dist/cdn.min.js": "assets/js/alpine.js" });
 
   // DATE FORMATTING
@@ -44,6 +45,13 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addFilter("previousArticle", function (url, articleCollection) {
     const idx = articleCollection.findIndex((a) => a.url === url);
     return idx > 0 ? articleCollection[idx - 1] : null;
+  });
+
+  eleventyConfig.addFilter("recentArticles", function (url, articleCollection, limit) {
+    return articleCollection
+      .filter((a) => a.url !== url)
+      .reverse()
+      .slice(0, limit || 4);
   });
 
   eleventyConfig.addFilter("relatedArticles", function (post, articleCollection, limit) {
@@ -132,7 +140,7 @@ module.exports = async function (eleventyConfig) {
   // the loop.
   eleventyConfig.addFilter("renderImage", function (metadata, attributes = {}) {
     if (!metadata) return "";
-    return Image.generateHTML(metadata, attributes);
+    return Image.generateHTML(metadata, { loading: "lazy", decoding: "async", ...attributes });
   });
 
   // Same responsive-image output as `renderImage`, for pages that render a

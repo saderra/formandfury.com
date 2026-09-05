@@ -4,13 +4,14 @@
 
 {% if seoTitle %}
 <title>{{ seoTitle }}</title>
-{% elif page.url == "/" %}
-<title>{{ title }}</title>
+{% elif not title or page.url == "/" %}
+<title>{{ title or site.title }}</title>
 {% else %}
 <title>{{ title }} | {{ site.title }}</title>
 {% endif %}
 
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+{% if noindex %}<meta name="robots" content="noindex,nofollow">{% endif %}
 
 <meta name="author" content="{{ author or site.author.name }}">
 

@@ -8,6 +8,10 @@
         <img src="/assets/images/branding/logo.svg" alt="{{ site.title }}" class="h-12 w-auto mb-5" width="592" height="119">
         <p class="font-heading italic text-xl text-brand mb-3">{{ site.tagline }}</p>
         <p class="text-base text-brand-bright leading-relaxed">{{ site.description }}</p>
+        <p class="text-base text-brand-bright leading-relaxed mt-4">
+          {{ site.address.line1 }}, {{ site.address.line2 }}<br>
+          {{ site.address.city }}, {{ site.address.state }} {{ site.address.zip }}
+        </p>
       </div>
 
       <div>

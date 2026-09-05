@@ -1,7 +1,7 @@
 <div class="py-5 border-b border-line" id="crumbbar">
 <div class="container">
     <nav class="flex" aria-label="Breadcrumb">
-        <ol role="list" class="flex items-center flex-wrap gap-x-2 text-sm uppercase tracking-[0.06em] text-brand-bright">
+        <ol role="list" class="flex items-center flex-wrap gap-x-2 text-sm capitalize tracking-[0.06em] text-brand-bright">
             <li><a href="/" class="hover:text-accent transition-colors">Home</a></li>
 
             {% if catLabel %}
@@ -17,3 +17,19 @@
     </nav>
 </div>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": {{ (site.url + "/") | dump | safe }} }
+    {%- if catLabel %},
+    { "@type": "ListItem", "position": 2, "name": {{ catLabel | dump | safe }}, "item": {{ (site.url + (catUrl or '/category/' + (catLabel | slug) + '/')) | dump | safe }} }
+    {%- endif %}
+    {%- if crumbTitle %},
+    { "@type": "ListItem", "position": {{ 3 if catLabel else 2 }}, "name": {{ crumbTitle | dump | safe }}, "item": {{ (site.url + page.url) | dump | safe }} }
+    {%- endif %}
+  ]
+}
+</script>

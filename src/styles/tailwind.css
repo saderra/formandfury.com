@@ -39,7 +39,7 @@ ul.main-navigation > li {
 }
 
 ul.main-navigation > li > a {
-  @apply block px-3 lg:px-4 py-6 ml-1 uppercase text-base font-semibold tracking-[0.04em] text-brand transition-colors;
+  @apply block px-3 lg:px-4 py-6 ml-1 capitalize text-base font-semibold tracking-[0.04em] text-brand transition-colors;
 }
 
 ul.main-navigation > li > a:hover {
@@ -75,7 +75,7 @@ ul.main-navigation > li > ul li:hover {
 }
 
 .article-body {
-  @apply text-xl leading-[1.85] text-brand/90;
+  @apply text-xl leading-[1.85] text-brand;
 }
 
 .article-body p {

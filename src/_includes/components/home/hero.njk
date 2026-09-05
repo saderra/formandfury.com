@@ -3,15 +3,17 @@
     <div x-show="active === {{ loop.index0 }}" x-transition:enter="transition-opacity duration-1000" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" class="relative aspect-[4/3] sm:aspect-[16/9] lg:aspect-[21/9]">
         <a href="{{ post.url }}" class="absolute inset-0 block">
             {% if post.data.imageMetadata %}
-                {{ post.data.imageMetadata | renderImage({ alt: post.data.title, class: "w-full h-full object-cover", sizes: "100vw" }) | safe }}
+                {{ post.data.imageMetadata | renderImage({ alt: post.data.title, class: "w-full h-full object-cover", sizes: "100vw", loading: "eager", fetchpriority: (loop.first and "high") or "auto" }) | safe }}
             {% endif %}
             <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent"></div>
-            <div class="absolute inset-0 flex flex-col justify-end p-8 md:p-16">
-                <div class="max-w-2xl">
-                    {% include "components/blog/topics.njk" %}
-                    <h2 class="font-serif italic text-4xl md:text-6xl font-medium leading-tight">{{ post.data.title }}</h2>
-                    <p class="mt-4 text-ivory/80 max-w-xl hidden md:block">{{ post.data.summary }}</p>
-                    <div class="mt-5 text-sm uppercase tracking-[0.1em] text-ivory/60">{{ post.data.date | postDate }} &middot; by {{ post.data.author }}</div>
+            <div class="absolute inset-0 flex flex-col justify-end pb-8 md:pb-16">
+                <div class="container">
+                    <div class="max-w-2xl text-left">
+                        {% include "components/blog/topics.njk" %}
+                        <h2 class="font-serif italic text-4xl md:text-6xl font-medium leading-tight">{{ post.data.title }}</h2>
+                        <p class="mt-4 text-ivory/80 max-w-xl hidden md:block">{{ post.data.summary }}</p>
+                        <div class="mt-5 text-sm capitalize tracking-[0.1em] text-ivory/60">{{ post.data.date | postDate }} &middot; by {{ post.data.author }}</div>
+                    </div>
                 </div>
             </div>
         </a>

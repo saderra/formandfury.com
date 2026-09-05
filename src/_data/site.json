@@ -14,6 +14,14 @@
       "url": "https://formandfury.com/about"
     },
 
+    "address": {
+      "line1": "106 W 4th Street",
+      "line2": "Third Floor",
+      "city": "Santa Ana",
+      "state": "CA",
+      "zip": "92701"
+    },
+
     "social": {
       "instagram": ""
     },

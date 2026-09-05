@@ -1,0 +1,12 @@
+# The live WordPress site nested sport categories under a parent "Sport" term
+# (e.g. /category/sport/soccer/); the new site flattens them to /category/soccer/.
+# These preserve link equity from Google's existing index and any inbound links.
+/category/sport/basketball/*  /category/basketball/:splat  301
+/category/sport/soccer/*      /category/soccer/:splat      301
+/category/sport/rugby/*       /category/rugby/:splat       301
+/category/sport/tennis/*      /category/tennis/:splat      301
+/category/sport/lacrosse/*    /category/lacrosse/:splat    301
+/category/sport/volleyball/*  /category/volleyball/:splat  301
+
+# WordPress served its RSS feed at /feed/; the new feed lives at /feed/feed.xml.
+/feed/  /feed/feed.xml  301

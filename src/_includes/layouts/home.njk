@@ -26,10 +26,11 @@
                     </a>
                     <div>
                         {% include "components/blog/topics.njk" %}
-                        <h3 class="text-lg font-heading font-medium leading-snug">
+                        <h3 class="text-xl font-heading font-medium leading-snug">
                             <a href="{{ post.url }}" class="hover:text-accent transition-colors">{{ post.data.title }}</a>
                         </h3>
-                        <time class="text-sm text-brand-bright uppercase tracking-[0.08em]">{{ post.data.date | postDate }}</time>
+                        <p class="text-base text-brand-bright leading-6 mt-2">{{ post.data.summary }}</p>
+                        <time class="text-sm text-brand-bright capitalize tracking-[0.08em] mt-2 block">{{ post.data.date | postDate }}</time>
                     </div>
                 </div>
             {% endfor %}

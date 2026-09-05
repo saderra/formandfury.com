@@ -9,7 +9,7 @@ module.exports = {
   imageMetadata: async (data) => {
     if (!data.image) return null;
     const { getImageMetadata } = await import("../../eleventy/image-metadata.mjs");
-    return getImageMetadata(data.image, [400, 800, 1200]);
+    return getImageMetadata(data.image, [400, 800, 1200, 1600, 2000, 2560]);
   },
 
   // Category archive pages (src/resources/categories.njk) are pagination-only

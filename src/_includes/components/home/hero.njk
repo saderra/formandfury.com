@@ -1,9 +1,9 @@
 <section x-data="{ active: 0 }" x-init="setInterval(() => { active = (active + 1) % {{ heroPosts.length }} }, 6000)" class="relative bg-brand-dark text-ivory overflow-hidden">
     {% for post in heroPosts %}
-    <div x-show="active === {{ loop.index0 }}" x-transition:enter="transition-opacity duration-1000" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" class="relative aspect-[4/3] sm:aspect-[16/9] lg:aspect-[21/9]">
+    <div{% if not loop.first %} x-cloak{% endif %} x-show="active === {{ loop.index0 }}" x-transition:enter="transition-opacity duration-1000" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" class="relative aspect-[4/3] sm:aspect-[16/9] lg:aspect-[21/9]">
         <a href="{{ post.url }}" class="absolute inset-0 block" aria-hidden="true" tabindex="-1">
             {% if post.data.imageMetadata %}
-                {{ post.data.imageMetadata | renderImage({ alt: "", class: "w-full h-full object-cover", sizes: "100vw", loading: "eager", fetchpriority: (loop.first and "high") or "auto" }) | safe }}
+                {{ post.data.imageMetadata | renderImage({ alt: "", class: "w-full h-full object-cover", sizes: "100vw", loading: (loop.first and "eager") or "lazy", fetchpriority: (loop.first and "high") or "auto" }) | safe }}
             {% endif %}
             <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent"></div>
         </a>

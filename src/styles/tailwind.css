@@ -133,6 +133,18 @@ ul.main-navigation > li > ul li:hover {
 }
 
 
+/*
+  Alpine's x-cloak convention: hides an element until Alpine finishes
+  booting and strips the `x-cloak` attribute, avoiding a flash of
+  not-yet-hidden content. Safe to use `!important` here (unlike a
+  persistent utility class) because the attribute is removed outright
+  rather than left in the cascade for x-show to fight with.
+*/
+[x-cloak] {
+	display: none !important;
+}
+
+
 /**** SEARCH (Pagefind) ******/
 
 .pagefind-ui {

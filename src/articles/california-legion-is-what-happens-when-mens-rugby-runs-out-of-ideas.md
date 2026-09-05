@@ -1,14 +1,16 @@
 ---
-title: "California Legion Is What Happens When Men’s Rugby Runs Out of Ideas"
+title: California Legion Is What Happens When Men’s Rugby Runs Out of Ideas
 date: 2026-05-05
 categories:
   - opinion
   - updates
-author: "Corinne Votaw"
-image: "/assets/images/articles/california-legion-is-what-happens-when-mens-rugby-runs-out-of-ideas.jpg"
-imageCredit: "Brittany Freer"
-summary: "Originally, we at Form and Fury chose not to publish this. And by we, I mean me. Corinne…"
-description: "Originally, we at Form and Fury chose not to publish this. And by we, I mean me. Corinne…"
+author: Corinne Votaw
+image: /assets/images/articles/california-legion-is-what-happens-when-mens-rugby-runs-out-of-ideas.jpg
+imageCredit: Brittany Freer
+summary: Originally, we at Form and Fury chose not to publish this. And by we, I
+  mean me. Corinne…
+description: Originally, we at Form and Fury chose not to publish this. And by
+  we, I mean me. Corinne…
 ---
 Originally, we at Form and Fury chose not to publish this. And by we, I mean me. Corinne Votaw. Editor of Form and Fury. This is the first opinion piece on Form & Fury. It will not be the last.
 
@@ -24,7 +26,7 @@ On paper, exactly the kind of game Major League Rugby should want people talking
 
 I should be upfront: we left at halftime. That makes a traditional match recap inappropriate — it would be dishonest to write one — so this isn’t that. This is an opinion piece about what we did see, and what it points to.
 
-* * *
+- - -
 
 Wallis Annenberg Stadium holds 2,145 people. Smaller than many high school football stadiums. And on that Sunday, even that felt ambitious for the crowd inside it.
 
@@ -36,7 +38,7 @@ We left at halftime. Not angry. Tired.
 
 Angry would mean I expected something and got let down. This felt more like watching something with real ability keep making the same avoidable mistakes. Sitting in traffic on the 405 afterward felt about as rewarding as staying would have, and that should bother everyone who claims to care about where this sport is headed.
 
-* * *
+- - -
 
 Here’s what makes it harder: **rugby is actually working in America**. Just not here.
 
@@ -56,14 +58,6 @@ Criticism isn’t the enemy of rugby’s growth. Indifference is. The people sti
 
 Men’s professional rugby in America isn’t failing because the sport is bad. It’s failing because the people running it keep mistaking survival for success.
 
-* * *
+- - -
 
 I wanted to leave that stadium feeling encouraged. I didn’t.
-
-**Revisions:**
-
-**Added:** “It will not be the last.” to the first paragraph. 5/5/26 4:17 MST.
-
-Added: “The USA Women’s Eagles vs. Fiji match on July 19, 2025, at Audi Field in Washington, D.C. drew a crowd of 15,198… and the crowd size shrank after the women finished, before the men’s match was due to start.” Sent in by loyal reader. 5/5/26 4:17 MST.
-
-5/5/26 4:16 MST.

@@ -1,17 +1,17 @@
-<div class="py-4 border-b border-black" id="crumbbar">
+<div class="py-5 border-b border-line" id="crumbbar">
 <div class="container">
     <nav class="flex" aria-label="Breadcrumb">
-        <ol role="list" class="flex items-center flex-wrap gap-x-2 text-sm text-brand-bright">
-            <li><a href="/" class="hover:text-black">Home</a></li>
+        <ol role="list" class="flex items-center flex-wrap gap-x-2 text-sm uppercase tracking-[0.06em] text-brand-bright">
+            <li><a href="/" class="hover:text-accent transition-colors">Home</a></li>
 
             {% if catLabel %}
                 <li aria-hidden="true">/</li>
-                <li><a href="{{ catUrl or '/category/' + (catLabel | slug) + '/' }}" class="hover:text-black">{{ catLabel }}</a></li>
+                <li><a href="{{ catUrl or '/category/' + (catLabel | slug) + '/' }}" class="hover:text-accent transition-colors">{{ catLabel }}</a></li>
             {% endif %}
 
             {% if crumbTitle %}
                 <li aria-hidden="true">/</li>
-                <li class="text-black truncate max-w-xs sm:max-w-md">{{ crumbTitle }}</li>
+                <li class="text-brand truncate max-w-xs sm:max-w-md normal-case tracking-normal">{{ crumbTitle }}</li>
             {% endif %}
         </ol>
     </nav>

@@ -8,7 +8,7 @@
             {% endif %}
 
             {% if entry.children %}
-                <ul class="absolute hidden group-hover:block bg-white border border-black z-50 border-b-0 border-t-0 shadow-md">
+                <ul class="absolute hidden group-hover:block bg-ivory border border-line z-50 border-b-0 border-t-0 shadow-lg shadow-brand/5 rounded-b-md">
                 {% for child in entry.children %}
                     <li><a href="{{ child.url | url }}">{{ child.title }}</a></li>
                 {% endfor %}

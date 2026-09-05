@@ -1,12 +1,12 @@
-<div class="blog-card">
+<div class="blog-card group">
     {% include "components/blog/cover.njk" %}
     <div class="blog-card-content">
         {% include "components/blog/topics.njk" %}
         {% include "components/blog/title.njk" %}
         {% include "components/blog/summary.njk" %}
-        <div class="flex items-center justify-between mt-3">
+        <div class="flex items-center justify-between mt-4">
             {% include "components/blog/date.njk" %}
-            <a class="text-xs uppercase font-medium tracking-wide hover:underline" href="{{ post.url }}">Read More &raquo;</a>
+            <a class="text-sm uppercase font-medium tracking-[0.06em] text-accent hover:text-brand transition-colors" href="{{ post.url }}">Read More &raquo;</a>
         </div>
     </div>
 </div>

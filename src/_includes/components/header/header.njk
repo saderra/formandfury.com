@@ -1,6 +1,6 @@
 {% include "components/header/off-canvas.njk" %}
 {% include "components/header/top.njk" %}
-<header class="sticky top-0 bg-white z-50">
+<header class="sticky top-0 bg-ivory border-b border-line z-50">
 <nav x-data="{ open: false }" role="navigation" aria-label="Main Menu">
 <div class="container">
     <div class="flex items-center justify-between py-3">
@@ -9,13 +9,13 @@
         {% include "components/global/logo.njk" %}
     </div>
 
-    <a href="/contact/" class="hidden sm:inline-block bg-black text-white text-sm font-medium uppercase tracking-wide rounded px-6 py-3">Contact</a>
+    <a href="/contact/" class="hidden sm:inline-block bg-brand text-ivory text-sm font-medium uppercase tracking-[0.1em] rounded-full px-7 py-3 hover:bg-accent transition-colors">Contact</a>
 
     </div>
 
 </div>
-<div class="container border-t border-black">
-    <div class="flex items-center justify-between h-16">
+<div class="container border-t border-line">
+    <div class="flex items-center justify-between h-14">
     {% include "components/header/desktop-links.njk" %}
     {% include "components/header/mobile-button.njk" %}
     </div>

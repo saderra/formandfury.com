@@ -1,14 +1,14 @@
-{% set sbheader = "font-heading uppercase tracking-tight text-lg pb-4 border-b border-black mb-4" %}
+{% set sbheader = "font-heading italic text-3xl pb-5 border-b border-line mb-6" %}
 
-<div class="col-span-12 lg:col-span-4" id="sidebar">
+<div class="col-span-12 lg:col-span-4 mt-16 lg:mt-0" id="sidebar">
 
     <div>
         <h2 class="{{ sbheader }}">Recent Posts</h2>
-        <ol class="space-y-4">
+        <ol class="space-y-6">
             {%- for post in (collections.articles | reverse).slice(0, 5) -%}
-            <li class="flex gap-3 items-start">
-                <span class="flex-shrink-0 w-7 h-7 rounded-full bg-black text-white text-xs font-medium flex items-center justify-center">{{ loop.index }}</span>
-                <a href="{{ post.url }}" class="text-sm font-medium leading-snug hover:underline">{{ post.data.title }}</a>
+            <li class="flex gap-4 items-start">
+                <span class="flex-shrink-0 font-heading italic text-3xl text-accent leading-none pt-0.5">{{ loop.index }}</span>
+                <a href="{{ post.url }}" class="text-base font-medium leading-snug hover:text-accent transition-colors">{{ post.data.title }}</a>
             </li>
             {%- endfor -%}
         </ol>

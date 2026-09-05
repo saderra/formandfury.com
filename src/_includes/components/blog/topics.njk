@@ -4,10 +4,10 @@
     {% set categoryList = categories %}
 {% endif %}
 
-<ul class="flex flex-wrap gap-2">
+<ul class="flex flex-wrap gap-2 mb-5">
     {%- for cat in categoryList -%}
         <li>
-            <a href="/category/{{ cat | slug }}/" class="inline-block border border-black rounded-sm text-[11px] uppercase font-medium tracking-wide px-2 py-1 hover:bg-black hover:text-white">{{ categoryLabels[cat] or cat }}</a>
+            <a href="/category/{{ cat | slug }}/" class="inline-block bg-accent-soft text-accent rounded-full text-sm uppercase font-medium tracking-[0.06em] px-3 py-1 hover:bg-accent hover:text-ivory transition-colors">{{ categoryLabels[cat] or cat }}</a>
         </li>
     {%- endfor -%}
 </ul>

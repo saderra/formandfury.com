@@ -26,24 +26,30 @@ module.exports = {
 			xxs: '200px',
 		},
 		fontFamily: {
-			sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-			heading: ['Raleway', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-			serif: ['Rasa', 'ui-serif', 'Georgia', 'serif'],
+			sans: ['Manrope', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+			heading: ['"Fraunces"', 'ui-serif', 'Georgia', 'serif'],
+			serif: ['"Fraunces"', 'ui-serif', 'Georgia', 'serif'],
 		},
       	colors: {
 			brand: {
-				light: '#F3F3F3',
-				bright: '#525252',
-				DEFAULT: '#000000',
-				dark: '#000000',
-				darker: '#000000',
-				border: '#D9D9D9',
+				light: '#F4EAE4',
+				bright: '#8A8078',
+				DEFAULT: '#211D1B',
+				dark: '#171412',
+				darker: '#171412',
+				border: '#E7DFD8',
 			},
 			subtle: {
-					DEFAULT: '#F3F3F3',
-					dark: '#e5e5e5'
+					DEFAULT: '#F8F3EF',
+					dark: '#F4EAE4'
 				},
-			accent: '#A61E22',
+			ivory: '#FBF7F3',
+			blush: '#F4EAE4',
+			line: '#E7DFD8',
+			accent: {
+				DEFAULT: '#9C3049',
+				soft: '#F1DCDD',
+			},
 		},
     },
   },

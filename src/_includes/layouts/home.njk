@@ -9,35 +9,35 @@
 
 {% include "components/home/hero.njk" %}
 
-<div class="container py-12">
+<div class="container py-20 md:py-28">
 
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 pb-12 border-b border-black">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 pb-20 border-b border-line">
         <div>
             {% set post = featured %}
             {% include "components/blog/card.njk" %}
         </div>
-        <div class="space-y-6">
+        <div class="space-y-8">
             {% for post in listNext %}
-                <div class="flex gap-4 items-start pb-6 border-b border-black last:border-0 last:pb-0">
-                    <a href="{{ post.url }}" class="flex-shrink-0 w-28 h-20 block overflow-hidden bg-subtle">
+                <div class="flex gap-5 items-start pb-8 border-b border-line last:border-0 last:pb-0">
+                    <a href="{{ post.url }}" class="flex-shrink-0 w-28 h-20 block overflow-hidden bg-subtle rounded-lg">
                         {% if post.data.imageMetadata %}
                             {{ post.data.imageMetadata | renderImage({ alt: post.data.title, class: "w-full h-full object-cover", sizes: "112px" }) | safe }}
                         {% endif %}
                     </a>
                     <div>
                         {% include "components/blog/topics.njk" %}
-                        <h3 class="text-base font-medium leading-snug mt-2">
-                            <a href="{{ post.url }}" class="hover:underline">{{ post.data.title }}</a>
+                        <h3 class="text-lg font-heading font-medium leading-snug">
+                            <a href="{{ post.url }}" class="hover:text-accent transition-colors">{{ post.data.title }}</a>
                         </h3>
-                        <time class="text-xs text-brand-bright uppercase tracking-wide">{{ post.data.date | postDate }}</time>
+                        <time class="text-sm text-brand-bright uppercase tracking-[0.08em]">{{ post.data.date | postDate }}</time>
                     </div>
                 </div>
             {% endfor %}
         </div>
     </div>
 
-    <h2 class="font-heading uppercase tracking-tight text-2xl mt-12 mb-8">Latest Stories</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    <h2 class="font-heading italic text-4xl mt-20 mb-10">Latest Stories</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-14">
         {% for post in gridNext %}
             {% include "components/blog/card.njk" %}
         {% endfor %}

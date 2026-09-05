@@ -5,22 +5,26 @@
 /*
   Single source of truth for theme values used outside Tailwind's utility
   classes (third-party widget CSS, inline SVG, etc). Keep these in sync with
-  the `brand` / `subtle` color scales in tailwind.config.js.
+  the `brand` / `subtle` / `accent` color scales in tailwind.config.js.
 */
 :root {
-  --color-brand: #000000;
-  --color-brand-dark: #000000;
-  --color-brand-bright: #525252;
-  --color-subtle: #F3F3F3;
-  --color-accent: #A61E22;
+  --color-brand: #211D1B;
+  --color-brand-dark: #171412;
+  --color-brand-bright: #8A8078;
+  --color-subtle: #F8F3EF;
+  --color-accent: #9C3049;
 }
 
 body {
-  @apply font-sans text-black;
+  @apply font-sans text-brand bg-ivory;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @apply m-0 p-0;
+  @apply m-0 p-0 font-heading font-medium;
+}
+
+::selection {
+  @apply bg-accent-soft text-brand;
 }
 
 
@@ -35,47 +39,51 @@ ul.main-navigation > li {
 }
 
 ul.main-navigation > li > a {
-  @apply block px-2 lg:px-3 py-5 ml-1 lg:ml-2 uppercase text-sm tracking-tight;
+  @apply block px-3 lg:px-4 py-6 ml-1 uppercase text-base font-semibold tracking-[0.04em] text-brand transition-colors;
+}
+
+ul.main-navigation > li > a:hover {
+  @apply text-accent;
 }
 
 ul.main-navigation > li > ul {
-  @apply bg-white border-t text-sm;
+  @apply bg-ivory border-t border-line text-base rounded-b-md shadow-lg shadow-brand/5;
 }
 
 ul.main-navigation > li > ul > li {
-	@apply border-b border-black pr-8;
+	@apply border-b border-line last:border-0 pr-10;
 }
 
 ul.main-navigation > li > ul a {
-	@apply block pl-6 py-3 normal-case;
+	@apply block pl-6 py-3 normal-case tracking-normal text-brand/80;
 }
 
 ul.main-navigation > li > ul li:hover {
-	@apply bg-subtle;
-}
-
-ul.main-navigation > li > ul > li:last-of-type {
-  @apply border-none;
+	@apply bg-blush/60;
 }
 
 
 /****** PAGE / ARTICLE PROSE ***/
 
 .prose h1, .prose h2, .prose h3 {
-  @apply font-heading uppercase tracking-tight;
+  @apply font-heading font-medium tracking-tight;
 }
 
 .page article a,
 .article-body a {
-	@apply font-semibold underline;
+	@apply font-medium underline decoration-accent/40 decoration-2 underline-offset-2 hover:decoration-accent;
 }
 
 .article-body {
-  @apply text-lg leading-[1.8];
+  @apply text-xl leading-[1.85] text-brand/90;
 }
 
 .article-body p {
-  @apply mb-6;
+  @apply mb-7;
+}
+
+.article-body > p:first-of-type::first-letter {
+  @apply font-heading text-6xl md:text-7xl font-medium text-accent float-left leading-[0.8] pr-3 pt-1;
 }
 
 
@@ -86,21 +94,21 @@ ul.main-navigation > li > ul > li:last-of-type {
 }
 
 .blog-card-content {
-	@apply pt-4;
+	@apply pt-5;
 }
 
 
 /****** SIDEBAR ***/
 
 #sidebar > div {
-	@apply p-6 bg-subtle mb-8;
+	@apply mb-10;
 }
 
 
 /****** FORMS ***/
 
 #contact input, #contact textarea {
-	@apply block w-full rounded-md border-0 px-4 py-3 text-black shadow-sm ring-1 ring-inset ring-stone-300 placeholder:text-stone-400 focus:ring-2 focus:ring-inset focus:ring-black sm:text-sm sm:leading-6 mb-6;
+	@apply block w-full rounded-lg border-0 px-4 py-3 bg-white text-brand shadow-sm ring-1 ring-inset ring-line placeholder:text-brand-bright focus:ring-2 focus:ring-inset focus:ring-accent sm:text-base sm:leading-6 mb-5;
 }
 
 #contact textarea {
@@ -119,5 +127,5 @@ ul.main-navigation > li > ul > li:last-of-type {
 /**** FOOTER ******/
 
 .footer-link {
-	@apply text-brand-bright font-normal hover:text-black;
+	@apply text-brand/70 font-normal hover:text-accent transition-colors;
 }

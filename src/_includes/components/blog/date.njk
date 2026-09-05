@@ -4,6 +4,6 @@
     {% set timeStamp = date %}
 {% endif %}
 
-<time datetime="{{ timeStamp | htmlDateString }}" class="text-brand-bright text-xs uppercase tracking-wide">
+<time datetime="{{ timeStamp | htmlDateString }}" class="text-brand-bright text-sm uppercase tracking-[0.08em]">
     {{ timeStamp | postDate }}
 </time>

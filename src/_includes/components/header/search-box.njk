@@ -1,0 +1,23 @@
+<div class="site-search {{ variant }}">
+    <div id="{{ searchInputId }}"></div>
+</div>
+
+<script>
+(function () {
+    function init() {
+        if (typeof PagefindUI === "undefined") return;
+        new PagefindUI({
+            element: "#{{ searchInputId }}",
+            showSubResults: false,
+            showImages: false,
+            resetStyles: false,
+            excerptLength: 12,
+        });
+    }
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", init);
+    } else {
+        init();
+    }
+})();
+</script>

@@ -1,0 +1,22 @@
+{% extends "layouts/base.njk" %}
+{% block mainContent %}
+
+<div class="container pt-12 md:pt-16 pb-24 max-w-3xl" data-pagefind-ignore>
+    <h1 class="font-heading italic text-5xl md:text-7xl mb-12">{{ title }}</h1>
+
+    <div id="search-page"></div>
+</div>
+
+<script>
+    window.addEventListener('DOMContentLoaded', () => {
+        if (typeof PagefindUI === "undefined") return;
+        new PagefindUI({
+            element: "#search-page",
+            showSubResults: true,
+            showImages: false,
+            resetStyles: false,
+        });
+    });
+</script>
+
+{% endblock %}

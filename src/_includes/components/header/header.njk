@@ -9,7 +9,13 @@
         {% include "components/global/logo.njk" %}
     </div>
 
-    {% include "components/header/mobile-button.njk" %}
+    <div class="flex items-center gap-2">
+        {% set searchInputId = "header-search-desktop" %}
+        {% set variant = "site-search--compact hidden lg:block" %}
+        {% include "components/header/search-box.njk" %}
+
+        {% include "components/header/mobile-button.njk" %}
+    </div>
 
     </div>
 
@@ -21,3 +27,10 @@
 </div>
 </nav>
 </header>
+<div class="lg:hidden bg-ivory border-b border-line">
+    <div class="container py-3">
+        {% set searchInputId = "header-search-mobile" %}
+        {% set variant = "site-search--full" %}
+        {% include "components/header/search-box.njk" %}
+    </div>
+</div>

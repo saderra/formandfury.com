@@ -4,7 +4,7 @@
 <body {% if layout %}class="{{ layout }} {{ bodyClass }}"{% endif %}>
 {% include "components/header/header.njk" %}
 
-<section class="bg-ivory">
+<section class="bg-ivory" data-pagefind-body>
    {% block mainContent %}{% endblock %}
 </section>
 

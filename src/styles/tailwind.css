@@ -31,15 +31,15 @@ h1, h2, h3, h4, h5, h6 {
 /****** MAIN NAVIGATION ***/
 
 ul.main-navigation {
-  @apply text-base font-medium;
+  @apply flex items-stretch h-full text-base font-medium;
 }
 
 ul.main-navigation > li {
-  @apply inline-block float-left relative;
+  @apply flex items-stretch relative;
 }
 
 ul.main-navigation > li > a {
-  @apply block px-3 lg:px-4 py-6 ml-1 capitalize text-base font-semibold tracking-[0.04em] text-brand transition-colors;
+  @apply flex items-center px-3 lg:px-4 ml-1 capitalize text-base font-semibold tracking-[0.04em] text-brand transition-colors;
 }
 
 ul.main-navigation > li > a:hover {

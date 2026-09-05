@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /cms/
 
-Sitemap: https://formandfury.com/sitemap.xml
+Sitemap: https://www.formandfury.com/sitemap.xml

@@ -1,17 +1,17 @@
 {
     "title": "Form & Fury",
     "tagline": "All Women · All Sports",
-    "url": "https://formandfury.com",
+    "url": "https://www.formandfury.com",
     "locale": "en-us",
     "language": "en",
     "description": "Form & Fury: Where precision meets chaos—unleashing the rawest moments in sports and action.",
-    "logo": "https://formandfury.com/assets/images/branding/logo-light.jpg",
-    "favicon": "https://formandfury.com/assets/favicons/favicon-32x32.png",
+    "logo": "https://www.formandfury.com/assets/images/branding/logo-light.jpg",
+    "favicon": "https://www.formandfury.com/assets/favicons/favicon-32x32.png",
 
     "author": {
       "name": "Form & Fury",
       "email": "hello@formandfury.com",
-      "url": "https://formandfury.com/about"
+      "url": "https://www.formandfury.com/about"
     },
 
     "address": {
@@ -41,10 +41,10 @@
       "subtitle": "Women's sports news, photography, and opinion from Form & Fury.",
       "filename": "feed.xml",
       "path": "/feed/feed.xml",
-      "id": "https://formandfury.com/"
+      "id": "https://www.formandfury.com/"
     },
     "jsonfeed": {
       "path": "/feed/feed.json",
-      "url": "https://formandfury.com/feed/feed.json"
+      "url": "https://www.formandfury.com/feed/feed.json"
     }
   }

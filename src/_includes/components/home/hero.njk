@@ -10,11 +10,8 @@
         <div class="absolute inset-0 flex flex-col justify-end pb-8 md:pb-16 pointer-events-none">
             <div class="container">
                 <div class="max-w-2xl text-left">
-                    <div class="pointer-events-auto inline-block">
-                        {% include "components/blog/topics.njk" %}
-                    </div>
                     <a href="{{ post.url }}" class="pointer-events-auto block">
-                        <h2 class="font-serif italic text-4xl md:text-6xl font-medium leading-tight">{{ post.data.title }}</h2>
+                        <h2 class="font-serif italic text-xl md:text-6xl font-medium leading-tight">{{ post.data.title }}</h2>
                         <p class="mt-4 text-ivory/80 max-w-xl hidden md:block">{{ post.data.summary }}</p>
                         <div class="mt-5 text-sm capitalize tracking-[0.1em] text-ivory/60">{{ post.data.date | postDate }} &middot; by {{ post.data.author }}</div>
                     </a>

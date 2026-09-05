@@ -1,36 +1,36 @@
-{% set titleStyle = "text-base font-medium pb-4 border-b border-white/20 uppercase tracking-wide mb-6" %}
-
-<footer class="bg-[#111010] text-neutral-100 py-20" aria-labelledby="footer-heading">
+<footer class="bg-white text-black border-t border-black py-16" aria-labelledby="footer-heading">
   <h2 id="footer-heading" class="sr-only">Footer</h2>
 
   <div class="container">
-    <div class="xl:grid xl:grid-cols-3 xl:gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
 
-
-      <div class="grid grid-cols-1 gap-8 xl:col-span-2">
-        <div class="max-w-xs">
-
-          <div>
-            <h3 class="{{ titleStyle }} mt-10 md:mt-0">Company</h3>
-            <ul role="list" class="mt-4 space-y-4">
-
-                <li><a href="/about/" class="footer-link">About</a></li>
-                <li><a href="/articles/" class="footer-link">Articles</a></li>
-                <li><a href="/contact/" class="footer-link">Contact</a></li>
-                <li><a href="/privacy" class="footer-link">Privacy Policy</a></li>
-
-
-            </ul>
-          </div>
-
-        </div>
+      <div class="max-w-xs">
+        <img src="/assets/images/branding/logo-light.jpg" alt="{{ site.title }}" class="h-9 w-auto mb-4" width="161" height="44">
+        <p class="uppercase text-sm tracking-wide mb-2">{{ site.tagline }}</p>
+        <p class="text-sm text-brand-bright">{{ site.description }}</p>
       </div>
 
+      <div>
+        <h3 class="font-heading uppercase tracking-tight text-sm font-medium pb-4 border-b border-black mb-4">Browse By Sport</h3>
+        <ul role="list" class="space-y-3 text-sm">
+          <li><a href="/category/soccer/" class="footer-link">Soccer</a></li>
+          <li><a href="/category/basketball/" class="footer-link">Basketball</a></li>
+          <li><a href="/category/rugby/" class="footer-link">Rugby</a></li>
+          <li><a href="/category/tennis/" class="footer-link">Tennis</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="font-heading uppercase tracking-tight text-sm font-medium pb-4 border-b border-black mb-4">Form &amp; Fury</h3>
+        <ul role="list" class="space-y-3 text-sm">
+          <li><a href="/about/" class="footer-link">About</a></li>
+          <li><a href="/contributors/" class="footer-link">Contributors</a></li>
+          <li><a href="/submit-a-story/" class="footer-link">Submit A Story</a></li>
+          <li><a href="/contact/" class="footer-link">Contact</a></li>
+        </ul>
+      </div>
 
     </div>
-
-
   </div>
-
 
 </footer>

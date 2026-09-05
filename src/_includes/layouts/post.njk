@@ -1,28 +1,101 @@
 {% extends "layouts/base.njk" %}
 {% block mainContent %}
-      <div class="container grid gap-0 lg:gap-10 grid-cols-12 pt-8">
-        <div class="p-0 col-span-12 lg:col-span-8">          
-           <article class="prose max-w-full p-6 md:p-8">
 
-                <image src="{{ cover }}" class="rounded-md" alt="{{ title }} cover image" />
+{% set catLabel = categoryLabels[categories[0]] or categories[0] %}
+{% set catUrl = "/category/" + (categories[0] | slug) + "/" %}
+{% set crumbTitle = title %}
+{% include "components/section/breadcrumb.njk" %}
 
-                <div class="bg-stone-50 p-5 md:p-8 rounded-md shadow-inner">
-                   
-                    {% include "components/blog/title.njk" %}
+<div class="container grid gap-0 lg:gap-10 grid-cols-12 pt-8 pb-16">
+    <div class="col-span-12 lg:col-span-8 relative">
 
+        <!-- Share rail -->
+        <div class="hidden lg:flex flex-col gap-3 absolute -left-16 top-2" x-data="{ copied: false }">
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" rel="noopener" class="w-10 h-10 rounded-full bg-black text-white flex items-center justify-center hover:opacity-80" aria-label="Share on Facebook">
+                <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M22 12a10 10 0 1 0-11.6 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.4h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.4v7A10 10 0 0 0 22 12"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ title }}" target="_blank" rel="noopener" class="w-10 h-10 rounded-full bg-black text-white flex items-center justify-center hover:opacity-80" aria-label="Share on X">
+                <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M18.9 2H22l-7.6 8.7L23 22h-6.6l-5.2-6.8L5.2 22H2l8.2-9.3L1.5 2h6.8l4.7 6.2L18.9 2Zm-1.2 18h1.8L7 4h-2l12.7 16Z"/></svg>
+            </a>
+            <button @click="navigator.clipboard.writeText(window.location.href); copied = true; setTimeout(() => copied = false, 2000)" class="w-10 h-10 rounded-full bg-black text-white flex items-center justify-center hover:opacity-80" aria-label="Copy link">
+                <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M17 7h-3a1 1 0 0 0 0 2h3a3 3 0 0 1 0 6h-3a1 1 0 0 0 0 2h3a5 5 0 0 0 0-10ZM7 15h3a1 1 0 0 0 0-2H7a3 3 0 0 1 0-6h3a1 1 0 0 0 0-2H7a5 5 0 0 0 0 10Zm1-4h8v2H8v-2Z"/></svg>
+            </button>
+            <span x-show="copied" x-transition class="text-[11px] text-center text-brand-bright">Copied</span>
+        </div>
 
-                    <div class="mt-4">
+        <article>
+            <ul class="flex flex-wrap gap-2 mb-4">
+                {%- for cat in categories -%}
+                    <li><a href="/category/{{ cat | slug }}/" class="inline-block border border-black rounded-sm text-[11px] uppercase font-medium tracking-wide px-2 py-1 hover:bg-black hover:text-white">{{ categoryLabels[cat] or cat }}</a></li>
+                {%- endfor -%}
+            </ul>
 
+            <h1 class="font-serif font-semibold text-3xl md:text-5xl leading-tight tracking-tight">{{ title }}</h1>
+
+            <div class="flex items-center gap-3 mt-4 text-sm text-brand-bright uppercase tracking-wide">
+                <time datetime="{{ date | htmlDateString }}">{{ date | postDate }}</time>
+                <span>&middot;</span>
+                <span>by {{ author or site.title }}</span>
+            </div>
+
+            {% if imageMetadata %}
+            <figure class="mt-8">
+                {{ imageMetadata | renderImage({ alt: title, class: "w-full", sizes: "(min-width: 1024px) 66vw, 100vw" }) | safe }}
+                {% if imageCredit %}
+                <figcaption class="text-xs text-brand-bright mt-2">Image Credit: {{ imageCredit }}</figcaption>
+                {% endif %}
+            </figure>
+            {% endif %}
+
+            <div class="prose prose-lg max-w-none mt-8 text-black">
+                <div class="article-body">
                     {{ content | safe }}
-
-        
-            
                 </div>
-            </article>
-        </div>     
-        {% include "components/section/sidebar.njk" %}
+            </div>
+        </article>
+
+        <div class="flex items-center gap-3 mt-10 pt-6 border-t border-black text-sm text-brand-bright uppercase tracking-wide">
+            <time datetime="{{ date | htmlDateString }}">{{ date | postDate }}</time>
+            <span>&middot;</span>
+            <span>by {{ author or site.title }}</span>
+        </div>
+
+        {% set prevPost = page.url | previousArticle(collections.articles) %}
+        {% if prevPost %}
+        <a href="{{ prevPost.url }}" class="flex gap-4 items-center mt-8 p-4 border border-black">
+            <span class="flex-shrink-0 w-20 h-16 overflow-hidden bg-subtle">
+                {% if prevPost.data.imageMetadata %}
+                    {{ prevPost.data.imageMetadata | renderImage({ alt: prevPost.data.title, class: "w-full h-full object-cover", sizes: "80px" }) | safe }}
+                {% endif %}
+            </span>
+            <span>
+                <span class="block text-xs uppercase tracking-wide text-brand-bright">&laquo; Previous Post</span>
+                <span class="block font-medium mt-1">{{ prevPost.data.title }}</span>
+            </span>
+        </a>
+        {% endif %}
+
+        {% set thisPost = { url: page.url, data: { categories: categories } } %}
+        {% set relatedPosts = thisPost | relatedArticles(collections.articles, 4) %}
+        {% if relatedPosts.length %}
+        <div class="mt-12">
+            <h2 class="font-heading uppercase tracking-tight text-2xl mb-6">Recommended For You</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                {% for post in relatedPosts %}
+                <a href="{{ post.url }}" class="relative block aspect-[3/4] overflow-hidden bg-black">
+                    {% if post.data.imageMetadata %}
+                        {{ post.data.imageMetadata | renderImage({ alt: post.data.title, class: "w-full h-full object-cover opacity-80", sizes: "25vw" }) | safe }}
+                    {% endif %}
+                    <span class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/10 to-transparent"></span>
+                    <span class="absolute inset-x-0 bottom-0 p-3 text-white text-sm font-medium leading-snug">{{ post.data.title }}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
     </div>
 
+    {% include "components/section/sidebar.njk" %}
+</div>
+
 {% endblock %}
-
-

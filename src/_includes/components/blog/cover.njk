@@ -1,3 +1,5 @@
-<a href="{{ post.url }}">
-    <image src="{{ post.data.cover }}" alt="{{ post.data.title }} cover image" />
+<a href="{{ post.url }}" class="block overflow-hidden bg-subtle aspect-[3/2]">
+    {% if post.data.imageMetadata %}
+        {{ post.data.imageMetadata | renderImage({ alt: post.data.title, class: "w-full h-full object-cover", sizes: "(min-width: 1024px) 33vw, 100vw" }) | safe }}
+    {% endif %}
 </a>

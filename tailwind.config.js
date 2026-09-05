@@ -25,19 +25,25 @@ module.exports = {
 		maxWidth: {
 			xxs: '200px',
 		},
+		fontFamily: {
+			sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+			heading: ['Raleway', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+			serif: ['Rasa', 'ui-serif', 'Georgia', 'serif'],
+		},
       	colors: {
 			brand: {
-				light: '#e8e8e9',
-				bright: '#bcb4ff',
-				DEFAULT: '#2d2b3d',
-				dark: '#201e2b',
-				darker: '#121118',
-				border: '#494754',
+				light: '#F3F3F3',
+				bright: '#525252',
+				DEFAULT: '#000000',
+				dark: '#000000',
+				darker: '#000000',
+				border: '#D9D9D9',
 			},
 			subtle: {
-					DEFAULT: '#f6f6f6',
-					dark: '#f1f1f1'
+					DEFAULT: '#F3F3F3',
+					dark: '#e5e5e5'
 				},
+			accent: '#A61E22',
 		},
     },
   },

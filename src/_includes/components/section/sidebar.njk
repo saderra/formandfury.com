@@ -1,50 +1,17 @@
-{% set sbheader = "pb-4 border-b border-stone-300 mb-4" %}
+{% set sbheader = "font-heading uppercase tracking-tight text-lg pb-4 border-b border-black mb-4" %}
 
 <div class="col-span-12 lg:col-span-4" id="sidebar">
 
     <div>
-    <h2 class="{{ sbheader }}">Scheduling</h2>
-    {% include "components/global/appointment.njk" %}
-
+        <h2 class="{{ sbheader }}">Recent Posts</h2>
+        <ol class="space-y-4">
+            {%- for post in (collections.articles | reverse).slice(0, 5) -%}
+            <li class="flex gap-3 items-start">
+                <span class="flex-shrink-0 w-7 h-7 rounded-full bg-black text-white text-xs font-medium flex items-center justify-center">{{ loop.index }}</span>
+                <a href="{{ post.url }}" class="text-sm font-medium leading-snug hover:underline">{{ post.data.title }}</a>
+            </li>
+            {%- endfor -%}
+        </ol>
     </div>
-
-
-
-
-
-        {% if hideIntro != true %} 
-        <div>
-            <h2 class="{{ sbheader }}">About {{ site.author.firstName }}</h2>
-            <p class="leading-7 mb-6 pr-6 text-stone-700">{{ site.sidebarintro }}</p>
-        </div>
-        {% endif %} 
-
-
-
-
-
-
-
-
-
-
-         <div>
-            <h2 class="{{ sbheader }}">Article Topics</h2>
-            <ul>
-                {%- for cat in collections.getCat -%}
-                    <li class="block"> 
-                        <a href="/articles/categories/{{ cat | slug }}" class="inline-block capitalize p-4 text-center text-neutral-600 w-full rounded-md my-2 border border-neutral-200 hover:bg-neutral-100/50 font-medium"> {{ cat | title }} </a>
-                    </li>
-                {%- endfor -%} 
-            </ul>
-        </div>
-
-
-
-
-
-
-
-
 
 </div>

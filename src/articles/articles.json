@@ -1,4 +1,6 @@
 {
     "type": "post",
-    "layout": "post"
+    "layout": "post",
+    "tags": "articles",
+    "permalink": "/{{ page.fileSlug }}/"
 }

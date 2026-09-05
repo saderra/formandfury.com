@@ -1,9 +1,9 @@
 ---
 pagination:
-  data: collections.getCat
+  data: collections.getCatPages
   size: 1
-  alias: cat
+  alias: catPage
   addAllPagesToCollections: true
-permalink: /articles/categories/{{ cat | slug }}/
+permalink: "{% if catPage.pageIndex == 0 %}/category/{{ catPage.cat | slug }}/{% else %}/category/{{ catPage.cat | slug }}/page/{{ catPage.pageIndex + 1 }}/{% endif %}"
 layout: list
 ---

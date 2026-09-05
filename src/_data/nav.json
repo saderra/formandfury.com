@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Browse By Sport",
+    "children": [
+      { "title": "Basketball", "url": "/category/basketball/" },
+      { "title": "Soccer", "url": "/category/soccer/" },
+      { "title": "Rugby", "url": "/category/rugby/" },
+      { "title": "Tennis", "url": "/category/tennis/" },
+      { "title": "Lacrosse", "url": "/category/lacrosse/" },
+      { "title": "Volleyball", "url": "/category/volleyball/" }
+    ]
+  },
+  { "title": "Shot By Women", "url": "/category/female-sports-photography/" },
+  { "title": "Opinion", "url": "/category/opinion/" },
+  { "title": "Professional", "url": "/category/professional/" },
+  { "title": "World", "url": "/category/world/" },
+  { "title": "College", "url": "/category/college/" },
+  { "title": "All Means All", "url": "/all-means-all/" },
+  { "title": "Contributors", "url": "/contributors/" },
+  { "title": "Submit A Story", "url": "/submit-a-story/" }
+]

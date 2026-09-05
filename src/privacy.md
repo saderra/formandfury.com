@@ -6,7 +6,7 @@ description: "{{ site.title }} website privacy policy."
 
 Your privacy is important to us. It is {{ site.title }}'s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, {{ site.url }}, and other sites we own and operate.
 
-This policy is effective as of 3 March 2022 and was last updated on 3 March 2022.
+This policy was last updated on 5 September 2026.
 
 ## Information We Collect
 

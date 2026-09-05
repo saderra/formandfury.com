@@ -1,8 +1,6 @@
 ---
-title: Articles
+title: All Articles
 layout: list
-description: "Read articles on [your core topics]."
-eleventyNavigation:
-  key: Articles
-  order: 500
+eleventyExcludeFromCollections: true
+description: "Every story published on Form & Fury."
 ---

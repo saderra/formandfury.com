@@ -1,23 +1,48 @@
 {% extends "layouts/base.njk" %}
 {% block mainContent %}
 
-    {% include "components/home/intro.njk" %}
+{% set latest = collections.articles | reverse %}
+{% set heroPosts = latest.slice(0, 5) %}
+{% set featured = latest[0] %}
+{% set listNext = latest.slice(1, 5) %}
+{% set gridNext = latest.slice(5, 14) %}
 
-    <div class="container grid gap-0 lg:gap-10 grid-cols-12 pt-8">
+{% include "components/home/hero.njk" %}
 
-        
-        <!-- Home Posts -->
-        <div class="p-0 col-span-12 lg:col-span-8">
-            {% set latest_posts = collections.articles | reverse %}
-            <!-- Output The Posts -->
-            {% for post in latest_posts.slice(0,6) %}
-               {% include "components/blog/card.njk" %}
+<div class="container py-12">
+
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 pb-12 border-b border-black">
+        <div>
+            {% set post = featured %}
+            {% include "components/blog/card.njk" %}
+        </div>
+        <div class="space-y-6">
+            {% for post in listNext %}
+                <div class="flex gap-4 items-start pb-6 border-b border-black last:border-0 last:pb-0">
+                    <a href="{{ post.url }}" class="flex-shrink-0 w-28 h-20 block overflow-hidden bg-subtle">
+                        {% if post.data.imageMetadata %}
+                            {{ post.data.imageMetadata | renderImage({ alt: post.data.title, class: "w-full h-full object-cover", sizes: "112px" }) | safe }}
+                        {% endif %}
+                    </a>
+                    <div>
+                        {% include "components/blog/topics.njk" %}
+                        <h3 class="text-base font-medium leading-snug mt-2">
+                            <a href="{{ post.url }}" class="hover:underline">{{ post.data.title }}</a>
+                        </h3>
+                        <time class="text-xs text-brand-bright uppercase tracking-wide">{{ post.data.date | postDate }}</time>
+                    </div>
+                </div>
             {% endfor %}
-        </div><!-- End Home Posts -->
-        
-        {% include "components/section/sidebar.njk" %}
-
+        </div>
     </div>
 
-{% endblock %}
+    <h2 class="font-heading uppercase tracking-tight text-2xl mt-12 mb-8">Latest Stories</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {% for post in gridNext %}
+            {% include "components/blog/card.njk" %}
+        {% endfor %}
+    </div>
 
+</div>
+
+{% endblock %}

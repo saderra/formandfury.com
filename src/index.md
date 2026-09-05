@@ -1,7 +1,7 @@
 ---
-title: Your Business Name - Your Professional Title
-description: "A one-sentence description of what you do and who you help, shown in search results and social previews."
-keywords: "keyword one, keyword two, keyword three"
+title: Form & Fury
+description: "Form & Fury covers the full spectrum of women's sports — all women, all sports."
+keywords: "women's sports, women's sports news, sports photography, WNBA, NWSL, women's soccer, women's basketball"
 template: home
 layout: home
 ---

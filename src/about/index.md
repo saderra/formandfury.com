@@ -1,27 +1,15 @@
 ---
-title: About [Your Name]
-contentTitle: About [Your Name]
-description: "A one-sentence description of who you are, for search results and social previews."
-hideIntro: true
-eleventyNavigation:
-  key: About
-  order: 100
+title: About
+contentTitle: About Form & Fury
+description: "Form & Fury covers the full spectrum of women's sports — all women, all sports."
 ---
 
+Form & Fury is a sports media outlet covering the full spectrum of women's sports, from amateur and high school fields to college, professional, and Olympic competition. We cover the games, but we also cover the people playing them — the athletes, coaches, and communities who make women's sports powerful, thrilling, and worth fighting for.
 
-![Your Name](/assets/images/headshot.jpg "Your Name Headshot")
+Our "Shot By Women" photography is central to how we tell those stories — original sideline and courtside photography credited to the photographers who shot it, not stock imagery.
 
-This is your About page. Introduce yourself in the first person: who you are, what you do, and who you help. Two to three short paragraphs works well — replace this placeholder copy with your own.
+## Editor In Chief
 
-Use the second paragraph to describe your approach or philosophy — what makes the way you work different, and what a client or customer can expect when they work with you.
+### Jess Wyland
 
-Use the third paragraph to describe the environment or experience you create, and end with an invitation for the reader to reach out.
-
-
-## Official Biography
-
-### [Your Name], [Your Credentials]
-
-Replace this section with a longer-form, third-person biography — the kind you'd hand to a journalist, event organizer, or podcast host introducing you. Cover your background, notable experience, and what you're known for.
-
-Add a second paragraph covering more recent work, and a third paragraph on what you're focused on today.
+Jess brings two decades of women's sports experience, including as an athlete, coach, and media specialist.

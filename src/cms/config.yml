@@ -4,11 +4,11 @@ backend:
 
 publish_mode: editorial_workflow
 
-site_url: https://example.com
-display_url: https://example.com
+site_url: https://formandfury.com
+display_url: https://formandfury.com
 
 media_folder: "src/assets/images/uploads"
-public_folder: "/assets/images/uploads" 
+public_folder: "/assets/images/uploads"
 
 slug:
   encoding: "ascii"
@@ -20,17 +20,65 @@ collections:
     label: Article
     folder: 'src/articles/'
     identifier_field: title
-    slug: "{{fields.slug}}"
+    slug: "{{fields.title}}"
     create: true
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'SLUG', name: 'slug', widget: 'string' }
-      - { label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Updates", "Guides", "Case Studies", "News"],  default: ["Updates"] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', default: "", date_format: "YYYY-MM-DD", time_format: false, picker_utc: false }
-      - { label: "Cover Image", name: "cover", widget: "image", choose_url: true } 
-      - { label: 'Parent', name: 'parent', widget: 'hidden', default: "Articles" }
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "Amateur", value: "amateur" }
+          - { label: "Basketball", value: "basketball" }
+          - { label: "College", value: "college" }
+          - { label: "High School", value: "high-school" }
+          - { label: "Lacrosse", value: "lacrosse" }
+          - { label: "Olympics", value: "olympics" }
+          - { label: "Opinion", value: "opinion" }
+          - { label: "Professional", value: "professional" }
+          - { label: "Rugby", value: "rugby" }
+          - { label: "Shot By Women", value: "female-sports-photography" }
+          - { label: "Snowmobile", value: "snowmobile" }
+          - { label: "Soccer", value: "soccer" }
+          - { label: "Sport", value: "sport" }
+          - { label: "Tennis", value: "tennis" }
+          - { label: "Updates", value: "updates" }
+          - { label: "Volleyball", value: "volleyball" }
+          - { label: "World", value: "world" }
+      - { label: 'Author', name: 'author', widget: 'string', default: 'Form & Fury' }
+      - { label: 'Featured Image', name: 'image', widget: 'image', choose_url: true, required: false }
+      - { label: 'Image Credit', name: 'imageCredit', widget: 'string', required: false, hint: "Photographer name, shown as “Image Credit: …” under the featured image" }
       - { label: 'Excerpt', name: 'summary', widget: 'string' }
       - { label: 'Meta Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: pages
+    label: Pages
+    files:
+      - label: "About"
+        name: "about"
+        file: "src/about/index.md"
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Content Title', name: 'contentTitle', widget: 'string', required: false }
+          - { label: 'Meta Description', name: 'description', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "Contributors"
+        name: "contributors"
+        file: "src/contributors/index.md"
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Content Title', name: 'contentTitle', widget: 'string', required: false }
+          - { label: 'Meta Description', name: 'description', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "All Means All"
+        name: "all-means-all"
+        file: "src/all-means-all/index.md"
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Meta Description', name: 'description', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }

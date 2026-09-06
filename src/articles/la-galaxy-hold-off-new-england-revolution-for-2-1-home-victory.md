@@ -6,7 +6,7 @@ categories:
   - female-sports-photography
 author: Form & Fury
 image: /assets/images/uploads/image00016.jpeg
-imageCredit: "Image Credit: Samantha Rudin"
+imageCredit: Samantha Rudin
 summary: Marco Reus and Robert Taylor struck in the first half as the LA Galaxy
   survived relentless New England pressure and a stoppage-time penalty to secure
   a 2-1 win at Dignity Health Sports Park.

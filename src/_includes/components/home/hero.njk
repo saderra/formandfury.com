@@ -1,4 +1,26 @@
-<section x-data="{ active: 0 }" x-init="setInterval(() => { active = (active + 1) % {{ heroPosts.length }} }, 6000)" class="relative bg-brand-dark text-ivory overflow-hidden">
+<section
+    x-data="{
+        active: 0,
+        total: {{ heroPosts.length }},
+        timer: null,
+        touchStartX: 0,
+        startAutoplay() {
+            clearInterval(this.timer)
+            this.timer = setInterval(() => { this.active = (this.active + 1) % this.total }, 6000)
+        },
+        next() { this.active = (this.active + 1) % this.total },
+        prev() { this.active = (this.active - 1 + this.total) % this.total },
+        onSwipe(endX) {
+            const delta = this.touchStartX - endX
+            if (Math.abs(delta) < 40) return
+            delta > 0 ? this.next() : this.prev()
+            this.startAutoplay()
+        }
+    }"
+    x-init="startAutoplay()"
+    @touchstart="touchStartX = $event.changedTouches[0].screenX"
+    @touchend="onSwipe($event.changedTouches[0].screenX)"
+    class="relative bg-brand-dark text-ivory overflow-hidden">
     {% for post in heroPosts %}
     <div{% if not loop.first %} x-cloak{% endif %} x-show="active === {{ loop.index0 }}" x-transition:enter="transition-opacity duration-1000" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" class="relative aspect-[4/3] sm:aspect-[16/9] lg:aspect-[21/9]">
         <a href="{{ post.url }}" class="absolute inset-0 block" aria-hidden="true" tabindex="-1">

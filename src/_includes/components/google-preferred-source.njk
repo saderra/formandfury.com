@@ -1,0 +1,14 @@
+{#
+  Google Preferred Sources button.
+  Renders Google's one-click "Add as preferred source" button; the reader is
+  returned to this page after clicking. The <noscript> link is the JS-free
+  fallback. Script is loaded once in layouts/base.njk.
+  Docs: https://developers.google.com/search/docs/appearance/preferred-sources
+#}
+<div class="google-preferred-source {{ psClass }}">
+  {% if psLabel %}<p class="text-sm text-brand-bright tracking-[0.04em] mb-3">{{ psLabel }}</p>{% endif %}
+  <div google-add-preferred-source-btn data-theme="{{ psTheme or 'light' }}" data-lang="en"></div>
+  <noscript>
+    <a href="https://www.google.com/preferences/source?q=formandfury.com" target="_blank" rel="noopener" class="footer-link">Add Form &amp; Fury as a preferred source on Google</a>
+  </noscript>
+</div>

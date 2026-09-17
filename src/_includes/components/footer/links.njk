@@ -12,6 +12,9 @@
           {{ site.address.line1 }}, {{ site.address.line2 }}<br>
           {{ site.address.city }}, {{ site.address.state }} {{ site.address.zip }}
         </p>
+        {% set psLabel = "Follow us on Google" %}
+        {% set psClass = "mt-6" %}
+        {% include "components/google-preferred-source.njk" %}
       </div>
 
       <div>

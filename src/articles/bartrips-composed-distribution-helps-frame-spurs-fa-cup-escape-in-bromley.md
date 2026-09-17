@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/bartrips-composed-distribution-helps-frame-spurs-fa-cup-escape-in-bromley.jpg"
 imageCredit: "London, UK. 23rd Feb, 2026. Molly Bartrip Credit: SPP Sport Press Photo. /Alamy Live News"
 summary: "Molly Bartrip’s wide pass under pressure captured Tottenham Hotspur’s calm amid chaos as Spurs and London City Lionesses produced a dramatic Adobe Women’s FA Cup fifth-round tie at CopperJax Community Stadium, with the visitors surviving a late scare and advancing after a marathon penalty shootout."
-description: "Molly Bartrip’s wide pass under pressure captured Tottenham Hotspur’s calm amid chaos as Spurs and London City Lionesses produced a dramatic Adobe Women’s "
 ---
 Molly Bartrip’s pass out to the flank, made in the thick of Monday night’s Adobe Women’s FA Cup fifth-round contest in Bromley, summed up Tottenham Hotspur’s approach in a tie that demanded nerve as much as quality. In a game that swung sharply in momentum, the Spurs defender’s willingness to keep the ball moving under pressure reflected the visitors’ intent to manage a difficult away test against a London City Lionesses side that refused to fade.
 

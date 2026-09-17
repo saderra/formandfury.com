@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/lafc-finishes-the-job-against-real-espana-in-concacaf-champions-cup-leg-2.jpg"
 imageCredit: "Samantha Rudin/WolfPax Photography"
 summary: "LAFC closed out its Round One series with a composed 1-0 win over Real España, turning a strong first-leg advantage into a confident 7-1 aggregate march into the Concacaf Champions Cup Round of 16."
-description: "LAFC closed out its Round One series with a composed 1-0 win over Real España, turning a strong first-leg advantage into a confident 7-1 aggregate march in"
 ---
 LAFC entered the second leg with the tie already leaning heavily in its favor, but the task still demanded focus. Against a proud Real España side with little left to lose, the Los Angeles club delivered a professional performance at BMO Stadium, controlling the evening and refusing to let the series drift into unnecessary drama.
 

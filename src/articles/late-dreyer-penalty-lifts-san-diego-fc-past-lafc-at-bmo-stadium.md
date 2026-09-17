@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/late-dreyer-penalty-lifts-san-diego-fc-past-lafc-at-bmo-stadium.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Anders Dreyer converted an 89th-minute penalty to give San Diego FC a dramatic 1-0 victory over LAFC on August 15, ending the Black & Gold’s eight-match unbeaten run across all competitions."
-description: "Anders Dreyer converted an 89th-minute penalty to give San Diego FC a dramatic 1-0 victory over LAFC on August 15, ending the Black & Gold’s eight-mat"
 ---
 LAFC returned to MLS regular-season action on Saturday, August 15, looking to continue its strong run of form against Southern California rival San Diego FC at BMO Stadium. The Black & Gold entered the evening tied atop the Western Conference with 34 points and carrying an eight-match unbeaten streak across all competitions, while San Diego arrived in Los Angeles searching for an important result to climb the standings.
 

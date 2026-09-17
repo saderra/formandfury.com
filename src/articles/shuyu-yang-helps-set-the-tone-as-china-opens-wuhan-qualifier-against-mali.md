@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/shuyu-yang-helps-set-the-tone-as-china-opens-wuhan-qualifier-against-mali.jpg"
 imageCredit: "Wuhan, China PR. 11 March, 2026. Credit: Meng Gao/Alamy Live News"
 summary: "Shuyu Yang delivered an assured all-around display in Wuhan on 11 March 2026, helping China control key stretches of its FIBA Women’s Basketball World Cup Qualifying Tournament opener against Mali at Wuhan Sports Centre."
-description: "Shuyu Yang delivered an assured all-around display in Wuhan on 11 March 2026, helping China control key stretches of its FIBA Women’s Basketball World Cup "
 ---
 Shuyu Yang stood out with a composed and energetic performance as China began its FIBA Women’s Basketball World Cup 2026 Qualifying Tournament campaign on home court in Wuhan. In a game that demanded balance as much as bursts of scoring, Yang gave China both, moving smoothly between the roles of scorer, creator and rebounder.
 

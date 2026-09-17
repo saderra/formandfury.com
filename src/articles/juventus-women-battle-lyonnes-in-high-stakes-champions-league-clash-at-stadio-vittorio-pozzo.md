@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/juventus-women-battle-lyonnes-in-high-stakes-champions-league-clash-at-stadio-vittorio-pozzo.jpg"
 imageCredit: "3D6AMTG Biella, Italy. 19th Nov, 2025. Jule Brand of OL Lyonnes celebrates with team mate Wendie Renard after heading the ball home only for her late effort to be disallowed for offside during the Juventus Women vs Lyonnes UEFA Womens Champions League match at Stadio Vittorio Pozzo, Biella. Picture credit should read: Jonathan Moscrop/Sportimage Credit: Sportimage Ltd/Alamy Live News"
 summary: "A resilient Juventus Women side pushed European giants Lyonnes to the limit in a fiercely contested UEFA Women’s Champions League matchup in Turin, delivering ninety minutes of intensity, tactical precision, and late drama."
-description: "A resilient Juventus Women side pushed European giants Lyonnes to the limit in a fiercely contested UEFA Women’s Champions League matchup in Turin, deliver"
 ---
 Juventus Women entered the night at Stadio Vittorio Pozzo with urgency and ambition, knowing a strong performance against perennial contenders Lyonnes would be pivotal in shaping their Champions League campaign. The opening minutes reflected that hunger, as Juve pressed high and moved the ball with confidence in front of an appreciative home crowd. Lyonnes, however, remained composed, using their experience to slow the tempo and pick moments to threaten.
 

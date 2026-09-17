@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/sweden-seals-womens-nations-cup-as-hanna-oeberg-wins-oslo-sprint.jpg"
 imageCredit: "19 March 2026 at Holmenkollen Ski Stadium in Oslo, Norway"
 summary: "Sweden turned the BMW IBU World Cup stop at Oslo Holmenkollen into a statement day on 19 March 2026, with Hanna Oeberg winning the women’s 7.5 km sprint and the team’s overall depth carrying the nation to the Women’s Nations Cup crown."
-description: "Sweden turned the BMW IBU World Cup stop at Oslo Holmenkollen into a statement day on 19 March 2026, with Hanna Oeberg winning the women’s 7.5 km sprint an"
 ---
 Sweden arrived at Holmenkollen knowing the margins were razor thin and the stakes could hardly have been higher. By the end of the women’s 7.5 km sprint, the blue-and-yellow squad had done exactly what a championship-winning team must do: deliver at the front, stack strong results behind the winner, and turn a tense finale into a national celebration.
 

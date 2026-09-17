@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/early-angel-city-goals-hand-san-diego-wave-a-2-0-rivalry-defeat.jpg"
 imageCredit: "Miguel Mota"
 summary: "San Diego controlled possession and generated a heavy second-half push, but two Angel City goals within the opening 26 minutes and a missed late penalty condemned the Wave to a 2-0 loss at Snapdragon Stadium."
-description: "San Diego controlled possession and generated a heavy second-half push, but two Angel City goals within the opening 26 minutes and a missed late penalty co"
 ---
 San Diego Wave FC’s return to Snapdragon Stadium ended in frustration Saturday night as Angel City FC earned a 2-0 victory in the latest meeting between the Southern California rivals. Maiara Niehues and Ary Borges supplied the goals for the visitors, who punished San Diego’s early defensive mistakes before protecting their advantage through the final whistle.
 

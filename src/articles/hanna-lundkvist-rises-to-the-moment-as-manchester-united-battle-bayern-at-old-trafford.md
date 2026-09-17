@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/hanna-lundkvist-rises-to-the-moment-as-manchester-united-battle-bayern-at-old-trafford.jpg"
 imageCredit: "25 March 2026 Credit: Luke Williams/Every Second Media Credit: Every Second Media/Alamy Live News"
 summary: "Hanna Lundkvist delivered one of the night’s defining moments with a headed equaliser as Manchester United Women pushed Bayern Munich all the way in a dramatic UEFA Women’s Champions League quarter-final first leg at Old Trafford on 25 March 2026."
-description: "Hanna Lundkvist delivered one of the night’s defining moments with a headed equaliser as Manchester United Women pushed Bayern Munich all the way in a dram"
 ---
 Under the lights at Old Trafford, Hanna Lundkvist embodied Manchester United’s defiance in a quarter-final that felt historic from the opening whistle. With Bayern Munich visiting for the first leg of a UEFA Women’s Champions League last-eight tie, the occasion demanded nerve as much as quality, and Lundkvist answered with a performance full of energy, timing and conviction.
 

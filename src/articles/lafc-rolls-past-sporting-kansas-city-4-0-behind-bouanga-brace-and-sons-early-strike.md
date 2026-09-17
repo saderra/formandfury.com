@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/lafc-rolls-past-sporting-kansas-city-4-0-behind-bouanga-brace-and-sons-early-strike.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Denis Bouanga scored twice while Son Heung-min and David Martínez also found the net as LAFC overwhelmed Sporting Kansas City 4-0 at BMO Stadium on July 25, extending its winning streak with another commanding performance."
-description: "Denis Bouanga scored twice while Son Heung-min and David Martínez also found the net as LAFC overwhelmed Sporting Kansas City 4-0 at BMO Stadium on July 25"
 ---
 LAFC continued its torrid run of form Saturday night, cruising to a 4-0 victory over Sporting Kansas City at BMO Stadium. Three first-half goals put the match firmly in the Black & Gold’s control before Denis Bouanga completed his brace late in the second half. The victory was LAFC’s fourth consecutive MLS win and improved the club to 10-5-3 with 33 points.
 

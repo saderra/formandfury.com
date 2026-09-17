@@ -7,7 +7,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/kuhne-turns-up-the-heat-as-germany-visits-slovenia-in-celje.jpg"
 imageCredit: "Celje, Slovenia. 04th Mar, 2026. Credit: Marco Wolf/dpa/Alamy Live News"
 summary: "Under the bright lights in Celje, Germany’s Nieke Kühne brought pace, power, and poise to a pivotal EURO qualifier—testing Slovenia’s defense with every hard cut, quick exchange, and rising jump shot."
-description: "Under the bright lights in Celje, Germany’s Nieke Kühne brought pace, power, and poise to a pivotal EURO qualifier—testing Slovenia’s defense with every ha"
 ---
 Celje, Slovenia, set the stage on 04 March 2026 for a high-stakes Women’s European Championship qualifier as Slovenia hosted Germany in Group 3, Matchday 3—an early checkpoint in a campaign where every goal can echo into the standings.
 

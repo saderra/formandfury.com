@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/red-flames-tune-up-in-budapest-as-dhont-and-missipo-lead-the-md-1-rhythm.jpg"
 imageCredit: "Budapest, Hungary. 02nd Mar, 2026. Credit: sportpix/Alamy Live News"
 summary: "Elena Dhont and Kassandra Missipo were in sharp focus at Belgium’s final training session in Budapest, putting the finishing touches on preparations for the Red Flames’ League B Group B4 opener against Israel."
-description: "Elena Dhont and Kassandra Missipo were in sharp focus at Belgium’s final training session in Budapest, putting the finishing touches on preparations for th"
 ---
 Belgium’s Red Flames stepped onto the training pitch in Budapest with that familiar MD-1 edge—part routine, part urgency—knowing the next session would be the one that matters. Under a watchful coaching staff, every passing pattern and sprint looked measured, as if the team was trying to lock the match into muscle memory before the whistle even arrives.
 

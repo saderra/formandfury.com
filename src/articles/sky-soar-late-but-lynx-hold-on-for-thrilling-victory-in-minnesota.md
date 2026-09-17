@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/sky-soar-late-but-lynx-hold-on-for-thrilling-victory-in-minnesota.jpg"
 imageCredit: "MINNEAPOLIS, MN – JULY 22: Minnesota Lynx guard Courtney Williams (10) drives to the basket as Chicago Sky center Kamilla Cardoso (10) and Chicago Sky forward Angel Reese (5) defend during the first half of a WNBA game between the Minnesota Lynx and Chicago Sky on July 22, 2025, at Target Center in Minneapolis, MN.(Photo by Nick Wosika/Icon Sportswire)"
 summary: "In a tightly contested matchup on July 22, the Minnesota Lynx fended off a fierce fourth-quarter push from the Chicago Sky to secure a 77-74 win at Target Center."
-description: "In a tightly contested matchup on July 22, the Minnesota Lynx fended off a fierce fourth-quarter push from the Chicago Sky to secure a 77-74 win at Target "
 ---
 The Minnesota Lynx and Chicago Sky battled in a high-stakes midseason matchup on July 22, with both teams eyeing critical wins in the playoff race. The Lynx, backed by a vocal home crowd at the Target Center, leaned on their defensive intensity and timely shooting to gain a narrow edge early and maintain composure when it mattered most.
 

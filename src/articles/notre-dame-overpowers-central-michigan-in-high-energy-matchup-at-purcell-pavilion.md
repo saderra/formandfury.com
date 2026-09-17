@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/notre-dame-overpowers-central-michigan-in-high-energy-matchup-at-purcell-pavilion.jpg"
 imageCredit: "3D7C7RW South Bend, Indiana, USA. 24th Nov, 2025. Notre Dame guard Cassandre Prosper (8) shoots the ball during NCAA Women’s Basketball game action between the Central Michigan Chippewas and the Notre Dame Fighting Irish at Purcell Pavilion at the Joyce Center in South Bend, Indiana. John Mersits/CSM/Alamy Live News"
 summary: "The Notre Dame Fighting Irish showcased depth, pace, and defensive composure in a decisive performance against the Central Michigan Chippewas on Tuesday night at Purcell Pavilion in South Bend, Indiana."
-description: "The Notre Dame Fighting Irish showcased depth, pace, and defensive composure in a decisive performance against the Central Michigan Chippewas on Tuesday ni"
 ---
 Notre Dame took control early, using sharp perimeter movement and quick interior passing to build a steady first-quarter lead. The Chippewas worked to slow the tempo, occasionally finding success with mid-range jumpers and off-ball screens, but the Irish pressure defense forced rushed possessions and limited clean looks.
 

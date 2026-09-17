@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/storm-surge-seattle-overpowers-chicago-in-windy-city-showdown.jpg"
 imageCredit: "CHICAGO, IL – JULY 24: Hailey Van Lith #2 of the Chicago Sky drives to the basket past Nneka Ogwumike #3 of the Seattle Storm during the first half on July 24, 2025 at Wintrust Arena in Chicago, Illinois. (Photo by Melissa Tamez/Icon Sportswire)"
 summary: "Jewell Loyd led the charge as the Seattle Storm secured a commanding 84-71 win over the Chicago Sky at Wintrust Arena on July 24, showcasing their playoff intentions with a blend of tenacious defense and balanced scoring."
-description: "Jewell Loyd led the charge as the Seattle Storm secured a commanding 84-71 win over the Chicago Sky at Wintrust Arena on July 24, showcasing their playoff "
 ---
 The Seattle Storm delivered a confident road performance on Wednesday night, overpowering the Chicago Sky 84-71 in front of a lively crowd at Wintrust Arena. It was a key matchup for both teams jockeying for postseason positioning, and Seattle rose to the occasion behind strong individual efforts and a cohesive team effort.
 

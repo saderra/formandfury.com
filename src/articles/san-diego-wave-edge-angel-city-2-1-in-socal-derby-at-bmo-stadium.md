@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/san-diego-wave-edge-angel-city-2-1-in-socal-derby-at-bmo-stadium.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Dudinha delivered a goal and an assist, while rookie Mimi Van Zanten scored the late winner as San Diego Wave FC handed Angel City FC another narrow defeat in Los Angeles."
-description: "Dudinha delivered a goal and an assist, while rookie Mimi Van Zanten scored the late winner as San Diego Wave FC handed Angel City FC another narrow defeat"
 ---
 San Diego Wave FC left Los Angeles with the first Southern California derby win of the 2026 season, beating Angel City FC 2-1 on Saturday, May 9, at BMO Stadium in a match that stayed tight until the final stretch.
 

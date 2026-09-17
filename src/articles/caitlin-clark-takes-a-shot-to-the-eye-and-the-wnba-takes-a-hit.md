@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/caitlin-clark-takes-a-shot-to-the-eye-and-the-wnba-takes-a-hit.jpg"
 imageCredit: "INDIANAPOLIS, IN – JUNE 17: Indiana Fever guard Caitlin Clark (22) reacts after being poked in the eye by Connecticut Sun guard Jacy Sheldon (4) in the third quarter of play during a WNBA game between the Connecticut Sun and the Indiana Fever on June 17, 2025 at Gainbridge Fieldhouse in Indianapolis, IN. (Photo by Jeffrey Brown/Icon Sportswire)"
 summary: "In a fiery, flag-filled showdown between the Fever and Sun, Caitlin Clark got poked, shoved, and hit the hardwood. But the bigger story? A league struggling to protect its brightest star."
-description: "In a fiery, flag-filled showdown between the Fever and Sun, Caitlin Clark got poked, shoved, and hit the hardwood. But the bigger story? A league strugglin"
 ---
 The Indiana Fever didn’t just beat the Connecticut Sun Monday night—they fought through them. And no one wore the bruises more clearly than Caitlin Clark, who walked away with 20 points, two black eyes, and a nation asking: what exactly is the WNBA doing to protect its future?
 

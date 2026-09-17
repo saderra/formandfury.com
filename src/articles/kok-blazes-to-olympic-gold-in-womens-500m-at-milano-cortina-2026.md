@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/kok-blazes-to-olympic-gold-in-womens-500m-at-milano-cortina-2026.jpg"
 imageCredit: "3DPNCMK Milan, Italy. 15th Feb, 2026. The Netherlands Femke Kok skates to the gold medal in the women’s 500 meters at 2026 Milano Cortina Olympics in Milan Italy on Sunday, February 15, 2026. Photo by Aaron Josefczyk/UPI Credit: UPI/Alamy Live News"
 summary: "Dutch speed skating star Femke Kok surged to victory in the women’s 500 meters on Sunday in Milan, capturing Olympic gold with a commanding performance at the 2026 Winter Games."
-description: "Dutch speed skating star Femke Kok surged to victory in the women’s 500 meters on Sunday in Milan, capturing Olympic gold with a commanding performance at "
 ---
 The Netherlands’ Femke Kok delivered a scintillating run to claim the gold medal in the women’s 500 meters at the Milano Cortina 2026 Winter Olympics on Sunday, February 15, 2026. Skating at the Milano Speed Skating Arena in Milan, Kok powered through her lap with explosive speed and technical precision, solidifying her place atop the Olympic podium in one of the Games’ most anticipated sprint events.
 

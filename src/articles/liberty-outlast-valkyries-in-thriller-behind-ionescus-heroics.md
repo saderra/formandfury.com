@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/liberty-outlast-valkyries-in-thriller-behind-ionescus-heroics.jpg"
 imageCredit: "SAN FRANCISCO, CA – JUNE 25: Golden State Valkyries forward Kayla Thornton (5) shoots the ball during a WNBA game against the New York Liberty on June 25, 2025 at the Chase Center in San Francisco, CA. (Photo by Matthew Huang/Icon Sportswire)"
 summary: "Sabrina Ionescu delivered a clutch performance down the stretch as the New York Liberty edged the Golden State Valkyries 87-84 on June 25 in a tightly contested battle in San Francisco."
-description: "Sabrina Ionescu delivered a clutch performance down the stretch as the New York Liberty edged the Golden State Valkyries 87-84 on June 25 in a tightly cont"
 ---
 The Golden State Valkyries nearly pulled off a comeback win at home, but the New York Liberty stayed composed in the final minute to secure a narrow 87-84 victory. Sabrina Ionescu led the way with 26 points, including the game-winning three-pointer with just 8.3 seconds left on the clock.
 

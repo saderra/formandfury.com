@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/sun-outlast-lynx-in-defensive-battle-for-key-late-season-win.jpg"
 imageCredit: "UNCASVILLE, CT – AUGUST 30: Minnesota Lynx guard Kayla McBride (21) defends Connecticut Sun guard Saniya Rivers (22) during the WNBA game between Minnesota Lynx and Connecticut Sun on August 30, 2025, at Mohegan Sun Arena in Uncasville, CT. (Photo by M. Anthony Nesmith/Icon Sportswire)"
 summary: "The Connecticut Sun leaned on their defense and timely scoring to edge past the Minnesota Lynx, securing a crucial home victory in the closing stretch of the regular season."
-description: "The Connecticut Sun leaned on their defense and timely scoring to edge past the Minnesota Lynx, securing a crucial home victory in the closing stretch of t"
 ---
 The Connecticut Sun tightened their grip on playoff positioning with a hard-fought win over the Minnesota Lynx on August 30, pulling away late in a low-scoring contest. Both teams entered the game looking to solidify their postseason standing, and the defensive intensity reflected that urgency.
 

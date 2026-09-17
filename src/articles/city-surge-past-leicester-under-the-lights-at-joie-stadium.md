@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/city-surge-past-leicester-under-the-lights-at-joie-stadium.jpg"
 imageCredit: "3DP8DD8 Manchester, UK. 13th February, 2026. Alisha Lehmann of Leicester City Women in possession of the ball in the Barclays Women?s Super League match between Manchester City Women and Leicester City Women at The Joie Stadium. Credit: Damon Thomson/Alamy Live News"
 summary: "Manchester City Women delivered a commanding performance at the Joie Stadium on February 13, 2026, overcoming Leicester City Women in a decisive Barclays Women’s Super League clash that strengthened their title ambitions."
-description: "Manchester City Women delivered a commanding performance at the Joie Stadium on February 13, 2026, overcoming Leicester City Women in a decisive Barclays W"
 ---
 Under the lights at the Joie Stadium in Manchester on February 13, 2026, Manchester City Women produced a polished and clinical display to defeat Leicester City Women in a crucial Barclays Women’s Super League encounter. Backed by a lively home crowd, City controlled proceedings from the opening whistle, pressing high and dictating the tempo as they sought to maintain momentum in the title race.
 

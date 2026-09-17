@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/borehamwood-welcomes-adobe-womens-fa-cup-action-on-january-18.jpg"
 imageCredit: "3DGX8KP Borehamwood, UK, 18th Jan 2026. Noelle Maritz of Aston Villa Women and Olivia Smith of Arsenal Women during the Adobe Women’s FA Cup Fourth Round game at Mangata Developments Stadium (Meadow Park, Borehamwood).Credit: Suzanne Lycett / ALAMY."
 summary: "Borehamwood, UK, provided the stage for Adobe Women’s FA Cup football on January 18, 2026, as the historic competition brought its distinctive blend of intensity, tradition, and opportunity to Meadow Park."
-description: "Borehamwood, UK, provided the stage for Adobe Women’s FA Cup football on January 18, 2026, as the historic competition brought its distinctive blend of int"
 ---
 Borehamwood played host to Adobe Women’s FA Cup action on January 18, 2026, with Meadow Park once again serving as a familiar and atmospheric setting for one of English football’s most prestigious knockout competitions. The occasion reflected the enduring appeal of the tournament, where every fixture carries the promise of drama and progression.
 

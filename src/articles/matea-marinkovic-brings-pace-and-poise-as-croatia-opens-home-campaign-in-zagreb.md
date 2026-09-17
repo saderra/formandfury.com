@@ -7,7 +7,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/matea-marinkovic-brings-pace-and-poise-as-croatia-opens-home-campaign-in-zagreb.jpg"
 imageCredit: "Zagreb, Croatia. 24th Feb, 2026. Photo: Slavko Midzor/PIXSELL Credit: Pixsell/Alamy Live News"
 summary: "Croatia’s Matea Marinkovic was at the center of the action during the 2026 IIHF Women’s World Championship Division III Group A round-robin meeting with Bulgaria, as the hosts skated in front of home support at Admiral Ice Dome in Zagreb."
-description: "Croatia’s Matea Marinkovic was at the center of the action during the 2026 IIHF Women’s World Championship Division III Group A round-robin meeting with Bu"
 ---
 With the 2026 IIHF Women’s World Championship Division III Group A underway in Zagreb, Matea Marinkovic delivered a determined performance for Croatia in the round-robin clash against Bulgaria on February 24, turning a routine tournament fixture into a showcase of home-ice intensity.
 

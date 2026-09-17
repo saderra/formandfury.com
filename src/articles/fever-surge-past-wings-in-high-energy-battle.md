@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/fever-surge-past-wings-in-high-energy-battle.jpg"
 imageCredit: "INDIANAPOLIS, IN – AUGUST 12: Dallas Wings guard Paige Bueckers (5) drives to the basket against Indiana Fever guard Kelsey Mitchell (0) on August 12, 2025, at Gainbridge Fieldhouse in Indianapolis, Indiana. (Photo by Brian Spurlock/Icon Sportswire)"
 summary: "The Indiana Fever overcame a slow start to defeat the Dallas Wings on August 12, thrilling the home crowd with a balanced offensive effort and resilient defense down the stretch."
-description: "The Indiana Fever overcame a slow start to defeat the Dallas Wings on August 12, thrilling the home crowd with a balanced offensive effort and resilient de"
 ---
 The Fever and Wings tipped off at Gainbridge Fieldhouse in a contest that showcased momentum swings and fast-paced play from the opening quarter. Dallas came out firing, led by its frontcourt dominance, but Indiana kept the game within reach by capitalizing on transition opportunities.
 

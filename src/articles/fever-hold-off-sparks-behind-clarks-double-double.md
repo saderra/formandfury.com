@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/fever-hold-off-sparks-behind-clarks-double-double.jpg"
 imageCredit: "INDIANAPOLIS, IN – JUNE 26: Los Angeles Sparks center Azura Stevens (23) takes a shot against Indiana Fever guard Aari McDonald (2) on June 26, 2025, at Gainbridge Fieldhouse in Indianapolis, Indiana. (Photo by Brian Spurlock/Icon Sportswire)"
 summary: "Caitlin Clark’s all-around performance led the Indiana Fever to a hard-fought 78-73 victory over the Los Angeles Sparks on June 26, as both teams continue to jockey for playoff positioning."
-description: "Caitlin Clark’s all-around performance led the Indiana Fever to a hard-fought 78-73 victory over the Los Angeles Sparks on June 26, as both teams continue "
 ---
 The Indiana Fever secured a crucial home win on Wednesday night, edging out the Los Angeles Sparks 78-73 at Gainbridge Fieldhouse. The contest featured standout rookie performances, timely scoring, and strong defense from both squads, with the Fever ultimately making more plays down the stretch.
 

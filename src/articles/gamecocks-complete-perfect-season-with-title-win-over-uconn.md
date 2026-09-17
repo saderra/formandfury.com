@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/gamecocks-complete-perfect-season-with-title-win-over-uconn.jpg"
 imageCredit: "TAMPA, FL – APRIL 06: UConn Huskies guard Azzi Fudd (35) defends South Carolina Gamecocks guard Bree Hall (23) during the 2025 NCAA Div I Women’s Championship game between UConn Huskies and South Carolina Gamecocks on April 6, 2025, at Amalie Arena in Tampa, FL. (Photo by M. Anthony Nesmith/Icon Sportswire)"
 summary: "South Carolina capped an undefeated season with a commanding 87–75 victory over UConn in the NCAA Division I Women’s Basketball Championship on April 6, securing their third national title under head coach Dawn Staley."
-description: "South Carolina capped an undefeated season with a commanding 87–75 victory over UConn in the NCAA Division I Women’s Basketball Championship on April 6, se"
 ---
 In a clash of college basketball titans, the South Carolina Gamecocks asserted their dominance with an 87–75 victory over the UConn Huskies to win the 2025 NCAA Division I Women’s Basketball Championship. The April 6 showdown at Rocket Mortgage FieldHouse was a high-intensity affair, but South Carolina’s composure and defensive grit proved too much for Geno Auriemma’s Huskies.
 

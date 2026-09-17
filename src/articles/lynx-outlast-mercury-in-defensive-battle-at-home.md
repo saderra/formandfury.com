@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/lynx-outlast-mercury-in-defensive-battle-at-home.jpg"
 imageCredit: "MINNEAPOLIS, MN – JULY 16: Minnesota Lynx guard Kayla McBride (21) drive baseline on Phoenix Mercury guard Sami Whitcomb (33) during the second half of a WNBA game between the Minnesota Lynx and Phoenix Mercury on July 16, 2025, at Target Center in Minneapolis, MN. (Photo by Nick Wosika/Icon Sportswire)"
 summary: "In a gritty matchup between two Western Conference contenders, the Minnesota Lynx held off the Phoenix Mercury 75-70 at Target Center on July 16, leaning on strong interior defense and clutch late-game execution."
-description: "In a gritty matchup between two Western Conference contenders, the Minnesota Lynx held off the Phoenix Mercury 75-70 at Target Center on July 16, leaning o"
 ---
 The Minnesota Lynx secured a hard-fought 75-70 win over the Phoenix Mercury in a game defined by physical play and defensive grit. Napheesa Collier led the way with 22 points and 11 rebounds, dominating both ends of the floor in a game where every possession counted. The Lynx improved to 16-8 with the victory, keeping pace near the top of the Western Conference standings.
 

@@ -7,7 +7,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/derby-delight-for-san-jose-mls-california-clasico-ends-la-galaxy-0-san-jose-earthquakes-1.jpg"
 imageCredit: "MLS: LA Galaxy hosts the San Jose Earthquakes at Dignity Health Sports Park. Credit: Corinne Votaw"
 summary: "In a rivalry that rarely forgives mistakes, San Jose needed only one moment of precision. Bouda’s 74th-minute finish and a wall-of-a-night from Edwards Jr. delivered a 1–0 California Clásico win the Galaxy will replay in their heads for a while."
-description: "In a rivalry that rarely forgives mistakes, San Jose needed only one moment of precision. Bouda’s 74th-minute finish and a wall-of-a-night from Edwards Jr."
 ---
 The 103rd edition of the California Clásico delivered exactly what it always promises: tension, urgency, and a match that felt like it could turn on one swing. On May 28, 2025, the Earthquakes walked out of Dignity Health Sports Park with a 1–0 win that turned a rivalry night into a survival story for one side and a statement for the other.
 

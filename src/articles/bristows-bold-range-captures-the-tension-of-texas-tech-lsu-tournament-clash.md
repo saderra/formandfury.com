@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/bristows-bold-range-captures-the-tension-of-texas-tech-lsu-tournament-clash.jpg"
 imageCredit: "22nd Mar, 2026. (Photo by Peter G. Forest/Sipa USA) Credit: Sipa USA/Alamy Live News"
 summary: "Jalynn Bristow’s second-half three-pointer over Grace Knox crystallized the intensity of Texas Tech’s NCAA women’s tournament second-round battle with LSU, a game defined by pressure defense, momentum swings, and the unforgiving pace of March basketball."
-description: "Jalynn Bristow’s second-half three-pointer over Grace Knox crystallized the intensity of Texas Tech’s NCAA women’s tournament second-round battle with LSU,"
 ---
 The NCAA women’s tournament delivered another charged March moment on Sunday as Texas Tech Red Raiders forward Jalynn Bristow rose confidently from beyond the arc and drilled a three-pointer over LSU Tigers forward Grace Knox during the second half at the Maravich Assembly Center. In a game where every possession carried added weight, the shot stood out as a snapshot of poise under pressure.
 

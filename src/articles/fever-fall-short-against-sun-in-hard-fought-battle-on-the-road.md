@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/fever-fall-short-against-sun-in-hard-fought-battle-on-the-road.jpg"
 imageCredit: "BOSTON, MA – JULY 15: Connecticut Sun guard Saniya Rivers (22) drives to the basket while defined by Indiana Fever center-forward Aliyah Boston (7) during a WNBA game between the Indiana Fever and the Connecticut Sun on July 15, 2025, at TD Garden in Boston, MA. (Photo by Erica Denhoff/Icon Sportswire)"
 summary: "Despite a valiant effort from Caitlin Clark and the Indiana Fever, the Connecticut Sun maintained control late in the game to secure a 89-72 victory on July 15 at Mohegan Sun Arena."
-description: "Despite a valiant effort from Caitlin Clark and the Indiana Fever, the Connecticut Sun maintained control late in the game to secure a 89-72 victory on Jul"
 ---
 The Connecticut Sun showcased their veteran poise and defensive intensity Monday night as they hosted the Indiana Fever in a packed Mohegan Sun Arena. The Fever, riding a wave of recent momentum, struggled early to match the Sun’s physicality and tempo. Connecticut jumped out to a quick lead in the first quarter and never trailed again, though the Fever managed to keep the game competitive through much of the first half.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/bristol-city-edge-birmingham-in-tight-womens-league-cup-clash-at-st-andrews.jpg"
 imageCredit: "3CP7A95 Birmingham, UK. 24th Sep, 2025. Tegan McGowan (11 Birmingham City) on the ball during the Subway Womens League Cup football match between Birmingham City and Bristol City at St Andrews in Birmingham, England Credit: SPP Sport Press Photo. /Alamy Live News"
 summary: "Bristol City earned a narrow victory over Birmingham City in a closely contested Women’s League Cup match at St Andrew’s on September 24, showcasing resilience and decisive finishing to take all three points."
-description: "Bristol City earned a narrow victory over Birmingham City in a closely contested Women’s League Cup match at St Andrew’s on September 24, showcasing resili"
 ---
 Bristol City secured a hard-fought win against Birmingham City in the Women’s League Cup on Tuesday evening at St Andrew’s, with both sides pushing each other to the limit in front of an energetic crowd. The contest was finely balanced, but Bristol’s composure in key moments proved the difference.
 

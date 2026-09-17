@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/angel-city-falls-1-0-as-utah-royals-extend-historic-shutout-run.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Angel City FC pushed hard with 10 players in the second half, but Cloé Lacasse’s first-half header lifted Utah Royals FC to a 1-0 win at BMO Stadium on May 2, 2026."
-description: "Angel City FC pushed hard with 10 players in the second half, but Cloé Lacasse’s first-half header lifted Utah Royals FC to a 1-0 win at BMO Stadium on May"
 ---
 Angel City FC’s unbeaten start came to a tense end Saturday night at BMO Stadium, where Utah Royals FC claimed a 1-0 road victory in a matchup between two early-season NWSL contenders.
 

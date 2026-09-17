@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/angel-city-finds-its-finishing-touch-in-2-1-win-over-kansas-city-current.jpg"
 imageCredit: "Image Credit Samantha Rudin"
 summary: "Gisele Thompson’s early strike, Angelina Anderson’s penalty save, and Kennedy Fuller’s late winner powered Angel City FC past the Kansas City Current at BMO Stadium."
-description: "Gisele Thompson’s early strike, Angelina Anderson’s penalty save, and Kennedy Fuller’s late winner powered Angel City FC past the Kansas City Current at BM"
 ---
 Angel City FC turned a tense midweek test into one of its most important results of the season, defeating the Kansas City Current 2-1 on Wednesday, May 20, 2026, at BMO Stadium. Against a Current side that arrived with momentum and attacking quality, Angel City showed both urgency and resilience, striking early, absorbing pressure, and finding the decisive moment late.
 

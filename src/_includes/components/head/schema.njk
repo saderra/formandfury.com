@@ -1,33 +1,45 @@
-<script type="application/ld+json">
 {% if type == "post" %}
-{
+{%- set authorName = author or site.author.name -%}
+{%- set articleUrl = site.url + page.url -%}
+{%- set articleImage = (site.url + image) if image else site.logo -%}
+{%- set sections = [] -%}
+{%- for cat in categories -%}{%- set _ = sections.push(categoryLabels[cat] or cat) -%}{%- endfor -%}
+{%- if authorName == site.title -%}
+  {%- set authorNode = { "@type": "Organization", "name": site.title, "url": site.url } -%}
+{%- else -%}
+  {%- set authorNode = { "@type": "Person", "name": authorName, "url": site.url + "/contributors/" } -%}
+{%- endif -%}
+{%- set schema = {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "{{ title }}",
-  "image": "{{ (site.url + image) if image else site.logo }}",
-  "datePublished": "{{ date | htmlDateString }}",
-  "author": {
-    "@type": "{{ 'Organization' if (author or site.author.name) == site.title else 'Person' }}",
-    "name": "{{ author or site.author.name }}"
+  "@type": "NewsArticle",
+  "headline": title,
+  "description": description or site.description,
+  "url": articleUrl,
+  "mainEntityOfPage": { "@type": "WebPage", "@id": articleUrl },
+  "image": [articleImage],
+  "datePublished": (date | htmlDateString),
+  "dateModified": ((modified or date) | htmlDateString),
+  "author": [authorNode],
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": site.title,
+    "url": site.url,
+    "logo": { "@type": "ImageObject", "url": site.logo }
   },
-  "mainEntityOfPage": { "@type": "WebPage" },
-   "publisher": {
-    "@type": "Organization",
-    "name": "{{ site.title }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.logo }}"
-    }
-  },
-  "description": "{{ description or site.description }}",
-  "keywords": "{{ keywords }}"
-}
+  "articleSection": sections,
+  "inLanguage": site.language,
+  "isAccessibleForFree": true
+} -%}
+{%- if keywords %}{% set schema = schema | setAttribute("keywords", keywords) %}{% endif -%}
+<script type="application/ld+json">{{ schema | dump | safe }}</script>
 {% else %}
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
+  "@type": "NewsMediaOrganization",
   "name": "{{ site.title }}",
   "url": "{{ site.url }}",
+  "logo": "{{ site.logo }}",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "{{ site.address.line1 }}, {{ site.address.line2 }}",
@@ -39,14 +51,5 @@
     "https://www.instagram.com/{{ site.social.instagram }}"
   ]{% endif %}
 }
-{% endif %}
-
-{# {% if type == "post" %}
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "name": "{{ title }}",
-  "url": "{{ url }}"
-}
-{% endif %} #}
 </script>
+{% endif %}

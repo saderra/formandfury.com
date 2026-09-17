@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/macario-leads-the-charge-as-uswnt-shuts-out-china-in-saint-paul.jpg"
 imageCredit: "SAINT PAUL, MN – MAY 31: U.S. Women’s National Team midfielder Lindsey Heaps (10) and China PR goalkeeper Zhi Jie (26) battle for the ball during the second half of the women’s friendly match between the U.S. National team and People’s Republic of China on May 31st, 2025, at Allianz Field in Saint Paul, MN.U(Photo by Bailey Hillesheim/Icon Sportswire)"
 summary: "In front of a roaring Saint Paul crowd, the U.S. Women’s National Team delivered a commanding 3–0 victory over China PR behind standout performances from Catarina Macario and Sam Coffey, plus a historic debut for Lo’eau LaBonta."
-description: "In front of a roaring Saint Paul crowd, the U.S. Women’s National Team delivered a commanding 3–0 victory over China PR behind standout performances from C"
 ---
 SAINT PAUL, MN – The U.S. Women’s National Team continued its dominant run of form on May 31, defeating China PR 3–0 at Allianz Field in front of a sold-out crowd. The match showcased the depth, intensity, and evolving chemistry of a team determined to set the tone for the summer.
 

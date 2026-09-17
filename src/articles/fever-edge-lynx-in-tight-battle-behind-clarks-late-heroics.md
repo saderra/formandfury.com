@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/fever-edge-lynx-in-tight-battle-behind-clarks-late-heroics.jpg"
 imageCredit: "INDIANAPOLIS, IN – SEPTEMBER 09: Minnesota Lynx guard Courtney Williams (10) steps back and goes up with her jump shot over Indiana Fever forward Aliyah Boston (7) during a WNBA game between the Minnesota Lynx and the Indiana Fever on September 09, 2025 at Gainbridge Fieldhouse in Indianapolis, IN. (Photo by Jeffrey Brown/Icon Sportswire)"
 summary: "Caitlin Clark’s clutch performance lifted the Indiana Fever past the Minnesota Lynx in a nail-biter on September 9, keeping the Fever’s playoff hopes alive."
-description: "Caitlin Clark’s clutch performance lifted the Indiana Fever past the Minnesota Lynx in a nail-biter on September 9, keeping the Fever’s playoff hopes alive"
 ---
 The Indiana Fever and Minnesota Lynx went head-to-head in a tense matchup on September 9, with both teams battling for late-season momentum. The contest featured playoff intensity as each possession carried weight in the final stretch of the regular season.
 

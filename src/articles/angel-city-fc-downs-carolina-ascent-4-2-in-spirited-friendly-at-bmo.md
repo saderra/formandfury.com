@@ -8,7 +8,6 @@ categories:
 author: "Form & Fury"
 image: "/assets/images/articles/angel-city-fc-downs-carolina-ascent-4-2-in-spirited-friendly-at-bmo.jpg"
 summary: "In their final tune-up before the NWSL season resumes, Angel City FC put on a show at BMO Stadium with a 4–2 win over USL newcomers Carolina Ascent FC, showcasing squad depth and sharp attacking play."
-description: "In their final tune-up before the NWSL season resumes, Angel City FC put on a show at BMO Stadium with a 4–2 win over USL newcomers Carolina Ascent FC, sho"
 ---
 Angel City FC returned to action Saturday night with a 4–2 friendly victory over Carolina Ascent FC at BMO Stadium in Los Angeles. The matchup marked the first-ever meeting between the two clubs and offered both sides a valuable chance to test their rosters before returning to regular-season competition.
 

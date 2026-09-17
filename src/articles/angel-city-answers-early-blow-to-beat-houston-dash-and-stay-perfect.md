@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/angel-city-answers-early-blow-to-beat-houston-dash-and-stay-perfect.jpg"
 imageCredit: "Credit: Samantha Rudin"
 summary: "Angel City showed both patience and punch against the Houston Dash, recovering from an early setback with two rapid-fire goals after halftime to secure a 2-1 victory and continue the strongest start in club history."
-description: "Angel City showed both patience and punch against the Houston Dash, recovering from an early setback with two rapid-fire goals after halftime to secure a 2"
 ---
 Angel City turned a tense night at BMO Stadium into another statement of intent, beating the Houston Dash 2-1 in a match that tested the home side’s composure before rewarding its persistence. What began with Houston’s early sharpness ended with Angel City celebrating a third straight win, the kind of result that says as much about character as it does about quality.
 

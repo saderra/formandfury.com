@@ -6,7 +6,6 @@ categories:
 author: "Christine Collins"
 image: "/assets/images/articles/rugbys-line-in-the-sand-englands-win-in-argentina-marred-by-racist-abuse.jpg"
 summary: "World Rugby condemned the incident and reinforced the sport’s zero-tolerance stance. “Rugby stands with them in opposing racism,” said World Rugby Chair Brett Robinson. “There is no place in rugby or society for hate speech.”"
-description: "World Rugby condemned the incident and reinforced the sport’s zero-tolerance stance. “Rugby stands with them in opposing racism,” said World Rugby Chair Br"
 ---
 Disclaimer: This article is not focused on a women’s event, but rather on the injustices that can surface in global sports. Racism remains a pervasive issue across many competitions, and this piece aims to spotlight the problem—regardless of who’s on the field.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/san-diego-wave-fc-triumphs-in-a-hard-fought-battle-on-june-6-2025.jpg"
 imageCredit: "Tommy Dodd"
 summary: "San Diego Wave FC demonstrated grit and precision on June 6, 2025, overcoming a formidable opponent in a match that showcased their growth and championship potential."
-description: "San Diego Wave FC demonstrated grit and precision on June 6, 2025, overcoming a formidable opponent in a match that showcased their growth and championship"
 ---
 San Diego Wave FC delivered an inspiring performance on June 6, 2025, securing a crucial victory that energized their fan base and reinforced their status as a top contender this season. The match unfolded with intense pressure from both sides, but the Wave’s cohesive play and tactical discipline ultimately made the difference.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/kim-gil-li-blazes-to-olympic-gold-in-womens-1500m-short-track-final-in-milan.jpg"
 imageCredit: "Italy. 20th Feb, 2026. (Credit Image: © Paul Kitagaki Jr./ZUMA Press Wire)"
 summary: "Wearing bib No. 6 and saving her best for the closing laps, South Korea’s Kim Gil-li surged past the field to seize 1500m gold at the Milano Ice Skating Arena on Friday night, edging teammate Choi Min-jeong and holding off a late U.S. charge."
-description: "Wearing bib No. 6 and saving her best for the closing laps, South Korea’s Kim Gil-li surged past the field to seize 1500m gold at the Milano Ice Skating Ar"
 ---
 Kim Gil-li hit the finish line first with the kind of timing that turns a tight short-track final into a signature moment, exploding out of the last turns to claim the women’s 1500m Olympic title at the Milano Ice Skating Arena on Friday in Milan.
 

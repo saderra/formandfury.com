@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/ally-sentnors-late-strike-earns-angel-city-1-1-draw-with-washington-spirit.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Ally Sentnor scored her first Angel City FC goal in spectacular fashion in the 85th minute, canceling out Trinity Rodman’s second-half opener and securing a 1-1 draw against the Washington Spirit at BMO Stadium on August 16."
-description: "Ally Sentnor scored her first Angel City FC goal in spectacular fashion in the 85th minute, canceling out Trinity Rodman’s second-half opener and securing "
 ---
 Angel City FC battled back late to earn a 1-1 draw against the Washington Spirit on Sunday, August 16, at BMO Stadium in Los Angeles. Ally Sentnor provided the decisive moment for the hosts with an 85th-minute equalizer, answering a 65th-minute goal from Washington star Trinity Rodman. The result gave Angel City a third consecutive draw as the club continued its push for a place in the NWSL playoffs.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/storm-surge-seattle-upsets-liberty-79-70-at-barclays.jpg"
 imageCredit: "BROOKLYN, NY – JULY 06: Seattle Storm Guard Zia Cooke (7) passes the ball against New York Liberty Guard Rebekah Gardner (7) during the second half of the WNBA game between the Seattle Storm and the New York Liberty on July 6, 2025, at the Barclays Center in Brooklyn NY. (Photo by Gregory Fisher/Icon Sportswire)"
 summary: "On July 6, the Seattle Storm handed the New York Liberty a surprising swing-game setback at Barclays Center. Fueled by a dominant third quarter and standout performances from Gabby Williams and Nneka Ogwumike, Seattle sealed a 79–70 victory and disrupted the Liberty’s Eastern dominance."
-description: "On July 6, the Seattle Storm handed the New York Liberty a surprising swing-game setback at Barclays Center. Fueled by a dominant third quarter and standou"
 ---
 The Seattle Storm pulled off a statement win on July 6, defeating the New York Liberty 79–70 at Barclays Center in a game defined by lockdown defense and a dominant third quarter. After trailing at halftime, Seattle overwhelmed New York in the third frame with a 13–0 run and held the Liberty to just six points—their lowest output in a single quarter this season. The Storm’s second-half defensive effort was relentless, forcing New York into poor shot selection and holding them to just 24.2% from the field after the break.
 

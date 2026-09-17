@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/baylors-dynamic-duo-power-bears-past-lindenwood-76-63.jpg"
 imageCredit: "3D4BMTW Waco, Texas, USA. 9th Nov, 2025. Baylor guard JANA VAN GYTENBEEK (4) with the ball during a women’s college basketball game between the Baylor Bears and the Lindenwood Lions on November 9, 2025 in Waco, Texas. Baylor won, 76-63, (Credit Image: © Scott Coleman/ZUMA Press Wire) EDITORIAL USAGE ONLY! Not for Commercial USAGE!"
 summary: "In a spirited Sunday afternoon tilt in Waco, the No. 16 Baylor Bears women’s basketball team relied on standout performances by Taliah Scott and Bella Fontleroy to secure a 76-63 victory over the Lindenwood Lions. Scott knocked down 29 points and Fontleroy added 26, helping Baylor overcome an impressive late push by the Lions."
-description: "In a spirited Sunday afternoon tilt in Waco, the No. 16 Baylor Bears women’s basketball team relied on standout performances by Taliah Scott and Bella Font"
 ---
 The contest began with Baylor launching an 18-0 blitz before Lindenwood could register its first field goal, striking fear early in what appeared to be a dominant home showing. The drive was anchored by Scott’s efficient 9-of-16 shooting and flawless free-throw performance, immediately establishing control in front of the Bears’ fans.
 

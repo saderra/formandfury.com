@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/paintsils-goal-lifts-la-galaxy-past-club-america-in-international-friendly.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Joseph Paintsil scored the only goal as the LA Galaxy secured a 1-0 victory and a confidence-building clean sheet against Mexican powerhouse Club América at Dignity Health Sports Park."
-description: "Joseph Paintsil scored the only goal as the LA Galaxy secured a 1-0 victory and a confidence-building clean sheet against Mexican powerhouse Club América a"
 ---
 The LA Galaxy returned to action with an encouraging result Saturday night, defeating Club América 1-0 in an international friendly at Dignity Health Sports Park. Joseph Paintsil supplied the decisive goal in the first half, while a disciplined defensive performance allowed the Galaxy to protect their narrow advantage through the final whistle.
 

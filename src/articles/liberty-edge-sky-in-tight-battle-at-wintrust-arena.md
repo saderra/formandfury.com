@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/liberty-edge-sky-in-tight-battle-at-wintrust-arena.jpg"
 imageCredit: "CHICAGO, IL – SEPTEMBER 11: Isabelle Harrison #21 of the New York Liberty plays defense against Kamilla Cardoso #10 of the Chicago Sky during the second half on September 11, 2025 at Wintrust Arena in Chicago, Illinois. (Photo by Melissa Tamez/Icon Sportswire)"
 summary: "The New York Liberty held off a late push from the Chicago Sky to secure a narrow win on the road, strengthening their place near the top of the WNBA standings."
-description: "The New York Liberty held off a late push from the Chicago Sky to secure a narrow win on the road, strengthening their place near the top of the WNBA stand"
 ---
 The New York Liberty came away with a hard-fought victory over the Chicago Sky on September 11, relying on clutch performances down the stretch to escape with a narrow road win. The game was closely contested from the opening tip, with both teams exchanging runs and neither able to build a comfortable lead.
 

@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/real-madrid-women-set-for-european-test-against-fc-twente-in-champions-league-clash.jpg"
 imageCredit: "3DBF31C Madrid, Madrid, Spain. 16th Dec, 2025. Real Madrid players in action during training prior to the Women’s Champions League match between REAL MADRID WOMEN and FOOTBALL CLUB TWENTE. December 16, 2025, Valdebebas, Madrid, Spain. (Credit Image: © Oscar Manuel Sanchez/ZUMA Press Wire) EDITORIAL USAGE ONLY! Not for Commercial USAGE! Credit: ZUMA Press, Inc./Alamy Live News"
 summary: "Real Madrid Women welcome FC Twente to the UEFA Women’s Champions League on December 16, 2025, with both sides aiming to strengthen their position in a tightly contested European group."
-description: "Real Madrid Women welcome FC Twente to the UEFA Women’s Champions League on December 16, 2025, with both sides aiming to strengthen their position in a tig"
 ---
 Real Madrid Women enter the December showdown carrying the weight of expectation that comes with their rapid rise in European football. Playing on home soil, the Spanish side will look to control the tempo, leaning on their technical midfield and attacking width to impose themselves early against a disciplined Dutch opponent.
 

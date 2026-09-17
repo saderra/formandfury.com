@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/sydney-fc-and-brisbane-roar-share-the-spotlight-at-leichhardt-oval.jpg"
 imageCredit: "3DMB295 Sydney, NSW, Australia. 4th February 2026. The A-League Women?s round 9 match between Sydney FC and Brisbane Roar FC at Leichhardt Oval in Sydney. Final score Sydney FC 1- 3 Brisbane Roar FC. Credit: RM/Alamy Live News"
 summary: "Sydney FC and Brisbane Roar FC delivered a high-tempo contest under the lights at Leichhardt Oval as the A-League Women’s Round 9 fixture showcased attacking intent, resilience, and a fierce rivalry in Sydney."
-description: "Sydney FC and Brisbane Roar FC delivered a high-tempo contest under the lights at Leichhardt Oval as the A-League Women’s Round 9 fixture showcased attacki"
 ---
 Sydney FC welcomed Brisbane Roar FC to Leichhardt Oval for a Round 9 clash that carried significance for both sides as the season began to take shape. With a lively crowd in attendance, the match opened at a brisk pace, Sydney looking to impose themselves through controlled possession while Brisbane pressed aggressively and looked dangerous on the counter.
 

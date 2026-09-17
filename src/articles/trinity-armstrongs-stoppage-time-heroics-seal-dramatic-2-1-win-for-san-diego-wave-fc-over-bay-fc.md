@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/trinity-armstrongs-stoppage-time-heroics-seal-dramatic-2-1-win-for-san-diego-wave-fc-over-bay-fc.jpg"
 imageCredit: "Tommy Dodd"
 summary: "In a thriller at Snapdragon Stadium on May 4, 2025, San Diego Wave FC secured a 2–1 victory over Bay FC thanks to a last-gasp header from 17-year-old rookie Trinity Armstrong. Kennedy Wesley opened the scoring early, Bay FC leveled shortly after, but Armstrong’s stoppage-time strike—a moment of pure teenage heroism—sent the home crowd into euphoria."
-description: "In a thriller at Snapdragon Stadium on May 4, 2025, San Diego Wave FC secured a 2–1 victory over Bay FC thanks to a last-gasp header from 17-year-old rooki"
 ---
 San Diego struck first just five minutes into the match. María Sánchez delivered a pinpoint corner kick that defender Kennedy Wesley headed cleanly into the back of the net. The goal not only gave the Wave an early advantage but also marked the 100th regular-season goal in club history, an impressive milestone for the young franchise.
 

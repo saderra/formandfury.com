@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/hasselborg-rink-holds-firm-as-sweden-tops-italy-in-olympic-curling-clash.jpg"
 imageCredit: "3DPF71E Cortina, Italy. 14th Feb, 2026. CORTINA, ITALY 20260214Sweden’s Agnes Knochenhauer and Sara McManus of Team Hasselborg during the women’s group stage match, round 5, between Italy and Sweden in the Olympic curling in Cortina. *** The image is included in the SPORTS PACKAGE. For others PAYMENT IMAGE ** Photo: Jonas Ekstromer/TT/Code 10030 This text is auto translated Credit: TT News Agency/Alamy Live News"
 summary: "Sweden’s Agnes Knochenhauer and Sara McManus guided Team Hasselborg through a tense fifth-round group stage encounter against host nation Italy, delivering precision and poise on the Olympic ice in Cortina."
-description: "Sweden’s Agnes Knochenhauer and Sara McManus guided Team Hasselborg through a tense fifth-round group stage encounter against host nation Italy, delivering"
 ---
 CORTINA, Italy — February 14, 2026 — Sweden’s medal ambitions remained firmly on track as Agnes Knochenhauer and Sara McManus of Team Hasselborg played pivotal roles in a composed performance during the women’s curling group stage round five match against Italy at the Olympic Winter Games. The Swedish rink showcased its trademark precision and tactical discipline, silencing a spirited home crowd eager to see Italy seize a statement win on familiar ice.
 

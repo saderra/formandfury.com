@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/clark-shines-but-valkyries-outlast-fever-in-historic-showdown.jpg"
 imageCredit: "SAN FRANCISCO, CA – JUNE 19: Indiana Fever forward Natasha Howard (6) scores during a WNBA game against the Golden State Valkyries on June 19, 2025 at Chase Center in San Francisco, CA. (Photo by Matthew Huang/Icon Sportswire)"
 summary: "In a highly anticipated clash between Caitlin Clark’s Indiana Fever and the Golden State Valkyries, the WNBA’s newest franchise held off a furious Fever rally to claim a 94–89 victory in their home arena."
-description: "In a highly anticipated clash between Caitlin Clark’s Indiana Fever and the Golden State Valkyries, the WNBA’s newest franchise held off a furious Fever ra"
 ---
 The Golden State Valkyries and Indiana Fever met for the first time in league history on June 19, creating a buzz that lived up to the hype. From the opening tip, both teams brought energy, intensity, and a playoff-like atmosphere to the court in front of a sold-out crowd in San Francisco.
 

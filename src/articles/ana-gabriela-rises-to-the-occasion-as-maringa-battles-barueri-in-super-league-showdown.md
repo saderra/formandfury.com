@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/ana-gabriela-rises-to-the-occasion-as-maringa-battles-barueri-in-super-league-showdown.jpg"
 imageCredit: "03/24/2026 Jose Correa Gymnasium for the Women’s Volleyball Super League 2026. Photo: Marco Miatelo/AGIF (Photo by Marco Miatelo/AGIF/Sipa USA)"
 summary: "Ana Gabriela delivered a poised and energetic performance for Vôlei Maringá as the club faced Paulistano Barueri in the 2026 Women’s Volleyball Super League, bringing intensity, composure, and attacking spark to a hard-fought contest at José Corrêa Gymnasium."
-description: "Ana Gabriela delivered a poised and energetic performance for Vôlei Maringá as the club faced Paulistano Barueri in the 2026 Women’s Volleyball Super Leagu"
 ---
 The Women’s Volleyball Super League once again provided a vivid stage for individual talent and collective ambition as Paulistano Barueri hosted Vôlei Maringá at the José Corrêa Gymnasium. In a match defined by speed, resilience, and momentum swings, Ana Gabriela stood out for Maringá with a display that captured both her competitive edge and her growing importance to the team.
 

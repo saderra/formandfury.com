@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/aja-wilson-jewell-loyd-spark-aces-to-commanding-87-62-win-over-sun.jpg"
 imageCredit: "UNCASVILLE, CT – MAY 20: Las Vegas Aces center A’ja Wilson (22) fast breaks pursued by Connecticut Sun guard Bria Hartley (14) during the WNBA game between Las Vegas Aces and Connecticut Sun on May 20, 2025, at Mohegan Sun Arena in Uncasville, CT. (Photo by M. Anthony Nesmith/Icon Sportswire)"
 summary: "In a decisive road victory on May 20, the Las Vegas Aces bounced back from their season opener loss by dominating the Connecticut Sun. A’ja Wilson notched 22 points and 10 rebounds—her second straight double-double—while Jewell Loyd erupted for 20 points, including six 3-pointers. The win puts the Aces at 1–1, raising early hopes for a deep postseason run."
-description: "In a decisive road victory on May 20, the Las Vegas Aces bounced back from their season opener loss by dominating the Connecticut Sun. A’ja Wilson notched "
 ---
 On Tuesday night at Mohegan Sun Arena in Uncasville, Connecticut, the Las Vegas Aces reminded the league why they’re championship contenders—rising from a season-opening defeat to the New York Liberty by blitzing the Connecticut Sun 87–62.
 

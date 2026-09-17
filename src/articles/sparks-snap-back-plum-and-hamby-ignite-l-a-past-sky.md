@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/sparks-snap-back-plum-and-hamby-ignite-l-a-past-sky.jpg"
 imageCredit: "LOS ANGELES, CA – MAY 25: Los Angeles Sparks forward Azura Stevens (23) battles for loose ball with Chicago Sky forward Angel Reese (5) during the Chicago Sky at Los Angeles Sparks WNBA game on May 25, 2025, at Crypto.com Arena in Los Angeles, CA. (Photo by Jevone Moore/Icon Sportswire)"
 summary: "Kelsey Plum caught fire and Dearica Hamby lit up the stat sheet as the Los Angeles Sparks broke a three-game losing streak with a convincing 91–78 win over the Chicago Sky."
-description: "Kelsey Plum caught fire and Dearica Hamby lit up the stat sheet as the Los Angeles Sparks broke a three-game losing streak with a convincing 91–78 win over"
 ---
 **LOS ANGELES, CA – MAY 25:** The Los Angeles Sparks reminded everyone that they’re far from finished this season. Led by Kelsey Plum’s explosive 28-point night and Dearica Hamby’s defensive clinic, the Sparks toppled the visiting Chicago Sky 91–78 at Crypto.com Arena, giving the home crowd plenty to cheer about.
 

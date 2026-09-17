@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/romee-leuchter-sharpens-her-edge-as-the-oranjeleeuwinnen-tune-up-for-poland.jpg"
 imageCredit: "February 26, 2026 KOEN VAN WEEL / ANP"
 summary: "In the final touches of a focused camp on 24 February 2026, Romee Leuchter brought energy, edge, and finishing instincts to training as the Netherlands prepared for a Women’s World Cup qualifier against Poland."
-description: "In the final touches of a focused camp on 24 February 2026, Romee Leuchter brought energy, edge, and finishing instincts to training as the Netherlands pre"
 ---
 Romee Leuchter moved through the session with the easy confidence of a striker who knows her cues: check away, spin into space, arrive early at the near post. On 24 February 2026, with a World Cup qualifier against Poland approaching, every repetition carried purpose—and Leuchter treated each one like it might be the decisive moment.
 

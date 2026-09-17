@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/liberty-surge-past-wings-in-fourth-quarter-to-secure-home-win.jpg"
 imageCredit: "BROOKLYN, NY – AUGUST 05: Natasha Cloud #9 of the New York Liberty gets a pass during the game against the Dallas Wings on August 5, 2025 at Barclays Center in Brooklyn, New York. (Photo by Rich Graessle/Icon Sportswire)"
 summary: "The New York Liberty overcame a slow start to defeat the Dallas Wings 88-74 at Barclays Center on August 5, powered by a dominant fourth-quarter performance and standout play from Breanna Stewart."
-description: "The New York Liberty overcame a slow start to defeat the Dallas Wings 88-74 at Barclays Center on August 5, powered by a dominant fourth-quarter performanc"
 ---
 The New York Liberty extended their home win streak with a gritty 88-74 victory over the Dallas Wings on Monday night. After trailing by six at halftime, the Liberty used a relentless fourth-quarter push to outscore Dallas 27-12 in the final frame, showcasing their depth and defensive prowess. The win improves New York’s record to 22-5, further solidifying their position near the top of the WNBA standings.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/late-goals-propel-thorns-past-spirit-in-intense-nwsl-clash.jpg"
 imageCredit: "WASHINGTON, DC – AUGUST 03: Portland Thorns defender Isabella Bryld Obaze (5) closes in on Washington Spirit forward Rosemonde Kouassi (19) during a NWSL game between the Washington Spirit and the Portland Thorns on August 03, 2025 at Audi Field, in Washington DC. (Photo by Tony Quinn/Icon Sportswire)"
 summary: "The Portland Thorns mounted a dramatic second-half comeback to defeat the Washington Spirit 2-1 at Audi Field on August 3, keeping their playoff hopes alive in a tightly contested NWSL season."
-description: "The Portland Thorns mounted a dramatic second-half comeback to defeat the Washington Spirit 2-1 at Audi Field on August 3, keeping their playoff hopes aliv"
 ---
 On a humid evening at Audi Field, the Washington Spirit hosted the Portland Thorns in a match that carried heavy playoff implications for both sides. The Spirit, sitting comfortably near the top of the standings, looked to maintain momentum, while the Thorns came into the game needing a win to remain in postseason contention. Both teams fielded near full-strength lineups, with U.S. national team players returning to action following the international window.
 

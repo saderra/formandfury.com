@@ -7,7 +7,6 @@ categories:
 author: "Form & Fury"
 image: "/assets/images/articles/fever-dominate-sky-93-78-behind-clarks-all-around-masterclass.jpg"
 summary: "Caitlin Clark delivered one of her most complete performances of the season as the Indiana Fever cruised past the Chicago Sky 93-78 on July 27, continuing their push toward playoff contention."
-description: "Caitlin Clark delivered one of her most complete performances of the season as the Indiana Fever cruised past the Chicago Sky 93-78 on July 27, continuing "
 ---
 The Indiana Fever delivered a commanding 93-78 win over the Chicago Sky on Saturday, July 27, at Gainbridge Fieldhouse. From the opening tip, Indiana controlled the tempo and never looked back, led by rookie sensation Caitlin Clark, who filled the stat sheet with 23 points, 8 rebounds, and 9 assists. The victory marks one of the Fever’s most dominant outings of the season and strengthens their position in the playoff race.
 

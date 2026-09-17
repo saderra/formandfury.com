@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/florida-dominates-arizona-state-to-clinch-big-12-womens-lacrosse-championship.jpg"
 imageCredit: "BOULDER, CO – MAY 03: Arizona State midfielder, Bella Ingrao(18), moves the ball downfield as Florida defender, Jenny Woodings (28), pursues her during the Big 12 Women’s Lacrosse Championship match between the Arizona State Sundevils and the Florida Gators, at Prentup Field in Boulder, CO on May 03, 2025. (Photo by Kevin Langley/Icon Sportswire)"
 summary: "Florida captured the Big 12 Women’s Lacrosse Championship with a 15–7 victory over Arizona State, led by Emma LoPinto’s six-point performance and a dominant defensive showing."
-description: "Florida captured the Big 12 Women’s Lacrosse Championship with a 15–7 victory over Arizona State, led by Emma LoPinto’s six-point performance and a d"
 ---
 In a high-stakes clash at the Big 12 Women’s Lacrosse Championship on May 3, the Florida Gators delivered a commanding performance to defeat Arizona State, securing the conference title with a 15–7 victory.
 

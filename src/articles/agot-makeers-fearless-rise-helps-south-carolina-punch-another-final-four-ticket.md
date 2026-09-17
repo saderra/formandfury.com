@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/agot-makeers-fearless-rise-helps-south-carolina-punch-another-final-four-ticket.jpg"
 imageCredit: "South Carolina March 30, 2026. (Credit Image: © Paul Kitagaki Jr./ZUMA Press Wire) Credit: ZUMA Press, Inc./Alamy Live News"
 summary: "South Carolina freshman Agot Makeer delivered one of the night’s sharpest moments in Sacramento, rising over Olivia Miles and Kennedy Basham as the Gamecocks wore down TCU and powered into yet another Final Four."
-description: "South Carolina freshman Agot Makeer delivered one of the night’s sharpest moments in Sacramento, rising over Olivia Miles and Kennedy Basham as the Gamecoc"
 ---
 Agot Makeer’s shot over Olivia Miles and Kennedy Basham captured the tone of South Carolina’s night in Sacramento: poised, forceful and increasingly impossible to stop. On the Elite Eight stage at Golden 1 Center on Monday, March 30, the freshman guard played with the kind of confidence that has become a trademark of Dawn Staley’s program, helping turn a tense regional final into a decisive 78-52 victory over TCU.
 

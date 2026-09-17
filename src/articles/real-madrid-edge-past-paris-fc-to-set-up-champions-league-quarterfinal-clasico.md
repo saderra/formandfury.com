@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/real-madrid-edge-past-paris-fc-to-set-up-champions-league-quarterfinal-clasico.jpg"
 imageCredit: "Valdebebas, Madrid, Spain. 18th Feb, 2026. Athenea del Castillo of Real Madrid CF (L) fights for the ball against Fiona Liaigre of Paris FC (R) during the UEFA Women’s Champions League 2025/26 KO play-offs Second Leg match between Real Madrid C.F. and Paris FC at Estadio Alfredo Di Stefano on February 18, 2026 in Madrid, Spain. (Credit Image: © Alberto Gardin/ZUMA Press Wire)"
 summary: "Real Madrid booked their place in the UEFA Women’s Champions League quarterfinals on Wednesday, February 18, 2026, beating Paris FC 2–0 at Estadio Alfredo Di Stéfano to seal a 5–2 aggregate triumph. A bruising midfield battle, an early red card, and decisive second-half moments turned a tense night in Madrid into a statement win."
-description: "Real Madrid booked their place in the UEFA Women’s Champions League quarterfinals on Wednesday, February 18, 2026, beating Paris FC 2–0 at Estadio Alfredo "
 ---
 Real Madrid arrived at Estadio Alfredo Di Stéfano with a narrow advantage from the first leg in Paris, but the second leg never felt like a formality. Paris FC came to Madrid needing a response, and the opening exchanges carried the edge of a tie still within reach.
 

@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/hsbc-doubles-glory-muhammad-seals-championship-at-queens-club.jpg"
 imageCredit: "3BJG4Y8 London, UK. 15th June 2025; HSBC Championships, Queens Club, West Kensington, London, England: HSBC Womens Doubles final Championships Queens Club, Day 7, womens doubles final: Asia Mohammad (USA) fist pumps after hitting a winning volley on the way to winning the HSBC Doubles Championship at The Queen’s Club"
 summary: "Asia Muhammad clinched the HSBC Women’s Doubles title at Queen’s Club with a decisive volley and a roar of triumph, delivering a powerful close to the tournament’s final day in West Kensington."
-description: "Asia Muhammad clinched the HSBC Women’s Doubles title at Queen’s Club with a decisive volley and a roar of triumph, delivering a powerful close to the tour"
 ---
 Asia Muhammad delivered a defining moment on the grass courts of Queen’s Club as she pumped her fist in triumph after a blistering winning volley—one that would ultimately secure the HSBC Women’s Doubles Championship title on Day 7 of this storied tournament in West Kensington, London.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/semenistaja-meets-ma-in-manila-as-philippine-womens-open-heats-up.jpg"
 imageCredit: "3DJJ19C Manila, Philippines. 27th Jan, 2026. Ma Yexin of China competes during the women’s singles round of 32 match between Darja Semenistaja of Latvia and Ma Yexin of China at the WTA Philippine Women’s Open in Manila, the Philippines, Jan. 27, 2026. Credit: Rouelle Umali/Xinhua/Alamy Live News"
 summary: "Latvia’s Darja Semenistaja faces China’s Ma Yexin in a compelling women’s singles round of 32 clash at the WTA Philippine Women’s Open in Manila, with contrasting styles set to test each other on Jan. 27, 2026."
-description: "Latvia’s Darja Semenistaja faces China’s Ma Yexin in a compelling women’s singles round of 32 clash at the WTA Philippine Women’s Open in Manila, with cont"
 ---
 Darja Semenistaja of Latvia and Ma Yexin of China square off in the women’s singles round of 32 at the WTA Philippine Women’s Open in Manila, the Philippines, on Jan. 27, 2026. The matchup brings together two players at different stages of their careers, each seeking momentum early in the tournament on the tropical hard courts.
 

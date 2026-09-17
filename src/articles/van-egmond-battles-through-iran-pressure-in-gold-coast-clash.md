@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/van-egmond-battles-through-iran-pressure-in-gold-coast-clash.jpg"
 imageCredit: "Gold Coast, Australia. 05th Mar, 2026. Credit: SPP Sport Press Photo. /Alamy Live News"
 summary: "Emily Van Egmond found herself at the heart of a tense midfield contest as Australia met the Islamic Republic of Iran in Women’s Asian Cup action at Gold Coast Stadium on March 5, 2026, with Zahra Sarbali and Atefeh Imani closing down every inch of space."
-description: "Emily Van Egmond found herself at the heart of a tense midfield contest as Australia met the Islamic Republic of Iran in Women’s Asian Cup action at Gold C"
 ---
 Australia’s Emily Van Egmond was thrust into one of the defining duels of the evening as the experienced midfielder tried to steer play under heavy pressure from Iran’s Zahra Sarbali and Atefeh Imani at Gold Coast Stadium. The image of Van Egmond surrounded by two determined defenders captured the intensity of a match built on discipline, work rate and sharp positional awareness.
 

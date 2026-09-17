@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/leila-lacan-leads-frances-sharpened-attack-against-colombia-in-lyon-villeurbanne.jpg"
 imageCredit: "March 12, 2026 in Lyon-Villeurbanne, France. Credit: Beautiful Sports International/Alamy Live News"
 summary: "Leila Lacan’s composed shooting display offered a vivid snapshot of France’s intent and control as the hosts took on Colombia on matchday two of the FIBA Women’s World Cup Qualifying Tournament at Astroballe in Lyon-Villeurbanne on March 12, 2026."
-description: "Leila Lacan’s composed shooting display offered a vivid snapshot of France’s intent and control as the hosts took on Colombia on matchday two of the FIBA W"
 ---
 Leila Lacan stood at the center of a key attacking moment for France as the home side faced Colombia in the FIBA Women’s World Cup Qualifying Tournament at Astroballe. With the ball rising cleanly from her hands, the French guard embodied the poise and precision that have become central to her growing influence within the national setup.
 

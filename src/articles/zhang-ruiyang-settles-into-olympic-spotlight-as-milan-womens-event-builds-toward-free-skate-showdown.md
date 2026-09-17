@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/zhang-ruiyang-settles-into-olympic-spotlight-as-milan-womens-event-builds-toward-free-skate-showdown.jpg"
 imageCredit: "Milan, Lombardy, Italy. 17th Feb, 2026. (Credit Image: © Mickael Chavet/ZUMA Press Wire)"
 summary: "Skating early in the final group order after qualifying 20th, China’s teenage hopeful turned her Olympic free program into a statement of nerve, ambition, and momentum-building for the next cycle."
-description: "Skating early in the final group order after qualifying 20th, China’s teenage hopeful turned her Olympic free program into a statement of nerve, ambition, "
 ---
 China’s Zhang Ruiyang stepped onto the Olympic stage for the women’s free skate with the kind of quiet intensity that can cut through the noise of a packed arena. In a field stacked with medal contenders and multi-quad headlines, her task was different: claim her space, skate her story, and show that China’s next generation in women’s singles belongs in the conversation.
 

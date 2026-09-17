@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/kennedy-fuller-announces-herself-early-with-angel-citys-first-goal-of-2026.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Kennedy Fuller’s first goal of the season set the tone for Angel City FC’s emphatic opening-night win over the Chicago Stars, underlining the young midfielder’s growing influence and hinting at a breakout year ahead."
-description: "Kennedy Fuller’s first goal of the season set the tone for Angel City FC’s emphatic opening-night win over the Chicago Stars, underlining the young midfiel"
 ---
 Kennedy Fuller wasted little time giving Angel City supporters something to celebrate, opening her 2026 account with the club’s first goal of the new campaign in a 4-0 home win over the Chicago Stars at BMO Stadium on March 15. It was the kind of composed finish that reflected both confidence and maturity, and it immediately stamped her authority on Angel City’s season opener.
 

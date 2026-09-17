@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/liberty-outlast-lynx-in-tight-battle-in-minneapolis.jpg"
 imageCredit: "MINNEAPOLIS, MN – AUGUST 16: New York Liberty center Jonquel Jones (35) controls the ball as Minnesota Lynx forward Jessica Shepard (15) defends during the second half of a WNBA game between the Minnesota Lynx and New York Liberty on August 16, 2025, at Target Center in Minneapolis, MN.(Photo by Nick Wosika/Icon Sportswire)"
 summary: "The New York Liberty leaned on their veteran leadership and clutch scoring to secure a hard-fought win over the Minnesota Lynx on August 16, adding another key victory to their playoff push."
-description: "The New York Liberty leaned on their veteran leadership and clutch scoring to secure a hard-fought win over the Minnesota Lynx on August 16, adding another"
 ---
 The New York Liberty traveled to Minneapolis and escaped with a narrow win over the Minnesota Lynx in a contest defined by physical defense and late-game execution. Both teams came in with playoff aspirations, and the intensity was evident from the opening tip.
 

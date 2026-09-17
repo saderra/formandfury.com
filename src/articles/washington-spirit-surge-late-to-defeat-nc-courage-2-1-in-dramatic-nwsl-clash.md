@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/washington-spirit-surge-late-to-defeat-nc-courage-2-1-in-dramatic-nwsl-clash.jpg"
 imageCredit: "WASHINGTON, DC – JUNE 08: North Carolina Courage midfielder Manaka Matsukubo (34) tackles Washington Spirit forward Brittany Ratcliffe (13) during a NWSL match between the Washington Spirit and the North Carolina Courage, on June 8, 2025, at Audi Field, in Washington, DC. (Photo by Tony Quinn/Icon Sportswire)"
 summary: "The Washington Spirit pulled off a thrilling 2-1 comeback over the North Carolina Courage on June 8, energizing a home crowd with a gritty performance that showcased their growing chemistry and postseason ambition."
-description: "The Washington Spirit pulled off a thrilling 2-1 comeback over the North Carolina Courage on June 8, energizing a home crowd with a gritty performance that"
 ---
 In a high-stakes NWSL matchup on June 8, the Washington Spirit delivered a gutsy 2-1 win over the North Carolina Courage at Audi Field, rallying from behind to secure three crucial points in the playoff race.
 

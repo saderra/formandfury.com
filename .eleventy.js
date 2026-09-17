@@ -120,6 +120,9 @@ module.exports = async function (eleventyConfig) {
   });
 
 
+  // Returns a shallow copy of an object with one extra key (used to add optional JSON-LD fields).
+  eleventyConfig.addFilter("setAttribute", (obj, key, value) => ({ ...obj, [key]: value }));
+
   // SHORTCODES
   eleventyConfig.addShortcode('version', function () { return now  })
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);

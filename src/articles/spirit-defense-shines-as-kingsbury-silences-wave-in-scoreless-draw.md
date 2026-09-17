@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/spirit-defense-shines-as-kingsbury-silences-wave-in-scoreless-draw.jpg"
 imageCredit: "NWSL 2025: San Diego Wave FC hosts Washington Spirit at SnapDragon Stadium"
 summary: "Washington Spirit leaned on a heroic performance from goalkeeper Aubrey Kingsbury to escape Snapdragon Stadium with a gritty 0–0 draw against San Diego Wave FC, capping the first half of the NWSL season on a defensive high note."
-description: "Washington Spirit leaned on a heroic performance from goalkeeper Aubrey Kingsbury to escape Snapdragon Stadium with a gritty 0–0 draw against San Diego Wav"
 ---
 In a matchup between two playoff-caliber squads, the Washington Spirit and San Diego Wave FC battled to a scoreless draw Sunday night at Snapdragon Stadium. The result marked the fourth consecutive draw between the sides and showcased just how evenly matched they’ve become over the past year.
 

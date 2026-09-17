@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/mercury-outlast-sky-in-defensive-battle-on-august-3.jpg"
 imageCredit: "CHICAGO, IL – AUGUST 03: Kamilla Cardoso #10 of the Chicago Sky grabs a rebound during the first half against the Phoenix Mercury on August 3, 2025 at Wintrust Arena in Chicago, Illinois. (Photo by Melissa Tamez/Icon Sportswire)"
 summary: "The Phoenix Mercury secured a gritty road win against the Chicago Sky, leaning on veteran leadership and timely shooting in a low-scoring affair that showcased playoff-level intensity."
-description: "The Phoenix Mercury secured a gritty road win against the Chicago Sky, leaning on veteran leadership and timely shooting in a low-scoring affair that showc"
 ---
 In a tightly contested matchup on August 3, the Phoenix Mercury edged past the Chicago Sky with a 74-68 victory at Wintrust Arena. The game was a defensive showdown from the opening tip, with both teams struggling to find offensive rhythm in the first half. Phoenix leaned heavily on their experience and clutch playmaking down the stretch to seal the win.
 

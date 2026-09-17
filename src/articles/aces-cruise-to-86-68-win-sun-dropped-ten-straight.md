@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/aces-cruise-to-86-68-win-sun-dropped-ten-straight.jpg"
 imageCredit: "UNCASVILLE, CT – JULY 06: Las Vegas Aces center A’ja Wilson (22) shoots a layup during a WNBA game between the Las Vegas Aces and the Connecticut Sun on July 6, 2025, at Mohegan Sun Arena in Uncasville, CT. (Photo by Erica Denhoff/Icon Sportswire)"
 summary: "Las Vegas dominated from tip‑off, led by A’ja Wilson’s 19 points and a season‑high 18 from Dana Evans, while Chelsea Gray climbed the franchise assists leaderboard. For Connecticut, Tina Charles battled through injury and rookie Leïla Lacan made her debut, but the Sun remain winless in ten games."
-description: "Las Vegas dominated from tip‑off, led by A’ja Wilson’s 19 points and a season‑high 18 from Dana Evans, while Chelsea Gray climbed the franchise assists lea"
 ---
 In their July 6 matchup at Mohegan Sun Arena, the Las Vegas Aces controlled the pace from start to finish, defeating the Connecticut Sun 86–68. The Aces never trailed, seizing an early lead and maintaining it with clinical execution on both ends of the court. It was Las Vegas’ seventh consecutive win over the Sun and brought their record back to .500 at 9–9. Meanwhile, Connecticut’s slide continued, dropping their tenth straight game and falling to 2–16 on the season.
 

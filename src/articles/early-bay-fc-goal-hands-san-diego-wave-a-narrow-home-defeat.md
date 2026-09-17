@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/early-bay-fc-goal-hands-san-diego-wave-a-narrow-home-defeat.jpg"
 imageCredit: "Miguel Mota"
 summary: "San Diego Wave FC pushed for an answer after Racheal Kundananji’s fifth-minute strike, but Bay FC goalkeeper Jordan Silkowitz helped make the early lead stand in a 1-0 result at Snapdragon Stadium."
-description: "San Diego Wave FC pushed for an answer after Racheal Kundananji’s fifth-minute strike, but Bay FC goalkeeper Jordan Silkowitz helped make the early lead st"
 ---
 San Diego Wave FC spent most of Sunday night chasing a match that tilted almost immediately, falling 1-0 to Bay FC at Snapdragon Stadium after an early breakthrough proved decisive.
 

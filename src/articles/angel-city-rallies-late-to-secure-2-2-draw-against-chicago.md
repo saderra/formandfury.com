@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/angel-city-rallies-late-to-secure-2-2-draw-against-chicago.jpg"
 imageCredit: "NWSL 2025: Angel City FC hosts Chicago Stars FC for Pride Night at BMO Stadium Los Angeles. Photo Credit: Corinne Votaw"
 summary: "Angel City FC clawed their way back from a second-half deficit to earn a hard-fought 2–2 draw against the Chicago Red Stars on Friday night at BMO Stadium. Goals from Kennedy Fuller and M.A. Vignola kept the home side in contention, as new head coach Alexander Straus saw his team show resilience in front of a passionate Los Angeles crowd."
-description: "Angel City FC clawed their way back from a second-half deficit to earn a hard-fought 2–2 draw against the Chicago Red Stars on Friday night at BMO Stadium."
 ---
 Angel City FC returned home Friday night with determination and energy, looking to make a statement under new head coach Alexander Straus. They opened the scoring in the 29th minute thanks to a composed finish by Kennedy Fuller, who capitalized on a well-timed pass to slot home her second goal of the season.
 

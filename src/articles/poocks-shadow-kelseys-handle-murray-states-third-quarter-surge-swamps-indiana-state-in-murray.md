@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/poocks-shadow-kelseys-handle-murray-states-third-quarter-surge-swamps-indiana-state-in-murray.jpg"
 imageCredit: "Murray, KY, USA. 26th Feb, 2026. Stephen Furst/CSM/Alamy Live News"
 summary: "In a Missouri Valley Conference matchup at the CFSB Center on Feb. 26, Tierney Kelsey tried to steady Indiana State’s offense with Halli Poock draped over her hip—only for Murray State’s avalanche third quarter to turn a tense guard battle into a runaway."
-description: "In a Missouri Valley Conference matchup at the CFSB Center on Feb. 26, Tierney Kelsey tried to steady Indiana State’s offense with Halli Poock draped over "
 ---
 The scene in Murray, Kentucky, had all the ingredients of a classic conference night: a loud lower bowl, a quick whistle, and two guards with the kind of competitive edge that shows up in every closeout and every change of direction. Indiana State’s Tierney Kelsey carried the ball with purpose, while Murray State’s Halli Poock met her early—hands active, stance low, eyes locked on the dribble.
 

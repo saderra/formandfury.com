@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/osaka-survives-stylish-spirited-ruzic-test-to-advance-at-australian-open.jpg"
 imageCredit: "3DH74GK Melbourne, Australia. 20th Jan, 2026. Osaka Naomi hits a return during the women’s singles 1st round match between Osaka Naomi of Japan and Antonia Ruzic of Croatia at the Australian Open tennis tournament in Melbourne, Australia, Jan. 20, 2026. Credit: Wang Shen/Xinhua/Alamy Live News"
 summary: "Naomi Osaka combined flair and fortitude on January 20, 2026, in Melbourne, battling past Croatia’s Antonia Ruzic 6-3, 3-6, 6-4 in a riveting first-round Australian Open match that blended dramatic fashion with gritty tennis."
-description: "Naomi Osaka combined flair and fortitude on January 20, 2026, in Melbourne, battling past Croatia’s Antonia Ruzic 6-3, 3-6, 6-4 in a riveting first-round A"
 ---
 Naomi Osaka’s return to the Australian Open spotlight at Rod Laver Arena was as theatrical as it was competitive. Before a ball was struck, the former world No. 1 turned heads with a custom “jellyfish”-inspired entrance outfit — complete with a broad-brimmed hat, parasol and ocean-themed accents that she helped design with sponsor Nike — drawing applause and global attention ahead of her clash with Antonia Ruzic.
 

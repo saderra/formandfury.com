@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/bruins-poised-for-statement-performance-in-early-december-clash.jpg"
 imageCredit: "Jason Purisima"
 summary: "UCLA enters its December 8, 2025 matchup seeking momentum and sharper execution as the Bruins aim to solidify their identity heading into the heart of the season."
-description: "UCLA enters its December 8, 2025 matchup seeking momentum and sharper execution as the Bruins aim to solidify their identity heading into the heart of the "
 ---
 UCLA approaches the December 8 contest with renewed focus, having spent the past week recalibrating both tempo and defensive cohesion. Coaches emphasized cleaner half-court execution after inconsistent stretches earlier in the month, hoping the adjustments translate into a more complete performance.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/italian-rider-claims-gold-in-womens-junior-race-at-uec-road-european-championships.jpg"
 imageCredit: "3CRGWDF Loriol Sur Drome, France. 01st Oct, 2025. Swiss Marlen Reusser of Movistar Team and pictured as she crosses the finish line of the 24 km time trial of the Women Elite category at the UEC road European cycling championships, Wednesday 01 October 2025, in Loriol-sur-Drome, France. The European cycling championships Drome-Ardeche takes place from 1 to 5 October, France. BELGA PHOTO DAVID PINTENS Credit: Belga News Agency/Alamy Live News"
 summary: "The Women’s Junior category at the UEC Road European Cycling Championships on Wednesday, October 1, 2025, delivered an exciting battle of speed, tactics, and endurance, with Italy securing the top step of the podium."
-description: "The Women’s Junior category at the UEC Road European Cycling Championships on Wednesday, October 1, 2025, delivered an exciting battle of speed, tactics, a"
 ---
 The race unfolded over a challenging course that tested the young riders with steep climbs and technical descents. Early attacks came from several nations, but the peloton remained largely controlled until the final kilometers. Italy’s leading contender timed her decisive move perfectly, breaking away on the last climb and holding off all challengers to claim the gold medal.
 

@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/sabalenka-sets-the-tone-as-brisbane-international-opens-with-statement-wins.jpg"
 imageCredit: "3DEAAY4 Brisbane, Qld, Australia. 6th Jan, 2026. ARYNA SABALENKA of Belarus plays a forehand during her Women’s Singles round two match against C. Bucsa of Spain at the Brisbane International. Sabalenka won 6:0, 6:1. (Credit Image: © Stephane Thomas/ZUMA Press Wire) EDITORIAL USAGE ONLY! Not for Commercial USAGE!"
 summary: "The Brisbane International roared into life earlier today with commanding performances from the tournament’s top seeds, highlighted by a ruthless season-opening display from world No. 1 Aryna Sabalenka and a dramatic mix of breakthroughs and early exits across both draws."
-description: "The Brisbane International roared into life earlier today with commanding performances from the tournament’s top seeds, highlighted by a ruthless season-op"
 ---
 The 2026 Brisbane International began in emphatic fashion as Aryna Sabalenka wasted little time reminding the field why she sits atop the rankings. The top seed swept past Spain’s Cristina Bucsa 6-0, 6-1 in under an hour, striking the ball cleanly and dictating play from the opening game in a performance that doubled as a warning shot ahead of the Australian Open.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/loreen-bender-helps-drive-germany-u23-past-belgium-u23-in-open.jpg"
 imageCredit: "Bochum, Germany, 6 March 2026 Image Credit: Gabor Baumgarten"
 summary: "Germany U23 found their rhythm in front of home support on 6 March 2026, beating Belgium U23 4-2 in Bochum-Wattenscheid. Loreen Bender did not get on the scoresheet, but her movement, sharp finishing instincts and constant involvement helped set the tone in an aggressive German display."
-description: "Germany U23 found their rhythm in front of home support on 6 March 2026, beating Belgium U23 4-2 in Bochum-Wattenscheid. Loreen Bender did not get on the s"
 ---
 Germany U23 produced an entertaining attacking performance against Belgium U23 on Friday, with Loreen Bender at the heart of much of the early pressure as the hosts claimed a 4-2 victory. In a match that swung back and forth for long stretches, Germany’s forwards kept asking questions, and Bender’s energy in advanced areas gave the home side another edge.
 

@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/racers-title-surge-swallows-sycamores-as-briggs-battles-secrist-in-murray.jpg"
 imageCredit: "Murray, KY, USA. 26th Feb, 2026. (Credit Image: © Stephen Furst/Cal Sport Media). Credit: csm/Alamy Live News"
 summary: "In the CFSB Center on Feb. 26, Murray State’s avalanche third quarter turned a competitive opening into a 115–67 runaway over Indiana State, clinching at least a share of the Missouri Valley Conference regular-season crown as Samiyah Briggs repeatedly attacked the lane against Keslyn Secrist."
-description: "In the CFSB Center on Feb. 26, Murray State’s avalanche third quarter turned a competitive opening into a 115–67 runaway over Indiana State, clinching at l"
 ---
 MURRAY, Ky., USA — The snapshot of the night was Indiana State guard Samiyah Briggs (1) knifing toward the rim with Murray State guard Keslyn Secrist (11) sliding into position, a single possession that captured both the Sycamores’ intent and the Racers’ control in a 115–67 Murray State win on Thursday, Feb. 26.
 

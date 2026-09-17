@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/everton-hold-brighton-in-gritty-goodison-park-clash.jpg"
 imageCredit: "3DHY8XX UK. 23rd Jan, 2026. Everton FC v Brighton FC Barclays Womens Super League GOODISON PARK ENGLAND – January 23rd 2026 Kiko Seike of Brighton during the Barclays Women´s Super League match between Everton FC and Brighton FC at Goodison Park on January 23rd 2026 in Liverpool, England. Credit: ALAN EDWARDS/Alamy Live News"
 summary: "Everton FC and Brighton FC shared the spoils in a hard-fought Barclays Women’s Super League encounter at Goodison Park, as intensity, defensive resolve, and late drama defined a chilly January night on Merseyside."
-description: "Everton FC and Brighton FC shared the spoils in a hard-fought Barclays Women’s Super League encounter at Goodison Park, as intensity, defensive resolve, an"
 ---
 Everton FC welcomed Brighton FC to Goodison Park on January 23rd, 2026, with both sides eager to gain momentum in the Barclays Women’s Super League. Played under the floodlights at England’s iconic venue, the match carried a sense of occasion, with Everton looking to capitalize on home support and Brighton aiming to continue their steady league progress.
 

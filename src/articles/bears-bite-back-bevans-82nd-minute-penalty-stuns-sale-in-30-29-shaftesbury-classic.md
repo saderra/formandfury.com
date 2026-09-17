@@ -7,7 +7,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/bears-bite-back-bevans-82nd-minute-penalty-stuns-sale-in-30-29-shaftesbury-classic.jpg"
 imageCredit: "Erica Jarrell-Searcy on the offence. Photo Credit: Dante Kim"
 summary: "Keira Bevan’s 82nd-minute penalty completed a dramatic Bristol Bears Women comeback over Sale Sharks Women at Shaftesbury Park, sealing a 30–29 win in a match where Sale dominated possession and territory — but Bristol owned the finish."
-description: "Keira Bevan’s 82nd-minute penalty completed a dramatic Bristol Bears Women comeback over Sale Sharks Women at Shaftesbury Park, sealing a 30–29 win in a ma"
 ---
 Bristol Bears Women found their season’s pulse again on Sunday, edging Sale Sharks Women 30–29 at Shaftesbury Park with the very last kick of the match. In a game that never stopped swinging, Keira Bevan held her nerve in the 82nd minute and put Bristol back in the win column the hard way.
 

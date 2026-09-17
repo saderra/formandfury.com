@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/fulwileys-defensive-pressure-meets-whites-determined-drive-in-baton-rouge.jpg"
 imageCredit: "Friday, March 20, 2026 in Baton Rouge, Louisiana. (Photo by Peter G. Forest/Sipa USA) Credit: Sipa USA/Alamy Live News"
 summary: "Jacksonville guard Mychal White attacked the lane with purpose against LSU’s MiLaysia Fulwiley in a high-energy NCAA women’s tournament first-round clash on March 20, 2026, at the Pete Maravich Assembly Center. The moment captured the urgency, speed, and competitive edge that defined a hard-fought postseason battle in Baton Rouge."
-description: "Jacksonville guard Mychal White attacked the lane with purpose against LSU’s MiLaysia Fulwiley in a high-energy NCAA women’s tournament first-round clash o"
 ---
 The opening round of the NCAA women’s basketball tournament brought postseason intensity to Baton Rouge on Friday, March 20, 2026, as the Jacksonville Dolphins faced the LSU Tigers at the Pete Maravich Assembly Center. In one telling second-half sequence, Jacksonville guard Mychal White drove hard to the basket while LSU guard MiLaysia Fulwiley closed in defensively, embodying the pace and pressure of March basketball.
 

@@ -10,7 +10,6 @@ author: "Christine Collins"
 image: "/assets/images/articles/usa-womens-eagles-edge-out-fiji-in-31-24-victory-at-audi-field.jpg"
 imageCredit: "Womens Rugby 2025: USA v. Fiji – Photo Credit: Corinne Joye Votaw"
 summary: "In front of a record-breaking home crowd, the USA Women’s Eagles edged Fiji 31–24 in a gritty final home test before the Rugby World Cup. The match showcased U.S. forward power, late-game composure, and critical defensive stands under intense pressure."
-description: "In front of a record-breaking home crowd, the USA Women’s Eagles edged Fiji 31–24 in a gritty final home test before the Rugby World Cup. The match showcas"
 ---
 On a humid Saturday evening in Washington, D.C., the USA Women’s Eagles held off a competitive late-game rally from Fiji to claim a 31–24 win in their final home test before heading to the Rugby World Cup in England. The match, played in front of a record-breaking home crowd of 15,198 at Audi Field, tested the depth and discipline of a U.S. team still finding its final form.
 

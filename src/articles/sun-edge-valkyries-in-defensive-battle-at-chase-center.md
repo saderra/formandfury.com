@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/sun-edge-valkyries-in-defensive-battle-at-chase-center.jpg"
 imageCredit: "SAN FRANCISCO, CA – AUGUST 11: Golden State Valkyries G/F Kaila Charles (6) works the perimeter in the game between the Connecticut Sun and Golden State Valkyries on August 11, 2025 at Chase Center in San Francisco, CA. (Photo by Larry Placido/Icon Sportswire)"
 summary: "The Connecticut Sun held off a late push from the Golden State Valkyries to claim a narrow road victory on August 11, showcasing their defensive discipline and clutch playmaking in crunch time."
-description: "The Connecticut Sun held off a late push from the Golden State Valkyries to claim a narrow road victory on August 11, showcasing their defensive discipline"
 ---
 The Connecticut Sun and Golden State Valkyries delivered a tightly contested game at Chase Center, with both teams leaning heavily on their defensive strengths. The Sun, who have built their identity around physical play and rebounding, managed to control the pace for most of the night despite Golden State’s energetic crowd.
 

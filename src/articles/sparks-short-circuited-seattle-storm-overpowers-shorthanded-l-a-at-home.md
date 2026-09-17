@@ -8,7 +8,6 @@ categories:
 author: "Form & Fury"
 image: "/assets/images/articles/sparks-short-circuited-seattle-storm-overpowers-shorthanded-l-a-at-home.jpg"
 summary: "The Storm rolled through L.A. on Monday night, handing the Sparks their most lopsided home loss of the season and exposing just how thin things have gotten without Plum and Sims."
-description: "The Storm rolled through L.A. on Monday night, handing the Sparks their most lopsided home loss of the season and exposing just how thin things have gotten"
 ---
 Crypto.com Arena turned into a pressure cooker Monday night, and the L.A. Sparks were the ones steaming. With key guards Kelsey Plum and Odyssey Sims out and rookie Grace Berger thrown into the fire, the Sparks crumbled under a suffocating Seattle defense in a 98–67 defeat that felt even worse than the score.
 

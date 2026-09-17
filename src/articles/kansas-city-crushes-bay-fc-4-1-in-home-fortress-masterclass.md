@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/kansas-city-crushes-bay-fc-4-1-in-home-fortress-masterclass.jpg"
 imageCredit: "KANSAS CITY, MO – MAY 11: KC Current forward Temwa Chawinga (6) celebrates with teammate midfielder Debinha (99) and midfielder Lo’eau LaBonta (10) after scoring a goal during the match between the Kansas City Current and Bay FC on Sunday May 11, 2025 at CPKC Stadium in Kansas City, MO. (Photo by Nick Tre. Smith/Icon Sportswire)"
 summary: "The KC Current returned to their winning ways with a dominant 4–1 victory over Bay FC, powered by Debinha’s brace and Temwa Chawinga’s clinical finish. The win keeps Kansas City unbeaten at home and vaults them back into first place in the NWSL standings."
-description: "The KC Current returned to their winning ways with a dominant 4–1 victory over Bay FC, powered by Debinha’s brace and Temwa Chawinga’s clinical finish. The"
 ---
 KANSAS CITY, MO – MAY 11: The Kansas City Current put on a show in front of a packed house at CPKC Stadium, dominating Bay FC 4–1 in a statement win that underscored their title ambitions and fortified their home-field invincibility.
 

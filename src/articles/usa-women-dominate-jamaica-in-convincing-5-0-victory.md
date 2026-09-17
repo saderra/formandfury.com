@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/usa-women-dominate-jamaica-in-convincing-5-0-victory.jpg"
 imageCredit: "ST. LOUIS, MO – JUNE 03: United States midfielder Olivia Moultrie (13) leaps to avoid Jamaica midfielder Jody Brown (10) who lets the ball roll out of town to get possession during an international friendly where the United States of America hosted Jamaica on Tuesday June 03, 2025, at Energizer Park in St. Louis City, MO. (Photo by Rick Ulreich/Icon Sportswire)"
 summary: "On June 3, the U.S. Women’s National Team delivered a commanding 5-0 win over Jamaica at BMO Stadium in Los Angeles, showcasing their offensive depth and defensive discipline. The match, part of their summer series tune-up, was a statement of intent ahead of upcoming international competitions."
-description: "On June 3, the U.S. Women’s National Team delivered a commanding 5-0 win over Jamaica at BMO Stadium in Los Angeles, showcasing their offensive depth and d"
 ---
 In a commanding display on June 3, the U.S. Women’s National Team cruised to a 5-0 victory over Jamaica at BMO Stadium in Los Angeles. From the opening whistle, the Americans set the tempo, controlling possession and launching relentless attacks that kept the Jamaican defense under pressure for the full 90 minutes.
 

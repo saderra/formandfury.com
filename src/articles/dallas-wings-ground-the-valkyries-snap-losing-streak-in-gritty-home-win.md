@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/dallas-wings-ground-the-valkyries-snap-losing-streak-in-gritty-home-win.jpg"
 imageCredit: "ARLINGTON, TX – JUNE 17: Golden State Valkyries forward Stephanie Talbot (7) drives towards the basket against Dallas Wings guard Arike Ogunbowale (24) during the second quarter of a WNBA game between the Golden State Valkyries and Dallas Wings on Tuesday, June 17, 2025 at College Park Center in Arlington, TX. (Photo by Austin McAfee/Icon Sportswire)"
 summary: "The Dallas Wings finally broke through, snapping a seven-game losing streak with a gritty 80–71 win over the Golden State Valkyries. Led by Paige Bueckers and Arike Ogunbowale, the Wings dominated the fourth quarter and claimed their first home win of the season."
-description: "The Dallas Wings finally broke through, snapping a seven-game losing streak with a gritty 80–71 win over the Golden State Valkyries. Led by Paige Bueckers "
 ---
 The Golden State Valkyries came into Dallas riding a wave of confidence, but they walked away grounded as the Wings snapped their seven-game skid with an 80–71 win on Monday night. It was Dallas’ first home victory of the season—and it came with a statement.
 

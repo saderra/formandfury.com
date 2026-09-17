@@ -7,7 +7,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/wiklund-powers-through-grueling-5000m-at-milano-cortina-2026.jpg"
 imageCredit: "3DP064J Milan, Italy. 12th Feb, 2026. MILAN, ITALY – FEBRUARY 12: Ragne Wiklund of Norway during the 5000m Women of the Milano Cortina 2026 Winter Olympics at the Milano Speed Skating Arena on February 12, 2026 in Milan, Italy (Photo by Andre Weening/Orange Pictures) Credit: Orange Pics BV/Alamy Live News"
 summary: "Norway’s Ragne Wiklund delivers a determined performance in the women’s 5000m at the Milano Speed Skating Arena, showcasing endurance and composure on the Olympic stage."
-description: "Norway’s Ragne Wiklund delivers a determined performance in the women’s 5000m at the Milano Speed Skating Arena, showcasing endurance and composure on the "
 ---
 Norway’s Ragne Wiklund took to the ice at the Milano Speed Skating Arena on February 12, 2026, for the women’s 5000m at the Milano Cortina 2026 Winter Olympics, embracing the pressure of one of speed skating’s most punishing distances. Skating with trademark focus and smooth technique, Wiklund settled quickly into her rhythm, her long strides carving clean arcs into the pristine Olympic ice in Milan.
 

@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/portland-edges-angel-city-in-late-drama-at-bmo-stadium.jpg"
 imageCredit: "ACFC vs Portland Credit: Samantha Rudin"
 summary: "Portland Thorns FC turned a tense road test into a 2-1 win over Angel City FC, with Sophia Wilson’s stoppage-time strike proving decisive before ACFC’s late response came up just short."
-description: "Portland Thorns FC turned a tense road test into a 2-1 win over Angel City FC, with Sophia Wilson’s stoppage-time strike proving decisive before ACFC’s lat"
 ---
 Angel City FC and Portland Thorns FC delivered the kind of late-game tension that defines a growing NWSL rivalry, with Portland leaving Los Angeles with a 2-1 victory after a wild finish at BMO Stadium.
 

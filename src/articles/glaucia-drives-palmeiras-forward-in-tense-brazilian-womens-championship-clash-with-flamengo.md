@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/glaucia-drives-palmeiras-forward-in-tense-brazilian-womens-championship-clash-with-flamengo.jpg"
 imageCredit: "BARUERI – 03/30/2026 Photo: Marco Miatelo/AGIF (Photo by Marco Miatelo/AGIF/Sipa USA)"
 summary: "Glaucia stood at the center of Palmeiras’ attacking intent at Arena Barueri, bringing urgency, movement, and sharp technical quality to a high-energy meeting with Flamengo in the 2026 Brazilian Women’s Championship."
-description: "Glaucia stood at the center of Palmeiras’ attacking intent at Arena Barueri, bringing urgency, movement, and sharp technical quality to a high-energy meeti"
 ---
 Under the lights at Arena Barueri, the meeting between Palmeiras and Flamengo carried the edge expected of two of Brazil’s most recognized women’s clubs. In a match shaped by intensity and ambition, Glaucia emerged as one of Palmeiras’ most visible figures, constantly pushing the tempo and giving the home side a spark in advanced areas.
 

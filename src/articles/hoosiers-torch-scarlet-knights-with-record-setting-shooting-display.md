@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/hoosiers-torch-scarlet-knights-with-record-setting-shooting-display.jpg"
 imageCredit: "BLOOMINGTON, IN – FEBRUARY 06: Indiana Hoosiers guard Lexus Bargesser (1) brings the ball up court during a women’s college basketball game between the Rutgers Scarlet Knights and the Indiana Hoosiers on February 06, 2025 at Simon Skjodt Assembly Hall in Bloomington, IN. (Photo by Jeffrey Brown/Icon Sportswire)"
 summary: "Indiana lit up Assembly Hall with 15 three-pointers in a dominant 81–60 win over Rutgers on February 6, delivering one of their most explosive offensive performances of the season."
-description: "Indiana lit up Assembly Hall with 15 three-pointers in a dominant 81–60 win over Rutgers on February 6, delivering one of their most explosive offensive pe"
 ---
 Indiana brought the fire to Bloomington on February 6, overwhelming Rutgers 81–60 in a game that featured one of the hottest shooting nights in program history. The Hoosiers buried 15 three-pointers—just one shy of their all-time record—and four players scored in double digits, putting on a clinic in offensive efficiency and defensive lockdowns.
 

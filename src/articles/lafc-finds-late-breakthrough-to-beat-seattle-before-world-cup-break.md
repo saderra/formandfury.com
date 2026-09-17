@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/lafc-finds-late-breakthrough-to-beat-seattle-before-world-cup-break.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Timothy Tillman’s 86th-minute winner and Thomas Hasal’s clean sheet lifted LAFC to a 1-0 victory over the Seattle Sounders at BMO Stadium, sending the Black & Gold into the MLS break with renewed momentum."
-description: "Timothy Tillman’s 86th-minute winner and Thomas Hasal’s clean sheet lifted LAFC to a 1-0 victory over the Seattle Sounders at BMO Stadium, sending the Blac"
 ---
 LAFC closed the pre-World Cup portion of its MLS schedule with the kind of result that can reshape a team’s mood in a single night, beating the Seattle Sounders 1-0 on May 24, 2026, at BMO Stadium. In a tight Western Conference matchup defined by patience, pressure, and late drama, the Black & Gold found their breakthrough in the final minutes and protected it through Seattle’s closing push.
 

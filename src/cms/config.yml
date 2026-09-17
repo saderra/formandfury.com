@@ -53,7 +53,7 @@ collections:
       - { label: 'Featured Image', name: 'image', widget: 'image', choose_url: true, required: false }
       - { label: 'Image Credit', name: 'imageCredit', widget: 'string', required: false, hint: "Photographer name, shown as “Image Credit: …” under the featured image" }
       - { label: 'Excerpt', name: 'summary', widget: 'string' }
-      - { label: 'Meta Description', name: 'description', widget: 'string' }
+      - { label: 'Meta Description', name: 'description', widget: 'string', required: false, hint: "Optional. Leave blank to auto-generate a clean ~155-character description from the Excerpt." }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: pages

@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/la-galaxy-and-fc-dallas-settle-for-scoreless-draw-in-carson.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Neither side found the breakthrough at Dignity Health Sports Park as the Galaxy and Dallas battled through 90 minutes before finishing 0-0 on Saturday night."
-description: "Neither side found the breakthrough at Dignity Health Sports Park as the Galaxy and Dallas battled through 90 minutes before finishing 0-0 on Saturday nigh"
 ---
 The LA Galaxy opened August with a hard-earned point, playing FC Dallas to a 0-0 draw on Saturday, August 1, at Dignity Health Sports Park. Both teams produced promising moments, but disciplined defending and a lack of precision in the attacking third kept the match scoreless.
 

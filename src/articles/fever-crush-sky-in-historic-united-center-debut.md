@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/fever-crush-sky-in-historic-united-center-debut.jpg"
 imageCredit: "CHICAGO, IL – JUNE 07: Lexie Hull #10 of the Indiana Fever shoots the ball during the first half against the Chicago Sky on June 7, 2025 at the United Center in Chicago, Illinois. (Photo by Melissa Tamez/Icon Sportswire)"
 summary: "Indiana dominated from start to finish in front of a record-breaking crowd, routing Chicago 79–52 and handing the Sky their lowest point total in over a decade. The game marked the WNBA’s first at the United Center and ended with heartbreak as Chicago’s Courtney Vandersloot suffered a season-ending injury."
-description: "Indiana dominated from start to finish in front of a record-breaking crowd, routing Chicago 79–52 and handing the Sky their lowest point total in over a de"
 ---
 CHICAGO, IL – In a matchup charged with historic energy and devastating outcomes, the Indiana Fever overwhelmed the Chicago Sky 79–52 in front of a record 19,496 fans at the United Center—the largest home crowd in Sky franchise history.
 

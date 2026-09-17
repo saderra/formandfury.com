@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/lafc-rolls-past-real-salt-lake-3-1-behind-son-and-bouanga-at-bmo-stadium.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Son Heung-Min and Denis Bouanga struck in the first half as LAFC defeated Real Salt Lake 3-1 on July 22, extending the Black & Gold’s winning streak and continuing their strong return from the World Cup break."
-description: "Son Heung-Min and Denis Bouanga struck in the first half as LAFC defeated Real Salt Lake 3-1 on July 22, extending the Black & Gold’s winning streak a"
 ---
 LAFC continued its impressive return to Major League Soccer action Wednesday night, defeating Real Salt Lake 3-1 at BMO Stadium on July 22. Playing in front of its home supporters for the first time in nearly two months, Los Angeles delivered another clinical performance to earn its third consecutive league victory and move to 30 points in the Western Conference.
 

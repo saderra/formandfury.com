@@ -9,7 +9,6 @@ image: /assets/images/articles/california-legion-is-what-happens-when-mens-rugby
 imageCredit: Brittany Freer
 summary: Originally, we at Form and Fury chose not to publish this. And by we, I
   mean me. Corinne…
-description: Originally, we at Form and Fury chose not to publish this. And by
   we, I mean me. Corinne…
 ---
 Originally, we at Form and Fury chose not to publish this. And by we, I mean me. Corinne Votaw. Editor of Form and Fury. This is the first opinion piece on Form & Fury. It will not be the last.

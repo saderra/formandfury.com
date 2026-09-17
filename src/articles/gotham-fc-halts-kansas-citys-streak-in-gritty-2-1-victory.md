@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/gotham-fc-halts-kansas-citys-streak-in-gritty-2-1-victory.jpg"
 imageCredit: "HARRISON, NJ – JUNE 07: Nealy Martin #14 of NJ/NY Gotham FC tracks the ball during the first half of the NWSL game against Kansas City Current on June 7, 2025 at Sports Illustrated Stadium in Harrison, New Jersey. (Photo by Rich Graessle/Icon Sportswire)"
 summary: "In a top-of-the-table clash at Red Bull Arena, Gotham FC handed Kansas City Current their first loss of the season, showcasing defensive resilience and clinical finishing in a statement 2-1 win."
-description: "In a top-of-the-table clash at Red Bull Arena, Gotham FC handed Kansas City Current their first loss of the season, showcasing defensive resilience and cli"
 ---
 Gotham FC delivered a commanding performance on Friday night, ending Kansas City Current’s 11-game unbeaten streak with a hard-fought 2-1 win in front of a raucous home crowd. The victory solidified Gotham’s standing as a serious title contender in the NWSL, while exposing rare vulnerabilities in the league leaders.
 

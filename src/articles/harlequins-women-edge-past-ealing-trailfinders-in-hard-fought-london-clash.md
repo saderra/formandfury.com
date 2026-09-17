@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/harlequins-women-edge-past-ealing-trailfinders-in-hard-fought-london-clash.jpg"
 imageCredit: "Dante Kim"
 summary: "Harlequins Women and Ealing Trailfinders delivered a competitive and physical encounter as the Allianz PWR fixture unfolded on January 30, with intensity high from the opening exchanges and little separating the sides throughout."
-description: "Harlequins Women and Ealing Trailfinders delivered a competitive and physical encounter as the Allianz PWR fixture unfolded on January 30, with intensity h"
 ---
 Harlequins Women and Ealing Trailfinders went head-to-head on January 30 in a tightly contested Allianz PWR fixture, producing a match defined by physicality, discipline, and tactical patience. Played at a brisk tempo, the contest reflected the growing competitiveness of the league as both teams looked to assert control early.
 

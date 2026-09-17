@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/pegula-and-rybakina-set-for-australian-open-semifinal-clash-in-melbourne.jpg"
 imageCredit: "3DK1P29 Melbourne, Australia. 29th Jan, 2026. Elena Rybakina hits a return during the women’s singles semifinal match between Jessica Pegula of the United States and Elena Rybakina of Kazakhstan at the Australian Open tennis tournament in Melbourne, Australia, Jan. 29, 2026. Credit: Wang Shen/Xinhua/Alamy Live News"
 summary: "Jessica Pegula and Elena Rybakina meet in a high-stakes Australian Open semifinal on Jan. 29, 2026, with a place in the women’s singles final on the line at Melbourne Park."
-description: "Jessica Pegula and Elena Rybakina meet in a high-stakes Australian Open semifinal on Jan. 29, 2026, with a place in the women’s singles final on the line a"
 ---
 Jessica Pegula of the United States and Elena Rybakina of Kazakhstan are set to square off in a compelling women’s singles semifinal at the Australian Open in Melbourne, Australia, on Jan. 29, 2026. Both players have navigated demanding paths through the draw, showcasing contrasting styles that promise an intriguing contest under the lights at Melbourne Park.
 

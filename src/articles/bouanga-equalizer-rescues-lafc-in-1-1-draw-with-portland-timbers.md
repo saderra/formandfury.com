@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/bouanga-equalizer-rescues-lafc-in-1-1-draw-with-portland-timbers.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Denis Bouanga’s 79th-minute strike ended LAFC’s lengthy MLS scoring drought and secured a 1-1 draw against the Portland Timbers on August 22 at BMO Stadium, where the Black & Gold dominated the chances but repeatedly ran into goalkeeper James Pantemis."
-description: "Denis Bouanga’s 79th-minute strike ended LAFC’s lengthy MLS scoring drought and secured a 1-1 draw against the Portland Timbers on August 22 at BMO Stadium"
 ---
 LAFC returned to BMO Stadium on Saturday, August 22, looking to halt a two-match MLS losing streak, but the Portland Timbers made the task more difficult almost immediately. David Da Costa struck in the fourth minute to give Portland an early advantage before Denis Bouanga finally answered late in the second half, leaving the Western Conference rivals to share the points in a 1-1 draw.
 

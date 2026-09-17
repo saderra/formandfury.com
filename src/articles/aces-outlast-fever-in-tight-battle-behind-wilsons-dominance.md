@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/aces-outlast-fever-in-tight-battle-behind-wilsons-dominance.jpg"
 imageCredit: "INDIANAPOLIS, IN – JULY 24: Las Vegas Aces forward A’ja Wilson (22) drives to the basket against Indiana Fever forward Aliyah Boston (7) on July 24, 2025, at Gainbridge Fieldhouse in Indianapolis, Indiana. (Photo by Brian Spurlock/Icon Sportswire)"
 summary: "On July 24, the Las Vegas Aces narrowly edged the Indiana Fever in a hard-fought contest, thanks to another stellar performance from A’ja Wilson and a late-game defensive stand."
-description: "On July 24, the Las Vegas Aces narrowly edged the Indiana Fever in a hard-fought contest, thanks to another stellar performance from A’ja Wilson and "
 ---
 The Las Vegas Aces continued their winning ways on July 24 with a narrow 88-85 victory over the Indiana Fever at Gainbridge Fieldhouse. In front of a lively Indianapolis crowd, the defending champs leaned on their experience and the unstoppable A’ja Wilson, who once again proved why she’s a front-runner for league MVP. Wilson finished the night with 30 points, 11 rebounds, and 4 blocks, delivering in the clutch as Las Vegas held off a late Indiana surge.
 

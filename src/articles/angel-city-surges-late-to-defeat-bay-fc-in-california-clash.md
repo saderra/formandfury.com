@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/angel-city-surges-late-to-defeat-bay-fc-in-california-clash.jpg"
 imageCredit: "SAN JOSE, CA – MAY 17: NWSL Angel City FC Sarah Gorden (11) defends a shot on goal by Bay FC forward Racheal Kundananji (9) on May 17, 2025, at PayPal Park, in San Jose, CA. (Photo by Ben Warden/Icon Sportswire)"
 summary: "In a dramatic California showdown, Angel City FC mounted a late comeback to defeat Bay FC 3–2 on May 17, showcasing grit, depth, and attacking firepower in a thrilling NWSL matchup at PayPal Park."
-description: "In a dramatic California showdown, Angel City FC mounted a late comeback to defeat Bay FC 3–2 on May 17, showcasing grit, depth, and attacking firepower in"
 ---
 Angel City FC pulled off a stunning comeback on May 17, defeating expansion side Bay FC 3–2 in front of a passionate crowd in San Jose. The match started with early dominance by Bay FC, who capitalized on Angel City’s disjointed defense to take a 2–0 lead by the 30th minute through goals from Racheal Kundananji and Deyna Castellanos.
 

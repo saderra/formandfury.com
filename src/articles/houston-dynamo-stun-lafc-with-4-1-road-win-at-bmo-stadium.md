@@ -10,7 +10,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/houston-dynamo-stun-lafc-with-4-1-road-win-at-bmo-stadium.jpg"
 imageCredit: "Image Credit Samantha Rudin"
 summary: "Jack McGlynn scored twice as Houston Dynamo FC punished LAFC in transition, turning a tight Western Conference meeting into a commanding road victory on May 10, 2026."
-description: "Jack McGlynn scored twice as Houston Dynamo FC punished LAFC in transition, turning a tight Western Conference meeting into a commanding road victory on Ma"
 ---
 Houston Dynamo FC delivered one of its sharpest performances of the 2026 MLS season on Sunday night, beating LAFC 4-1 at BMO Stadium behind a two-goal night from Jack McGlynn and a ruthless second-half surge.
 

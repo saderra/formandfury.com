@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/philippines-hosts-historic-inaugural-fifa-womens-futsal-world-cup-in-pasig-city.jpg"
 imageCredit: "3D7ENAC Pasig City, Philippines. 25th Nov, 2025. Antia Perez (R) of Spain competes against Diana Celis of Colombia during the group B match between Spain and Colombia at the FIFA Futsal Women’s World Cup 2025 in Pasig City, the Philippines, Nov. 25, 2025. Credit: Rouelle Umali/Xinhua/Alamy Live News"
 summary: "The world’s best women’s futsal players converged in Pasig City on November 25, 2025, marking a milestone for both the sport and the Philippines as the nation hosted the first-ever FIFA Women’s Futsal World Cup."
-description: "The world’s best women’s futsal players converged in Pasig City on November 25, 2025, marking a milestone for both the sport and the Philippines as the nat"
 ---
 The inaugural FIFA Women’s Futsal World Cup officially kicked off in Pasig City today, transforming the PhilSports Arena into a global stage for fast-paced, high-skill futsal action. As teams from every confederation arrived with hopes of claiming the sport’s first world title, the atmosphere was charged with anticipation and national pride. For the Philippines, hosting the debut edition of the tournament highlighted its growing significance as a sporting destination in Southeast Asia.
 

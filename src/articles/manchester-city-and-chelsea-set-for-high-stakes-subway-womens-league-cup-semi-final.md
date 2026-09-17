@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/manchester-city-and-chelsea-set-for-high-stakes-subway-womens-league-cup-semi-final.jpg"
 imageCredit: "3DHFDEE Manchester, UK. 21st Jan, 2026. Vivianne Miedema (10 Manchester City) on the ball during the Subway Womens League Cup semi final match between Manchester City and Chelsea at the Joie Stadium in Manchester, England Credit: SPP Sport Press Photo. /Alamy Live News"
 summary: "Manchester City welcome Chelsea to the Joie Stadium on January 21, 2026, with a place in the Subway Women’s League Cup final on the line in what promises to be a tightly contested semi-final between two of English football’s elite."
-description: "Manchester City welcome Chelsea to the Joie Stadium on January 21, 2026, with a place in the Subway Women’s League Cup final on the line in what promises t"
 ---
 Manchester City and Chelsea meet in Manchester on Wednesday night for a Subway Women’s League Cup semi-final that brings together two of the most consistent and competitive sides in the women’s game. With silverware within reach and little separating the teams domestically, the fixture carries both immediate consequence and longer-term momentum as the season progresses.
 

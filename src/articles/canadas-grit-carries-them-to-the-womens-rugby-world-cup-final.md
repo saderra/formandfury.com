@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/canadas-grit-carries-them-to-the-womens-rugby-world-cup-final.jpg"
 imageCredit: "3CPHNY2 A general view of the Canada players as head coach Kevin Rouet (left) looks on during the team run at the Allianz Stadium, London. Canada will face England in the final of the Women’s Rugby World Cup on Saturday. Picture date: Friday September 26, 2025."
 summary: "Against all odds, Canada has surged into the Women’s Rugby World Cup final, toppling giants and overcoming systemic hurdles to set up a historic clash with England at Twickenham."
-description: "Against all odds, Canada has surged into the Women’s Rugby World Cup final, toppling giants and overcoming systemic hurdles to set up a historic clash with"
 ---
 Tomorrow, under the bright lights of Twickenham, Canada will walk onto the field for the Women’s Rugby World Cup final — a stage few outside their locker room believed they’d reach. Facing England, the undisputed favorites, Canada brings not just skill, but a story of perseverance, adversity, and heart.
 

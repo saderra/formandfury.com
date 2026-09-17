@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/clark-shines-boston-dominates-as-fever-edge-sparks-in-tight-battle.jpg"
 imageCredit: "INDIANAPOLIS, IN – JULY 05: Los Angeles Sparks forward Azura Stevens (23) drives between Indiana Fever guard Aari McDonald (2) and Indiana Fever guard Kelsey Mitchell (0) in the second half of play during a WNBA game between the Los Angeles Sparks and the Indiana Fever on July 05, 2025 at Gainbridge Fieldhouse, in Indianapolis, IN. (Photo by Jeffrey Brown/Icon Sportswire)"
 summary: "Rookie phenom Caitlin Clark dazzled with a near triple-double and Aliyah Boston owned the paint as the Indiana Fever outlasted the Los Angeles Sparks 78–73 in a July 5th showdown at Gainbridge Fieldhouse."
-description: "Rookie phenom Caitlin Clark dazzled with a near triple-double and Aliyah Boston owned the paint as the Indiana Fever outlasted the Los Angeles Sparks 78–73"
 ---
 Caitlin Clark continues to electrify the WNBA in her debut season, and Friday night against the Los Angeles Sparks was no exception. The No. 1 overall pick came just shy of a triple-double, finishing with 15 points, 13 assists, and 9 rebounds. Her court vision and command of the offense helped Indiana maintain control for most of the contest, even as the Sparks mounted several runs. Clark’s poise under pressure was a key factor in staving off the visitors late in the fourth quarter.
 

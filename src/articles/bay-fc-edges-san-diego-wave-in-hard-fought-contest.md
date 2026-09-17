@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/bay-fc-edges-san-diego-wave-in-hard-fought-contest.jpg"
 imageCredit: "SAN JOSE, CA – AUGUST 16:Kennedy Wesley #12 of San Diego Wave FC and Racheal Kundananji #9 of Bay FC chase the ball during a NWSL match on August 16, 2025 at PayPal Park in San Jose, CA. (Photo by Matthew Huang/Icon Sportswire)"
 summary: "Bay FC secured a crucial home win over the San Diego Wave on August 16, capitalizing on strong defensive play and timely scoring to earn three points in NWSL action."
-description: "Bay FC secured a crucial home win over the San Diego Wave on August 16, capitalizing on strong defensive play and timely scoring to earn three points in NW"
 ---
 Bay FC and the San Diego Wave delivered an intense matchup at PayPal Park, with both teams battling for possession and field position from the opening whistle. The pace was fast and physical, with each side pressing high and forcing turnovers.
 

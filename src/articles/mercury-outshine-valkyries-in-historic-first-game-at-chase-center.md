@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/mercury-outshine-valkyries-in-historic-first-game-at-chase-center.jpg"
 imageCredit: "SAN FRANCISCO, CA – JULY 14: Phoenix Mercury guard Monique Akoa Makani (8) dribbles the ball against Golden State Valkyries guard Veronica Burton (22) during a WNBA game on July 14, 2025 at the Chase Center in San Francisco, CA. (Photo by Matthew Huang/Icon Sportswire)"
 summary: "In a groundbreaking WNBA matchup on July 14, the Phoenix Mercury handed the Golden State Valkyries a tough home loss in their debut season, showcasing veteran poise and offensive depth at the Chase Center."
-description: "In a groundbreaking WNBA matchup on July 14, the Phoenix Mercury handed the Golden State Valkyries a tough home loss in their debut season, showcasing vete"
 ---
 The Golden State Valkyries took the floor at Chase Center for their first-ever home game on July 14, facing off against the seasoned Phoenix Mercury in what became a night of highs and hard lessons. With a roaring crowd behind them, the Valkyries showed flashes of potential but ultimately fell short, losing 89–77 to a Mercury squad led by star performances from Diana Taurasi and Kahleah Copper.
 

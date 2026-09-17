@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/lafc-cruises-past-el-salvador-3-0-in-international-friendly-at-bmo-stadium.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Goals from Mark Delgado, Jeremy Ebobisse and Ryan Hollingshead powered LAFC to a commanding victory over the El Salvador Men’s National Team during the MLS summer break."
-description: "Goals from Mark Delgado, Jeremy Ebobisse and Ryan Hollingshead powered LAFC to a commanding victory over the El Salvador Men’s National Team during the MLS"
 ---
 LAFC returned to action in convincing fashion Sunday afternoon, defeating the El Salvador Men’s National Team 3-0 in an international friendly at BMO Stadium. The Black & Gold controlled the contest from the opening minutes, using their organization, pressure and attacking quality to earn a comfortable result in front of a lively Los Angeles crowd.
 

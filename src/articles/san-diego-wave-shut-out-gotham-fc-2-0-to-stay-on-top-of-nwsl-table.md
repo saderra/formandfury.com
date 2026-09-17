@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/san-diego-wave-shut-out-gotham-fc-2-0-to-stay-on-top-of-nwsl-table.jpg"
 imageCredit: "Miguel Mota"
 summary: "Melanie Barcenas struck just before halftime and Trinity Byars added a stoppage-time finish as San Diego Wave FC beat Gotham FC, 2-0, at Snapdragon Stadium."
-description: "Melanie Barcenas struck just before halftime and Trinity Byars added a stoppage-time finish as San Diego Wave FC beat Gotham FC, 2-0, at Snapdragon Stadium"
 ---
 SAN DIEGO — San Diego Wave FC returned from the NWSL summer break with a statement, beating Gotham FC, 2-0, on Saturday night at Snapdragon Stadium to maintain its place atop the league table.
 

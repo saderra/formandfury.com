@@ -9,7 +9,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/angel-city-returns-from-break-with-commanding-2-0-victory-over-orlando-pride.jpg"
 imageCredit: "Samantha Rudin"
 summary: "Goals from Maiara Niehues and Sveindís Jónsdóttir powered Angel City FC past the Orlando Pride at BMO Stadium, giving interim head coach Leif Gunnar Smerud a winning debut."
-description: "Goals from Maiara Niehues and Sveindís Jónsdóttir powered Angel City FC past the Orlando Pride at BMO Stadium, giving interim head coach Leif Gunnar Smerud"
 ---
 Angel City FC returned to NWSL competition in impressive fashion Friday night, defeating the Orlando Pride 2-0 at BMO Stadium. Playing its first match in more than a month, Angel City showed little rust as it controlled the early proceedings, created the better chances and earned a clean sheet against one of the league’s most dangerous attacking teams.
 

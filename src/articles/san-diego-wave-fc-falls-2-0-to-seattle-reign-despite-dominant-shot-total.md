@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/san-diego-wave-fc-falls-2-0-to-seattle-reign-despite-dominant-shot-total.jpg"
 imageCredit: "Miguel Mota"
 summary: "San Diego Wave FC controlled possession and produced a season-high 22 shots, but two Seattle Reign goals in a three-minute span and an eight-save performance from Claudia Dickey handed the Wave a 2-0 loss at Snapdragon Stadium."
-description: "San Diego Wave FC controlled possession and produced a season-high 22 shots, but two Seattle Reign goals in a three-minute span and an eight-save performan"
 ---
 San Diego Wave FC could not turn sustained attacking pressure into goals Sunday afternoon, falling 2-0 to Seattle Reign FC on July 26 at Snapdragon Stadium. The defeat dropped San Diego to 9-6-2 with 29 points, while Seattle improved to 6-7-2 after taking advantage of two early opportunities that ultimately decided the match.
 

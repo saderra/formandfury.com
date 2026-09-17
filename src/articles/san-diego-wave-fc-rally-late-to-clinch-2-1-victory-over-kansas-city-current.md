@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/san-diego-wave-fc-rally-late-to-clinch-2-1-victory-over-kansas-city-current.jpg"
 imageCredit: "Tommy Dodd"
 summary: "In a hard-fought match on March 22, 2025, San Diego Wave FC edged past Kansas City Current 2–1 with a dramatic second-half comeback, highlighting the team’s growing resilience early in the NWSL season."
-description: "In a hard-fought match on March 22, 2025, San Diego Wave FC edged past Kansas City Current 2–1 with a dramatic second-half comeback, highlighting the team’"
 ---
 San Diego Wave FC returned to Snapdragon Stadium on Saturday night and treated their home fans to a thrilling performance against a formidable Kansas City Current squad. With both teams entering the match unbeaten, the clash promised fireworks—and delivered.
 

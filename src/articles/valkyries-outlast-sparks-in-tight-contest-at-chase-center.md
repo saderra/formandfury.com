@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/valkyries-outlast-sparks-in-tight-contest-at-chase-center.jpg"
 imageCredit: "SAN FRANCISCO, CA – AUGUST 09: Golden State Valkyries F Cecilia Zandalasini (24) drives to the paint in the game between the Los Angeles Sparks and the Golden State Valkyries on August 9, 2025 at Chase Center in San Francisco, CA. (Photo by Larry Placido/Icon Sportswire)"
 summary: "The Golden State Valkyries held off a late push from the Los Angeles Sparks to secure a narrow victory on August 9, thrilling their home crowd in San Francisco."
-description: "The Golden State Valkyries held off a late push from the Los Angeles Sparks to secure a narrow victory on August 9, thrilling their home crowd in San Franc"
 ---
 The Golden State Valkyries and Los Angeles Sparks faced off in a competitive matchup at Chase Center, where both teams battled for momentum throughout the night. The energy inside the arena reflected the intensity on the floor as neither side allowed the other to pull away comfortably.
 

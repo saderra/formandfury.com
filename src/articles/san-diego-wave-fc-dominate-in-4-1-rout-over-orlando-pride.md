@@ -8,7 +8,6 @@ author: "Form & Fury"
 image: "/assets/images/articles/san-diego-wave-fc-dominate-in-4-1-rout-over-orlando-pride.jpg"
 imageCredit: "Tommy Dodd"
 summary: "On May 25, 2025, San Diego Wave FC delivered a commanding 4–1 victory over the Orlando Pride, showcasing a potent offensive front and cohesive teamwork that reaffirmed their standing as title contenders."
-description: "On May 25, 2025, San Diego Wave FC delivered a commanding 4–1 victory over the Orlando Pride, showcasing a potent offensive front and cohesive teamwork tha"
 ---
 San Diego Wave FC returned to Snapdragon Stadium with fire in their boots, taking early control of the match against Orlando Pride. Right from the opening whistle, the Wave dictated the pace and demonstrated aggressive ball movement that left Orlando scrambling to adjust.
 

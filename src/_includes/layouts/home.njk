@@ -3,9 +3,9 @@
 
 {% set latest = collections.articles | reverse %}
 {% set heroPosts = latest.slice(0, 5) %}
-{% set featured = latest[0] %}
-{% set listNext = latest.slice(1, 5) %}
-{% set gridNext = latest.slice(5, 14) %}
+{% set featured = latest[5] %}
+{% set listNext = latest.slice(6, 10) %}
+{% set gridNext = latest.slice(10, 19) %}
 
 {% include "components/home/hero.njk" %}
 

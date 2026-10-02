@@ -29,6 +29,7 @@ module.exports = {
 			sans: ['Manrope', 'ui-sans-serif', 'system-ui', 'sans-serif'],
 			heading: ['"Fraunces"', 'ui-serif', 'Georgia', 'serif'],
 			serif: ['"Fraunces"', 'ui-serif', 'Georgia', 'serif'],
+			nav: ['"Barlow Condensed"', '"Arial Narrow"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
 		},
       	colors: {
 			brand: {

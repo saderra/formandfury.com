@@ -1,0 +1,11 @@
+# Build command and publish directory are configured in the Netlify UI.
+
+# Persist @11ty/eleventy-img's output between builds. Netlify starts every
+# build with an empty _site, so without this every image is re-encoded on
+# every deploy; with it, only new or changed images are processed
+# (eleventy-img skips any output file that already exists on disk).
+[[plugins]]
+  package = "netlify-plugin-cache"
+
+  [plugins.inputs]
+    paths = ["_site/assets/images/optimized"]

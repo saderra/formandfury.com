@@ -20,6 +20,9 @@ export async function getImageMetadata(src, widths) {
     urlPath: "/assets/images/optimized/",
     sharpJpegOptions: { quality: 80 },
     sharpWebpOptions: { quality: 80 },
-    sharpAvifOptions: { quality: 60 },
+    // AVIF at sharp's default effort (4) dominated build time and pushed
+    // Netlify past its build timeout; effort 2 encodes ~8x faster for ~6%
+    // larger files (still smaller than the WebP equivalents).
+    sharpAvifOptions: { quality: 60, effort: 2 },
   });
 }

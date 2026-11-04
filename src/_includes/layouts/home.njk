@@ -37,6 +37,10 @@
         </div>
     </div>
 
+    {% set promoWide = true %}
+    {% set promoClass = "mt-20" %}
+    {% include "components/promo/provider-card.njk" %}
+
     <h2 class="font-heading italic text-4xl mt-20 mb-10">Latest Stories</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-14">
         {% for post in gridNext %}

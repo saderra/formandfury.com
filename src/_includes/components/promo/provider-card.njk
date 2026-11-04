@@ -1,0 +1,17 @@
+{#
+  Promo card for Dr. Corinne Votaw's practice (same box as untilhesgone.com).
+  Set before including:
+    promoWide  - true lays the copy and button side by side from md up
+    promoClass - extra classes for the outer element (usually spacing)
+  Include at most once per page: the heading id must stay unique.
+  data-pagefind-ignore keeps the ad copy out of on-site search results.
+  Keep the visible "Ad" label and rel="sponsored": this is an ad on a news site.
+#}
+<aside aria-labelledby="provider-promo-heading" data-pagefind-ignore class="rounded-lg bg-brand p-6 md:p-8 {% if promoWide %}md:flex md:items-center md:justify-between md:gap-12{% endif %} {{ promoClass }}">
+    <div>
+        <p class="font-nav text-sm uppercase tracking-widest text-brand-border pb-2">Ad &middot; Mental Health Provider</p>
+        <h2 id="provider-promo-heading" class="font-nav text-3xl md:text-4xl uppercase tracking-wide leading-tight text-ivory pb-3">Dr. Corinne Votaw, PsyD</h2>
+        <p class="text-base leading-relaxed text-brand-light {% if promoWide %}md:max-w-2xl{% endif %}">Clinical psychologist and therapist in Orange County, CA, and online in 45+ states. Therapy for anxiety, depression, burnout, and trauma, plus ADHD and autism testing.</p>
+    </div>
+    <a href="https://corinnevotaw.com/" rel="sponsored" class="mt-6 {% if promoWide %}md:mt-0 md:flex-shrink-0{% endif %} inline-block rounded bg-ivory px-4 sm:px-6 py-3 text-center font-nav text-base sm:text-lg uppercase tracking-wide text-brand transition-colors hover:bg-brand-border focus:outline-none focus-visible:ring-2 focus-visible:ring-ivory focus-visible:ring-offset-2 focus-visible:ring-offset-brand">Visit Psychologist Dr. Corinne Votaw &raquo;</a>
+</aside>

@@ -2,6 +2,10 @@
 
 <div class="col-span-12 lg:col-span-4 mt-16 lg:mt-0" id="sidebar">
 
+    {% set promoWide = false %}
+    {% set promoClass = "mb-12" %}
+    {% include "components/promo/provider-card.njk" %}
+
     <div>
         <h2 class="{{ sbheader }}">Recent Posts</h2>
         <ol class="space-y-6">

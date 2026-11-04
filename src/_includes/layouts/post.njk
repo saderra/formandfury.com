@@ -64,6 +64,10 @@
         {% set psClass = "mt-8" %}
         {% include "components/google-preferred-source.njk" %}
 
+        {% set promoWide = true %}
+        {% set promoClass = "mt-10" %}
+        {% include "components/promo/provider-card.njk" %}
+
         {% set prevPost = page.url | previousArticle(collections.articles) %}
         {% if prevPost %}
         <a href="{{ prevPost.url }}" class="flex gap-5 items-center mt-8 p-5 border border-line rounded-lg hover:border-accent transition-colors">
